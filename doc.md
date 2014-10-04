@@ -38,7 +38,7 @@ PI/GROUP THAT ORIGINALLY REQUESTED SOFTWARE
 
 ## category
 
-bio|chem|dev|eng|geo|hpc|num|phys|stat|util|viz
+COMMA-SEPERATED LIST OF RELEVANT CATEGORIES (bio|chem|dev|eng|geo|hpc|lib|num|phys|stat|util|viz)
 
 
 ## deps
@@ -48,7 +48,7 @@ AUTO GENERATED LIST OF MODULE DEPENDENCIES
 
 ## tags
 
-LIST|DESCRIPTIVE|TAG|WORDS
+COMMA-SEPERATED LIST OF DESCRIPTIVE TAG WORDS
 
 
 ## url
