@@ -5,7 +5,7 @@ We'd like to ...
 * gather basic info for our existing modules
 * establish a convention for specifying this info as part of the module build
   process
-* using this info to auto-generate our sphinx-based module documentation
+* use this info to auto-generate our sphinx-based module documentation
 
 The first item is a nascent student project.
 

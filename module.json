@@ -7,7 +7,7 @@
   "compiler": "compiler dependency (if any)",
   "installed": "date of install",
   "requestor": "PI/group that originally requested the software",
-  "category": "bio|chem|dev|eng|geo|hpc|math|phy|stat|viz",
+  "category": ["bio|chem|dev|eng|geo|hpc|num|phys|stat|util|viz"],
   "tags": ["list", "descriptive", "tag", "words"],
   "deps": [<auto generated list of dependencies>],
   "url": "url for software vendor, repo, or download site",

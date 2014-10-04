@@ -38,7 +38,7 @@ PI/GROUP THAT ORIGINALLY REQUESTED SOFTWARE
 
 ## category
 
-bio|chem|dev|eng|geo|hpc|math|phy|stat|viz
+bio|chem|dev|eng|geo|hpc|num|phys|stat|util|viz
 
 
 ## deps
