@@ -1,0 +1,17 @@
+{
+  "name": "descriptive name of software library or package",
+  "desc": "one line description of software functionality",
+  "module": "short name of module used when loading into env",
+  "version": "version number of module",
+  "license": "commercial|opensource",
+  "compiler": "compiler dependency (if any)",
+  "installed": "date of install",
+  "requestor": "PI/group that originally requested the software",
+  "category": "bio|chem|dev|eng|geo|hpc|math|phy|stat|viz",
+  "tags": ["list", "descriptive", "tag", "words"],
+  "deps": [<auto generated list of dependencies>],
+  "url": "url for software vendor, repo, or download site",
+  "doc": "url for primary doc site",
+  "usage": "brief usage examples",
+  "notes": "additional notes and extended examples"
+}
