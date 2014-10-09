@@ -1,0 +1,25 @@
+astrophysics: salt2,gadget,pluto,ramses,snana,cosmomc,fits,art,emcee
+climate: ccsm,cdo,eigenstraat,gcm
+compilers: intel,gnu,gcc,cmake,intel,fortran,gmake,pgi
+data: hdf5,netcdf,ncl,nco,hadoop,globus,cp,curl,du,gzip,mv,rm,rsync,scp,sftp,svn,tar,teem
+database: postgres,mysql,postgresql,sql
+fluid dynamics: openfoam
+general programming: java,jruby,julia,maven,mpi,openmp,openmpi,python,ruby,pascal,boost,cctools,csim,perl,swift,command-line tools,debugger,custom
+genetics: beagle,mrbayes,raxml,fasttree,beast
+genomics: bioconductor,blast,bowtie,bwa,cufflinks,plink,phlawd,tophat,samtools,gatk,trinity,raptor,idba_ud
+geography: grass
+high energy physics: geant4,madgraph,hoomd,root,cernlib,camb
+interactive: tail,nx,bash,csh,emacs,gedit,grep,icewm,ksh,mosh,nx,roxterm,screen,sh,slurm,ssh,tclsh,tmux,top,vim,vnc,zsh
+image processing: cfitsio,gnuplot,imagemagick,xmgrace
+machine learning: scikit-learn,scikits-learn
+medicine: freesurfer,nonmem,
+microbiology: qiime
+molecular dynamics: amber,atsas,charmm,copernicus,cp2k,cpmd,desmond,gaussian,gromacs,lammps,namd,plumed,qchem,biosaxs,vmd
+natural language processing: gate
+neuroscience: eeglab,erplab,spm,cartool,fsl,afni,pycelegans
+numerical analysis: fftw,gams,knitro,cplex,ampl,xmgrace,gnuplot,ipopt
+population: migrate-n,ramses
+proteins: 3spn.2
+python numerical libraries: maplotlib,scipy,numpy,healpy,theano
+statistics: matlab,octave,stata,r,R,rstudio,mathematica,sas
+visualization: idl,paraview,visualization
