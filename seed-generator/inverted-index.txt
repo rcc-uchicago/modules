@@ -20,6 +20,6 @@ nlp|natural language processing: gate
 num|numerical analysis: fftw,gams,knitro,cplex,ampl,xmgrace,gnuplot,ipopt
 |population: migrate-n,ramses
 chem|proteins: 3spn.2
-num,lib|python,numeric,library: maplotlib,scipy,numpy,healpy,theano
+num,lib|python,numeric,library: matplotlib,scipy,numpy,healpy,theano
 stat|statistics: matlab,octave,stata,r,R,rstudio,mathematica,sas
 viz|visualization: idl,paraview,visualization
