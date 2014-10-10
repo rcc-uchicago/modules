@@ -38,7 +38,7 @@ PI/GROUP THAT ORIGINALLY REQUESTED SOFTWARE
 
 ## category
 
-COMMA-SEPERATED LIST OF RELEVANT CATEGORIES (bio|chem|dev|eng|geo|hpc|lib|num|phys|stat|util|viz)
+COMMA-SEPERATED LIST OF RELEVANT CATEGORIES (bio|chem|dev|eng|geo|hpc|lib|nlp|num|phys|stat|util|viz)
 
 
 ## deps
