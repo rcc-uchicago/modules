@@ -1,25 +1,11 @@
-phys|astrophysics: salt2,gadget,pluto,ramses,snana,cosmomc,fits,art,emcee
-phys|climate: ccsm,cdo,eigenstraat,gcm
-dev|compilers: intel,gnu,gcc,cmake,intel,fortran,gmake,pgi
-dev|data: hdf5,netcdf,ncl,nco,hadoop,globus,cp,curl,du,gzip,mv,rm,rsync,scp,sftp,svn,tar,teem
-dev|database: postgres,mysql,postgresql,sql
-eng,chem|fluid dynamics: openfoam
-dev|programming: java,jruby,julia,maven,mpi,openmp,openmpi,python,ruby,pascal,boost,cctools,csim,perl,swift,command-line tools,debugger,custom
-bio|genetics: beagle,mrbayes,raxml,fasttree,beast
-bio|genomics: bioconductor,blast,bowtie,bwa,cufflinks,plink,phlawd,tophat,samtools,gatk,trinity,raptor,idba_ud
-geo|geography: grass
-phys|high energy physics: geant4,madgraph,hoomd,root,cernlib,camb
-util|interactive: tail,nx,bash,csh,emacs,gedit,grep,icewm,ksh,mosh,nx,roxterm,screen,sh,slurm,ssh,tclsh,tmux,top,vim,vnc,zsh
-viz|image processing: cfitsio,gnuplot,imagemagick,xmgrace
-dev|machine learning: scikit-learn,scikits-learn
-bio|medicine: freesurfer,nonmem,
-bio|microbiology: qiime
-bio,eng,chem|molecular dynamics: amber,atsas,charmm,copernicus,cp2k,cpmd,desmond,gaussian,gromacs,lammps,namd,plumed,qchem,biosaxs,vmd
-nlp|natural language processing: gate
-|neuroscience: eeglab,erplab,spm,cartool,fsl,afni,pycelegans
-num|numerical analysis: fftw,gams,knitro,cplex,ampl,xmgrace,gnuplot,ipopt
-|population: migrate-n,ramses
-chem|proteins: 3spn.2
-num,lib|python,numeric,library: matplotlib,scipy,numpy,healpy,theano
-stat|statistics: matlab,octave,stata,r,R,rstudio,mathematica,sas
-viz|visualization: idl,paraview,visualization
+bio|biology:beagle,mrbayes,raxml,beast,blastplus,qiime,migrate-n,ramses
+phys|climate:ccsm,cdo
+dev|data:hdf5,netcdf,ncl_ncarg,nco,hadoop,postgresql,teem
+dev|development:intel,gcc,cmake,pgi,java,maven,openmpi,python,ruby,freeascal,boost,cctools,swift,matlab,octave,stata,R,mathematica
+eng,phys|fluiddynamics:openfoam
+geo|geography:grass
+phys|high energy physics:hoomd,ROOT,cernlib,camb
+bio,chem,eng,phys|moleculardynamics:amber,cp2k,cpmd,gaussian,gromacs,lammps,namd,qchem
+bio|neuroscience:spm,freesurfer,fsl,afni,pycelegans
+num|numerical programming:fftw,knitro,ipopt
+viz|visualization:paraview,vmd,cfitsio,gnuplot
