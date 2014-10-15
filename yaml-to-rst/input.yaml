@@ -13,8 +13,11 @@ usage: >
     compiler's search paths; you should be able to compile without specifying 
     the path manually.
 
+
     Example:
-    .. code:: c
+
+
+    .. code-block:: c
 
       #include <stdlib.h>
       #include <stdio.h>
@@ -34,7 +37,7 @@ usage: >
         return 0;
       }
 
-    .. code:: bash
+    .. code-block:: bash
       
       module load fftw3/3.3
       icc source.c -lfftw3 -lm
@@ -43,7 +46,8 @@ usage: >
     In cases where a program's configuration requires you to specify the path,
     the environment variable `FFTW3_DIR` can be used.
 
-    .. code:: bash
+
+    .. code-block:: bash
 
       module load fftw3/3.3
       ./configure --with-fftw=$FFW3_DIR

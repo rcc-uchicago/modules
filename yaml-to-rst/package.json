@@ -1,0 +1,19 @@
+{
+  "name": "yaml-to-rst",
+  "version": "0.0.0",
+  "description": "convert yaml files to rst format",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yaml",
+    "rst",
+    "convert"
+  ],
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "js-yaml": "~3.2.2"
+  }
+}

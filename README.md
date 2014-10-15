@@ -9,7 +9,18 @@ We'd like to ...
 
 The first item is [a nascent student project](https://github.com/rcc-uchicago/docs/blob/master/student-projects/modules.md).
 
-The second item is likely to consist of a yaml file (see [`module.yaml`](module.yaml)) that gets included in each software package's build folder under `pubsw/software/build`.
+The second item is likely to consist of a [yaml](http://en.wikipedia.org/wiki/YAML) file (see [`info.yaml`](info.yaml)) that gets included in each software package's build folder under `pubsw/software/build`.
+
+
+## Utilities
+
+Note the two proof-of-concept utility scripts:
+
+* `seed-generator/parse.py` - parses an [inverted-index of
+  modules](seed-generator/inverted-index.txt) organized by category and
+  generates an `info.yaml` seed files for each of the categorized modules
+* `yaml-to-rst/convert.js` - converts a module's `info.yaml` file into
+  a restructuredtext format
 
 
 ## Reference
