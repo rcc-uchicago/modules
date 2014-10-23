@@ -32,9 +32,11 @@ groups of related modules.
 Below are a few commonly applicable tag words:
 
 * astrophysics
+* build tools
 * climate
 * compilers
 * database
+* debugging
 * fluid dynamics
 * general programming
 * genetics
@@ -50,8 +52,10 @@ Below are a few commonly applicable tag words:
 * natural language processing
 * neuroscience
 * numerical analysis
+* optimization
 * population
 * proteins
+* programming languages
 * python numerical libraries
 * statistics
 * visualization
