@@ -7,7 +7,6 @@ This is the proposed list of general categories for classifying modules.
 * `data` - I/O and data processing tools
 * `dev` - development tools (programming/scripting languages, debugging,
   optimization stuff)
-* `eng` - engineering 
 * `geo` - geology, geography, geophysics
 * `hpc` - high performance computing
 * `lib` - software libraries

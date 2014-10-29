@@ -1,0 +1,14 @@
+bio	afni, artisynth, beagle, beast, blastplus, exabayes, examl, freesurfer, fsl, g_mmpbsa, gromacs, gromacs-plumed, qiime, migrate-n, mpiblast, mrbayes, namd, picrust, qiime, rapsearch, raxml, treepl, vmd
+chem	apbs, cpmd, gamess, hoomd, lammps, libint, openbabel, openmm
+data	cluto, gdbm, hadoop, hadoop-rdma, hdf5, jasper, leveldb, libspatialite, postgresql, openmpi, mvapich2, mpi4py, pdtoolkit, proot, protobuf, qd, qwt, sparsehash, weka
+dev	intel, gcc, cmake, pgi, java, maven, python, ruby, freepascal, cctools, matlab, octave, R, mathematica, amdappsdk, ant, antlr, autoconf, automake, bats, caffe, cmake, ddd, freepascal, gcc, ghc, gflags, java, jruby, maven, clang, hpctoolkit, hpcviewer, git, mercurial, mono, nco, node, perl, pypy, python, qt, R, rstudio, ruby, smlnj, snack, swift, tcllib
+eng	opencv, openfoam, papi
+geo	cdo, gdal, geos, grads, grass, pism, proj, qgis
+hpc	swift, cuda, openmpi, mvapich2, intelmpi
+lib	boost, cfitsio, libtool, ccfits, glog, hdf5, netcdf, spatialindex
+nlp	libassp, mallet, praat, stanford-nlp, word2vec
+num	fftw2, fftw3, knitro, ipopt, armadillo, cgal, graph-tool, gsl, ipopt, healpix, mumps, octave, openblas, petsc, sdpa, sdpa-dd, sdpa-gmp, sdpa-qd, SuiteSparse, usearch
+phys	cernlib, clhep, fermi-fssc, Minuit2, ROOT
+stat	stata, prism, spm
+util	firefox, bino, cnvgrib, coreutils, dicom3tools, doxygen, gedit, grib_api, mosh, mplayer, mpg123, ffmpeg, parallel, subversion, texinfo, texlive, tree, udunits, unrar, vim, wgrib2, yaz
+viz	paraview, vmd, gnuplot, blender, cp2k, cytoscape, fiji, gephi, grace, graphviz, ifrit, j3d, ncl_ncarg, ncview, paraview, povray, teem, visit, vtk
