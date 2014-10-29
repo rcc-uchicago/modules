@@ -1,776 +1,212 @@
-abaqus:
-6.13
-
-afni:
-latest
-
-amber:
-12
-14
-
-amdappsdk:
-2.7
-
-amira:
-5.4.5
-5.5.0
-
-ant:
-1.8.4
-
-antlr:
-2.7
-
-apbs:
-1.3
-1.4
-
-armadillo:
-3.4
-
-artisynth:
-2.8
-2.9
-3.1
-
-autoconf:
-2.68
-
-automake:
-1.13
-
-bats:
-latest
-
-beagle:
-trunk
-
-beast:
-1.7
-
-bino:
-1.4
-
-blastplus:
-2.2
-
-blender:
-2.68
-
-boost:
-1.50
-1.51
-1.55+python-2.7-2014q1
-
-caffe:
-git
-
-ccfits:
-2.4
-
-cctools:
-3.6
-
-cdo:
-1.5
-1.6
-
-cernlib:
-2006b
-
-cfitsio:
-3
-3+intel-12.1
-
-cgal:
-4.1
-4.1+intel-12.1
-
-CIBS:
-2013.0
-
-clang:
-trunk
-
-clhep:
-2.2
-
-cluto:
-2.1
-
-cmake:
-2.8
-
-cnvgrib:
-1.4
-
-comsol:
-44
-
-coreutils:
-8.20
-
-cp2k:
-2.4
-svn
-
-cpmd:
-3.15
-
-csdp:
-dev+intel-12.1
-
-cuda:
-4.2
-5.0
-5.5
-
-cytoscape:
-2.8
-
-ddd:
-3.3
-
-ddt:
-4.0
-
-dicom3tools:
-1
-
-diderot:
-trunk
-vis12
-
-disper:
-0.3.0
-
-doxygen:
-1.8
-
-emacs:
-23.4
-24
-
-emu:
-cvs
-
-espresso:
-5.1
-5.1+intel-12.1
-
-exabayes:
-1.3
-
-examl:
-git
-
-fermi-fssc:
-v9r31p1
-
-ffmpeg:
-0.11
-1.1
-2.1
-
-fftw2:
-2.1.5
-2.1.5+intel-12.1
-2.1.5+intelmpi-4.0
-2.1.5+intelmpi-4.0+intel-12.1
-2.1.5+mvapich2-1.9
-2.1.5+openmpi-1.6
-2.1.5+openmpi-1.6+intel-12.1
-2.1.5+openmpi-1.6+pgi-2012
-2.1.5+pgi-2012
-
-fftw3:
-3.3
-3.3+intel-12.1
-3.3+intel-13.1
-3.3+intelmpi-4.0
-3.3+intelmpi-4.0+intel-12.1
-3.3+intelmpi-4.1+intel-13.1
-3.3+mvapich2-1.9
-3.3+mvapich2-1.9+intel-12.1
-3.3+mvapich2-1.9+pgi-2012
-3.3+openmpi-1.6
-3.3+openmpi-1.6+intel-12.1
-3.3+openmpi-1.6+pgi-2012
-3.3+pgi-2012
-
-fiji:
-1.47
-
-firefox:
-esr
-
-freepascal:
-2.6
-
-freesurfer:
-5.3
-
-fsl:
-5.0
-5.0.6
-
-gamess:
-1May2012R1
-
-gaussian:
-09RevA.02
-09RevB.01
-
-gcc:
-4.8
-
-gdal:
-1.10
-1.11
-1.9
-
-gdbm:
-1.8
-
-gedit:
-2.28
-
-geos:
-3.4
-
-gephi:
-0.8
-
-gflags:
-git
-
-ghc:
-6.8
-7.4
-
-git:
-1.7
-1.8
-
-glew:
-1.7
-1.9
-
-globus:
-5.2
-
-glog:
-0.3
-
-g_mmpbsa:
-1.0.0
-
-gnuplot:
-4.4
-4.6
-
-grace:
-5.1
-
-grads:
-1.8
-1.9
-2.0
-
-graph-tool:
-2.2
-
-graphviz:
-2.28
-
-grass:
-6.4
-
-grib_api:
-1.9
-
-gromacs:
-4.5.5
-4.6-cuda+intel-12.1
-4.6+intel-12.1
-
-gromacs-plumed:
-1.3+intelmpi-4.0+intel-12.1
-1.3+openmpi-1.6
-
-gsl:
-1.15
-
-hadoop:
-1.1.2
-2.4
-
-hadoop-rdma:
-0.9
-
-hdf5:
-1.8
-
-healpix:
-2.20
-3.11
-
-hoomd:
-0.11
-0.11.0
-1.0
-
-hpctoolkit:
-5.3
-5.3+intel-12.1
-5.3+intelmpi-4.0
-5.3+mvapich2-1.8
-5.3+openmpi-1.6
-
-hpcviewer:
-5.3
-
-idl:
-8.2
-
-ifrit:
-3.4
-
-intel:
-11.1
-12.1
-13.1
-14.0
-
-intelmpi:
-4.0
-4.0+intel-12.1
-4.1
-4.1+intel-12.1
-4.1+intel-13.1
-4.1+intel-14.0
-
-ipopt:
-3.11
-
-j3d:
-1.5
-
-jasper:
-1.900
-
-java:
-1.7
-
-jruby:
-1.7
-
-julia:
-0.3
-git
-
-knitro:
-9.0.1-z
-
-lammps:
-trunk
-
-leveldb:
-1
-
-libassp:
-1
-
-libint:
-1.1
-2.0
-
-libspatialite:
-4.0
-
-libtool:
-2.4
-
-mallet:
-2.0
-
-mathematica:
-8.0
-9.0
-
-matlab:
-2011b
-2012a
-2012b
-2013b
-2014b
-
-maven:
-3.1
-
-mercurial:
-2.5
-2.8
-3.1
-
-midway-hadoop:
-2.0.0
-2.0.0+R-3.0
-
-migrate-n:
-3.6
-
-Minuit2:
-5.34
-5.34+intel-12.1
-
-mkl:
-10.2
-10.3
-11.0
-11.1
-
-mono:
-2.10
-
-mosh:
-1.2
-
-mpg123:
-1.13
-1.14
-
-mpi4py:
-1.3-2014q1+intelmpi-4.0
-1.3-2014q3+intelmpi-4.0
-1.3+intelmpi-4.0
-
-mpiblast:
-trunk
-
-mplayer:
-trunk
-
-mrbayes:
-release
-
-mumps:
-4.10
-
-mvapich2:
-1.8+pgi-2012
-1.9
-1.9+intel-12.1
-1.9+pgi-2012
-2.0
-2.0+intel-12.1
-
-namd:
-2.10b1
-2.9
-2.9-cuda
-
-ncl_ncarg:
-6.1
-
-nco:
-4.2
-4.3
-4.4
-
-ncview:
-2.1.1
-
-netcdf:
-3.6.3
-3.6.3+intel-12.1
-4.2
-4.2+intel-12.1
-4.3
-
-node:
-0.10.29
-
-octave:
-3.6
-
-openbabel:
-2.3.1
-
-openblas:
-0.2.6
-
-opencv:
-2.4
-
-openfoam:
-2.1
-pegged+openmpi-1.6
-
-openmm:
-6.0
-6.1
-
-openmpi:
-1.6
-1.6+intel-12.1
-1.6+pgi-2012
-1.8
-1.8+intel-12.1
-
-papi:
-5.1
-5.3
-
-parallel:
-latest
-
-paraview:
-3.14
-
-pdtoolkit:
-3.18
-
-perl:
-5.18
-
-petsc:
-3.4+openmpi-1.6
-
-pgi:
-2012
-2013
-
-picrust:
-1.0
-
-pism:
-0.6
-
-postgresql:
-9.2
-9.3
-
-povray:
-3.6.1
-
-praat:
-5.3
-
-prism:
-4.0
-
-proj:
-4.8
-
-proot:
-current
-
-protobuf:
-2.5
-
-protobuff:
-2.4
-2.5
-
-pycelegans:
-0.4
-0.5
-0.61
-
-pymol:
-svn
-
-pypy:
-1.8
-
-python:
-2.7
-2.7-2013q4
-2.7-2014q1
-2.7-2014q2
-2.7-2014q3
-3.3
-
-qd:
-2.3.14
-
-qgis:
-1.8
-
-qiime:
-1.6
-1.7
-1.8
-
-qt:
-3.3
-4.7
-4.8
-
-qwt:
-6.0
-
-R:
-2.15
-2.15+intel-12.1
-3.0
-3.0+intel-12.1
-
-rapsearch:
-2
-
-raxml:
-trunk
-
-ROOT:
-5.26
-5.34
-5.34+python-2.7-2014q1
-
-rstudio:
-0.97
-0.98
-
-ruby:
-2.1
-
-sdpa:
-7.3.8+intel-12.1
-
-sdpa-dd:
-7.1.2+intel-12.1
-
-sdpa-gmp:
-7.1.2+intel-12.1
-
-sdpa-qd:
-7.1.2+intel-12.1
-
-smlnj:
-110.74
-110.76
-
-snack:
-2.2
-
-sparsehash:
-2.0
-
-spatialindex:
-1.8
-
-spm:
-12
-8
-
-stanford-nlp:
-3.3
-
-stata:
-13
-13-64
-
-subversion:
-1.6
-1.7
-1.8
-keyring
-
-SuiteSparse:
-4.0
-4.0+intel-12.1
-4.2
-
-swift:
-0.94
-0.94.1
-0.95-RC1
-0.95-RC5
-
-swift-conf:
-1.0
-
-tcllib:
-1.15
-
-teem:
-trunk
-
-texinfo:
-4.13a
-
-texlive:
-2012
-
-tklib:
-0.5
-
-tree:
-1.6.0
-
-treepl:
-git
-
-uclust:
-1.2.22q
-
-udunits:
-2.1
-
-unrar:
-5.0
-
-usearch:
-6.1
-
-valgrind:
-3.7
-3.8
-3.9
-
-valkyrie:
-2.0
-
-vim:
-7.3
-7.4
-
-visit:
-2.6
-
-vmd:
-1.9
-1.9.1
-
-vtk:
-5.10
-5.10+python-2.7-2014q1
-5.8
-
-weka:
-3.6
-
-wgrib2:
-0.1
-
-word2vec:
-trunk
-
-wxwidgets:
-2.8
-
-x264:
-stable
-
-yasm:
-1.2
-
-yaz:
-5.4
-
-yt:
-3.0
-
-zlib:
-1.2
+abaqus	6.13
+afni	latest
+amber	12, 14
+amdappsdk	2.7
+amira	5.4.5, 5.5.0
+ant	1.8.4
+antlr	2.7
+apbs	1.3, 1.4
+armadillo	3.4
+artisynth	2.8, 2.9, 3.1
+autoconf	2.68
+automake	1.13
+bats	latest
+beagle	trunk
+beast	1.7
+bino	1.4
+blastplus	2.2
+blender	2.68
+boost	1.50, 1.51, 1.55+python-2.7-2014q1
+caffe	git
+ccfits	2.4
+cctools	3.6
+cdo	1.5, 1.6
+cernlib	2006b
+cfitsio	3, 3+intel-12.1
+cgal	4.1, 4.1+intel-12.1
+CIBS	2013.0
+clang	trunk
+clhep	2.2
+cluto	2.1
+cmake	2.8
+cnvgrib	1.4
+comsol	44
+coreutils	8.20
+cp2k	2.4, svn
+cpmd	3.15
+csdp	dev+intel-12.1
+cuda	4.2, 5.0, 5.5
+cytoscape	2.8
+ddd	3.3
+ddt	4.0
+dicom3tools	1
+diderot	trunk, vis12
+disper	0.3.0
+doxygen	1.8
+emacs	23.4, 24
+emu	cvs
+espresso	5.1, 5.1+intel-12.1
+exabayes	1.3
+examl	git
+fermi-fssc	v9r31p1
+ffmpeg	0.11, 1.1, 2.1
+fftw2	2.1.5, 2.1.5+intel-12.1, 2.1.5+intelmpi-4.0, 2.1.5+intelmpi-4.0+intel-12.1, 2.1.5+mvapich2-1.9, 2.1.5+openmpi-1.6, 2.1.5+openmpi-1.6+intel-12.1, 2.1.5+openmpi-1.6+pgi-2012, 2.1.5+pgi-2012
+fftw3	3.3, 3.3+intel-12.1, 3.3+intel-13.1, 3.3+intelmpi-4.0, 3.3+intelmpi-4.0+intel-12.1, 3.3+intelmpi-4.1+intel-13.1, 3.3+mvapich2-1.9, 3.3+mvapich2-1.9+intel-12.1, 3.3+mvapich2-1.9+pgi-2012, 3.3+openmpi-1.6, 3.3+openmpi-1.6+intel-12.1, 3.3+openmpi-1.6+pgi-2012, 3.3+pgi-2012
+fiji	1.47
+firefox	esr
+freepascal	2.6
+freesurfer	5.3
+fsl	5.0, 5.0.6
+gamess	1May2012R1
+gaussian	09RevA.02, 09RevB.01
+gcc	4.8
+gdal	1.10, 1.11, 1.9
+gdbm	1.8
+gedit	2.28
+geos	3.4
+gephi	0.8
+gflags	git
+ghc	6.8, 7.4
+git	1.7, 1.8
+glew	1.7, 1.9
+globus	5.2
+glog	0.3
+g_mmpbsa	1.0.0
+gnuplot	4.4, 4.6
+grace	5.1
+grads	1.8, 1.9, 2.0
+graph-tool	2.2
+graphviz	2.28
+grass	6.4
+grib_api	1.9
+gromacs	4.5.5, 4.6-cuda+intel-12.1, 4.6+intel-12.1
+gromacs-plumed	1.3+intelmpi-4.0+intel-12.1, 1.3+openmpi-1.6
+gsl	1.15
+hadoop	1.1.2, 2.4
+hadoop-rdma	0.9
+hdf5	1.8
+healpix	2.20, 3.11
+hoomd	0.11, 0.11.0, 1.0
+hpctoolkit	5.3, 5.3+intel-12.1, 5.3+intelmpi-4.0, 5.3+mvapich2-1.8, 5.3+openmpi-1.6
+hpcviewer	5.3
+idl	8.2
+ifrit	3.4
+intel	11.1, 12.1, 13.1, 14.0
+intelmpi	4.0, 4.0+intel-12.1, 4.1, 4.1+intel-12.1, 4.1+intel-13.1, 4.1+intel-14.0
+ipopt	3.11
+j3d	1.5
+jasper	1.900
+java	1.7
+jruby	1.7
+julia	0.3, git
+knitro	9.0.1-z
+lammps	trunk
+leveldb	1
+libassp	1
+libint	1.1, 2.0
+libspatialite	4.0
+libtool	2.4
+mallet	2.0
+mathematica	8.0, 9.0
+matlab	2011b, 2012a, 2012b, 2013b, 2014b
+maven	3.1
+mercurial	2.5, 2.8, 3.1
+midway-hadoop	2.0.0, 2.0.0+R-3.0
+migrate-n	3.6
+Minuit2	5.34, 5.34+intel-12.1
+mkl	10.2, 10.3, 11.0, 11.1
+mono	2.10
+mosh	1.2
+mpg123	1.13, 1.14
+mpi4py	1.3-2014q1+intelmpi-4.0, 1.3-2014q3+intelmpi-4.0, 1.3+intelmpi-4.0
+mpiblast	trunk
+mplayer	trunk
+mrbayes	release
+mumps	4.10
+mvapich2	1.8+pgi-2012, 1.9, 1.9+intel-12.1, 1.9+pgi-2012, 2.0, 2.0+intel-12.1
+namd	2.10b1, 2.9, 2.9-cuda
+ncl_ncarg	6.1
+nco	4.2, 4.3, 4.4
+ncview	2.1.1
+netcdf	3.6.3, 3.6.3+intel-12.1, 4.2, 4.2+intel-12.1, 4.3
+node	0.10.29
+octave	3.6
+openbabel	2.3.1
+openblas	0.2.6
+opencv	2.4
+openfoam	2.1, pegged+openmpi-1.6
+openmm	6.0, 6.1
+openmpi	1.6, 1.6+intel-12.1, 1.6+pgi-2012, 1.8, 1.8+intel-12.1
+papi	5.1, 5.3
+parallel	latest
+paraview	3.14
+pdtoolkit	3.18
+perl	5.18
+petsc	3.4+openmpi-1.6
+pgi	2012, 2013
+picrust	1.0
+pism	0.6
+postgresql	9.2, 9.3
+povray	3.6.1
+praat	5.3
+prism	4.0
+proj	4.8
+proot	current
+protobuf	2.5
+protobuff	2.4, 2.5
+pycelegans	0.4, 0.5, 0.61
+pymol	svn
+pypy	1.8
+python	2.7, 2.7-2013q4, 2.7-2014q1, 2.7-2014q2, 2.7-2014q3, 3.3
+qd	2.3.14
+qgis	1.8
+qiime	1.6, 1.7, 1.8
+qt	3.3, 4.7, 4.8
+qwt	6.0
+R	2.15, 2.15+intel-12.1, 3.0, 3.0+intel-12.1
+rapsearch	2
+raxml	trunk
+ROOT	5.26, 5.34, 5.34+python-2.7-2014q1
+rstudio	0.97, 0.98
+ruby	2.1
+sdpa	7.3.8+intel-12.1
+sdpa-dd	7.1.2+intel-12.1
+sdpa-gmp	7.1.2+intel-12.1
+sdpa-qd	7.1.2+intel-12.1
+smlnj	110.74, 110.76
+snack	2.2
+sparsehash	2.0
+spatialindex	1.8
+spm	12, 8
+stanford-nlp	3.3
+stata	13, 13-64
+subversion	1.6, 1.7, 1.8, keyring
+SuiteSparse	4.0, 4.0+intel-12.1, 4.2
+swift	0.94, 0.94.1, 0.95-RC1, 0.95-RC5
+swift-conf	1.0
+tcllib	1.15
+teem	trunk
+texinfo	4.13a
+texlive	2012
+tklib	0.5
+tree	1.6.0
+treepl	git
+uclust	1.2.22q
+udunits	2.1
+unrar	5.0
+usearch	6.1
+valgrind	3.7, 3.8, 3.9
+valkyrie	2.0
+vim	7.3, 7.4
+visit	2.6
+vmd	1.9, 1.9.1
+vtk	5.10, 5.10+python-2.7-2014q1, 5.8
+weka	3.6
+wgrib2	0.1
+word2vec	trunk
+wxwidgets	2.8
+x264	stable
+yasm	1.2
+yaz	5.4
+yt	3.0
+zlib	1.2, 
