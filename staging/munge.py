@@ -1,3 +1,5 @@
+import rst_template
+
 data = dict()
 
 def module(name, url, desc, license):
@@ -53,17 +55,30 @@ url: {}
 usage:
 '''
 
+
+def print_yaml(name, version, info):
+    fpath = "`{}/{}/info.yaml`".format(name, version)
+    # with open(fpath, 'w') as file:
+    print "####", fpath
+    print info
+
+def print_rst(name, version, info, url):
+    rst = rst_template.render(name, info, url)
+    fpath = "`pubsw/userguide/docs/modules/{}-{}`".format(name, version)
+    line = '*' * len(fpath)
+    print line
+    print fpath
+    print line
+    print rst
+
 for name, m in sorted(data.items()):
     for version in versions.get(name, ''):
-        fpath = "`{}/{}/info.yaml`".format(name, version)
-        yaml = template.format(m['name'], 
-                                    m['description'], 
-                                    version,
-                                    m['license'],
-                                    list(m['categories']),
-                                    list(m['tags']),
-                                    m['url'])
-        # with open(fpath, 'w') as file:
-        print "####", fpath
-        print yaml
-
+        info = template.format(m['name'], 
+                               m['description'], 
+                               version,
+                               m['license'],
+                               list(m['categories']),
+                               list(m['tags']),
+                               m['url'])
+        # print_yaml(name, version, info)
+        print_rst(name, version, info, m['url'])
