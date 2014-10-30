@@ -1,5 +1,6 @@
+pycelegans <<<<<<<< TAG
 *******************************************
-`pubsw/userguide/docs/modules/Minuit2-5.34`
+`pubsw/userguide/docs/modules/Minuit2/5.34`
 *******************************************
 
 .. index::
@@ -28,7 +29,7 @@ url: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
 .. _Minuit2: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
 
 ******************************************************
-`pubsw/userguide/docs/modules/Minuit2-5.34+intel-12.1`
+`pubsw/userguide/docs/modules/Minuit2/5.34+intel-12.1`
 ******************************************************
 
 .. index::
@@ -57,7 +58,7 @@ url: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
 .. _Minuit2: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
 
 *************************************
-`pubsw/userguide/docs/modules/R-2.15`
+`pubsw/userguide/docs/modules/R/2.15`
 *************************************
 
 .. index::
@@ -86,7 +87,7 @@ url: http://www.r-project.org/
 .. _R: http://www.r-project.org/
 
 ************************************************
-`pubsw/userguide/docs/modules/R-2.15+intel-12.1`
+`pubsw/userguide/docs/modules/R/2.15+intel-12.1`
 ************************************************
 
 .. index::
@@ -115,7 +116,7 @@ url: http://www.r-project.org/
 .. _R: http://www.r-project.org/
 
 ************************************
-`pubsw/userguide/docs/modules/R-3.0`
+`pubsw/userguide/docs/modules/R/3.0`
 ************************************
 
 .. index::
@@ -144,7 +145,7 @@ url: http://www.r-project.org/
 .. _R: http://www.r-project.org/
 
 ***********************************************
-`pubsw/userguide/docs/modules/R-3.0+intel-12.1`
+`pubsw/userguide/docs/modules/R/3.0+intel-12.1`
 ***********************************************
 
 .. index::
@@ -173,7 +174,7 @@ url: http://www.r-project.org/
 .. _R: http://www.r-project.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/ROOT-5.26`
+`pubsw/userguide/docs/modules/ROOT/5.26`
 ****************************************
 
 .. index::
@@ -202,7 +203,7 @@ url: http://root.cern.ch/drupal/content/documentation
 .. _ROOT: http://root.cern.ch/drupal/content/documentation
 
 ****************************************
-`pubsw/userguide/docs/modules/ROOT-5.34`
+`pubsw/userguide/docs/modules/ROOT/5.34`
 ****************************************
 
 .. index::
@@ -231,7 +232,7 @@ url: http://root.cern.ch/drupal/content/documentation
 .. _ROOT: http://root.cern.ch/drupal/content/documentation
 
 **********************************************************
-`pubsw/userguide/docs/modules/ROOT-5.34+python-2.7-2014q1`
+`pubsw/userguide/docs/modules/ROOT/5.34+python-2.7-2014q1`
 **********************************************************
 
 .. index::
@@ -260,7 +261,7 @@ url: http://root.cern.ch/drupal/content/documentation
 .. _ROOT: http://root.cern.ch/drupal/content/documentation
 
 **********************************************
-`pubsw/userguide/docs/modules/SuiteSparse-4.0`
+`pubsw/userguide/docs/modules/SuiteSparse/4.0`
 **********************************************
 
 .. index::
@@ -289,7 +290,7 @@ url: http://faculty.cse.tamu.edu/davis/suitesparse.html
 .. _SuiteSparse: http://faculty.cse.tamu.edu/davis/suitesparse.html
 
 *********************************************************
-`pubsw/userguide/docs/modules/SuiteSparse-4.0+intel-12.1`
+`pubsw/userguide/docs/modules/SuiteSparse/4.0+intel-12.1`
 *********************************************************
 
 .. index::
@@ -318,7 +319,7 @@ url: http://faculty.cse.tamu.edu/davis/suitesparse.html
 .. _SuiteSparse: http://faculty.cse.tamu.edu/davis/suitesparse.html
 
 **********************************************
-`pubsw/userguide/docs/modules/SuiteSparse-4.2`
+`pubsw/userguide/docs/modules/SuiteSparse/4.2`
 **********************************************
 
 .. index::
@@ -347,7 +348,7 @@ url: http://faculty.cse.tamu.edu/davis/suitesparse.html
 .. _SuiteSparse: http://faculty.cse.tamu.edu/davis/suitesparse.html
 
 ******************************************
-`pubsw/userguide/docs/modules/abaqus-6.13`
+`pubsw/userguide/docs/modules/abaqus/6.13`
 ******************************************
 
 .. index::
@@ -376,7 +377,7 @@ url: http://www.3ds.com/products-services/simulia/portfolio/abaqus/overview/
 .. _abaqus: http://www.3ds.com/products-services/simulia/portfolio/abaqus/overview/
 
 ******************************************
-`pubsw/userguide/docs/modules/afni-latest`
+`pubsw/userguide/docs/modules/afni/latest`
 ******************************************
 
 .. index::
@@ -405,7 +406,7 @@ url: http://afni.nimh.nih.gov/afni/
 .. _afni: http://afni.nimh.nih.gov/afni/
 
 ***************************************
-`pubsw/userguide/docs/modules/amber-12`
+`pubsw/userguide/docs/modules/amber/12`
 ***************************************
 
 .. index::
@@ -434,7 +435,7 @@ url: http://ambermd.org/
 .. _amber: http://ambermd.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/amber-14`
+`pubsw/userguide/docs/modules/amber/14`
 ***************************************
 
 .. index::
@@ -463,7 +464,7 @@ url: http://ambermd.org/
 .. _amber: http://ambermd.org/
 
 ********************************************
-`pubsw/userguide/docs/modules/amdappsdk-2.7`
+`pubsw/userguide/docs/modules/amdappsdk/2.7`
 ********************************************
 
 .. index::
@@ -492,7 +493,7 @@ url: http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-paralle
 .. _amdappsdk: http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/
 
 ******************************************
-`pubsw/userguide/docs/modules/amira-5.4.5`
+`pubsw/userguide/docs/modules/amira/5.4.5`
 ******************************************
 
 .. index::
@@ -521,7 +522,7 @@ url: http://www.vsg3d.com/amira/overview
 .. _amira: http://www.vsg3d.com/amira/overview
 
 ******************************************
-`pubsw/userguide/docs/modules/amira-5.5.0`
+`pubsw/userguide/docs/modules/amira/5.5.0`
 ******************************************
 
 .. index::
@@ -550,7 +551,7 @@ url: http://www.vsg3d.com/amira/overview
 .. _amira: http://www.vsg3d.com/amira/overview
 
 ****************************************
-`pubsw/userguide/docs/modules/ant-1.8.4`
+`pubsw/userguide/docs/modules/ant/1.8.4`
 ****************************************
 
 .. index::
@@ -579,7 +580,7 @@ url: http://ant.apache.org/
 .. _ant: http://ant.apache.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/antlr-2.7`
+`pubsw/userguide/docs/modules/antlr/2.7`
 ****************************************
 
 .. index::
@@ -608,7 +609,7 @@ url: http://www.antlr.org/
 .. _antlr: http://www.antlr.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/apbs-1.3`
+`pubsw/userguide/docs/modules/apbs/1.3`
 ***************************************
 
 .. index::
@@ -637,7 +638,7 @@ url: http://www.poissonboltzmann.org/docs/home/
 .. _apbs: http://www.poissonboltzmann.org/docs/home/
 
 ***************************************
-`pubsw/userguide/docs/modules/apbs-1.4`
+`pubsw/userguide/docs/modules/apbs/1.4`
 ***************************************
 
 .. index::
@@ -666,7 +667,7 @@ url: http://www.poissonboltzmann.org/docs/home/
 .. _apbs: http://www.poissonboltzmann.org/docs/home/
 
 ********************************************
-`pubsw/userguide/docs/modules/armadillo-3.4`
+`pubsw/userguide/docs/modules/armadillo/3.4`
 ********************************************
 
 .. index::
@@ -695,7 +696,7 @@ url: http://arma.sourceforge.net/
 .. _armadillo: http://arma.sourceforge.net/
 
 ********************************************
-`pubsw/userguide/docs/modules/artisynth-2.8`
+`pubsw/userguide/docs/modules/artisynth/2.8`
 ********************************************
 
 .. index::
@@ -724,7 +725,7 @@ url: http://www.magic.ubc.ca/artisynth/pmwiki.php
 .. _artisynth: http://www.magic.ubc.ca/artisynth/pmwiki.php
 
 ********************************************
-`pubsw/userguide/docs/modules/artisynth-2.9`
+`pubsw/userguide/docs/modules/artisynth/2.9`
 ********************************************
 
 .. index::
@@ -753,7 +754,7 @@ url: http://www.magic.ubc.ca/artisynth/pmwiki.php
 .. _artisynth: http://www.magic.ubc.ca/artisynth/pmwiki.php
 
 ********************************************
-`pubsw/userguide/docs/modules/artisynth-3.1`
+`pubsw/userguide/docs/modules/artisynth/3.1`
 ********************************************
 
 .. index::
@@ -782,7 +783,7 @@ url: http://www.magic.ubc.ca/artisynth/pmwiki.php
 .. _artisynth: http://www.magic.ubc.ca/artisynth/pmwiki.php
 
 ********************************************
-`pubsw/userguide/docs/modules/autoconf-2.68`
+`pubsw/userguide/docs/modules/autoconf/2.68`
 ********************************************
 
 .. index::
@@ -811,7 +812,7 @@ url: http://www.gnu.org/software/autoconf/
 .. _autoconf: http://www.gnu.org/software/autoconf/
 
 ********************************************
-`pubsw/userguide/docs/modules/automake-1.13`
+`pubsw/userguide/docs/modules/automake/1.13`
 ********************************************
 
 .. index::
@@ -840,7 +841,7 @@ url: https://www.gnu.org/software/automake/
 .. _automake: https://www.gnu.org/software/automake/
 
 ******************************************
-`pubsw/userguide/docs/modules/bats-latest`
+`pubsw/userguide/docs/modules/bats/latest`
 ******************************************
 
 .. index::
@@ -869,7 +870,7 @@ url: https://github.com/sstephenson/bats
 .. _bats: https://github.com/sstephenson/bats
 
 *******************************************
-`pubsw/userguide/docs/modules/beagle-trunk`
+`pubsw/userguide/docs/modules/beagle/trunk`
 *******************************************
 
 .. index::
@@ -898,7 +899,7 @@ url: http://code.google.com/p/beagle-lib/
 .. _beagle: http://code.google.com/p/beagle-lib/
 
 ****************************************
-`pubsw/userguide/docs/modules/beast-1.7`
+`pubsw/userguide/docs/modules/beast/1.7`
 ****************************************
 
 .. index::
@@ -927,7 +928,7 @@ url: http://beast.bio.ed.ac.uk/
 .. _beast: http://beast.bio.ed.ac.uk/
 
 ***************************************
-`pubsw/userguide/docs/modules/bino-1.4`
+`pubsw/userguide/docs/modules/bino/1.4`
 ***************************************
 
 .. index::
@@ -956,7 +957,7 @@ url: http://bino3d.org/
 .. _bino: http://bino3d.org/
 
 ********************************************
-`pubsw/userguide/docs/modules/blastplus-2.2`
+`pubsw/userguide/docs/modules/blastplus/2.2`
 ********************************************
 
 .. index::
@@ -985,7 +986,7 @@ url: http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
 .. _blastplus: http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
 
 *******************************************
-`pubsw/userguide/docs/modules/blender-2.68`
+`pubsw/userguide/docs/modules/blender/2.68`
 *******************************************
 
 .. index::
@@ -1014,7 +1015,7 @@ url: http://www.blender.org/
 .. _blender: http://www.blender.org/
 
 *****************************************
-`pubsw/userguide/docs/modules/boost-1.50`
+`pubsw/userguide/docs/modules/boost/1.50`
 *****************************************
 
 .. index::
@@ -1043,7 +1044,7 @@ url: http://www.boost.org/
 .. _boost: http://www.boost.org/
 
 *****************************************
-`pubsw/userguide/docs/modules/boost-1.51`
+`pubsw/userguide/docs/modules/boost/1.51`
 *****************************************
 
 .. index::
@@ -1072,7 +1073,7 @@ url: http://www.boost.org/
 .. _boost: http://www.boost.org/
 
 ***********************************************************
-`pubsw/userguide/docs/modules/boost-1.55+python-2.7-2014q1`
+`pubsw/userguide/docs/modules/boost/1.55+python-2.7-2014q1`
 ***********************************************************
 
 .. index::
@@ -1101,7 +1102,7 @@ url: http://www.boost.org/
 .. _boost: http://www.boost.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/caffe-git`
+`pubsw/userguide/docs/modules/caffe/git`
 ****************************************
 
 .. index::
@@ -1130,7 +1131,7 @@ url: http://caffe.berkeleyvision.org/
 .. _caffe: http://caffe.berkeleyvision.org/
 
 *****************************************
-`pubsw/userguide/docs/modules/ccfits-2.4`
+`pubsw/userguide/docs/modules/ccfits/2.4`
 *****************************************
 
 .. index::
@@ -1159,7 +1160,7 @@ url: http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/index.html
 .. _ccfits: http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/index.html
 
 ******************************************
-`pubsw/userguide/docs/modules/cctools-3.6`
+`pubsw/userguide/docs/modules/cctools/3.6`
 ******************************************
 
 .. index::
@@ -1188,7 +1189,7 @@ url: http://ccl.cse.nd.edu/
 .. _cctools: http://ccl.cse.nd.edu/
 
 **************************************
-`pubsw/userguide/docs/modules/cdo-1.5`
+`pubsw/userguide/docs/modules/cdo/1.5`
 **************************************
 
 .. index::
@@ -1217,7 +1218,7 @@ url: https://code.zmaw.de/projects/cdo
 .. _cdo: https://code.zmaw.de/projects/cdo
 
 **************************************
-`pubsw/userguide/docs/modules/cdo-1.6`
+`pubsw/userguide/docs/modules/cdo/1.6`
 **************************************
 
 .. index::
@@ -1246,7 +1247,7 @@ url: https://code.zmaw.de/projects/cdo
 .. _cdo: https://code.zmaw.de/projects/cdo
 
 ********************************************
-`pubsw/userguide/docs/modules/cernlib-2006b`
+`pubsw/userguide/docs/modules/cernlib/2006b`
 ********************************************
 
 .. index::
@@ -1275,7 +1276,7 @@ url: http://cernlib.web.cern.ch/cernlib/
 .. _cernlib: http://cernlib.web.cern.ch/cernlib/
 
 ****************************************
-`pubsw/userguide/docs/modules/cfitsio-3`
+`pubsw/userguide/docs/modules/cfitsio/3`
 ****************************************
 
 .. index::
@@ -1304,7 +1305,7 @@ url: http://heasarc.gsfc.nasa.gov/fitsio/
 .. _cfitsio: http://heasarc.gsfc.nasa.gov/fitsio/
 
 ***************************************************
-`pubsw/userguide/docs/modules/cfitsio-3+intel-12.1`
+`pubsw/userguide/docs/modules/cfitsio/3+intel-12.1`
 ***************************************************
 
 .. index::
@@ -1333,7 +1334,7 @@ url: http://heasarc.gsfc.nasa.gov/fitsio/
 .. _cfitsio: http://heasarc.gsfc.nasa.gov/fitsio/
 
 ***************************************
-`pubsw/userguide/docs/modules/cgal-4.1`
+`pubsw/userguide/docs/modules/cgal/4.1`
 ***************************************
 
 .. index::
@@ -1362,7 +1363,7 @@ url: https://www.cgal.org/
 .. _cgal: https://www.cgal.org/
 
 **************************************************
-`pubsw/userguide/docs/modules/cgal-4.1+intel-12.1`
+`pubsw/userguide/docs/modules/cgal/4.1+intel-12.1`
 **************************************************
 
 .. index::
@@ -1391,7 +1392,7 @@ url: https://www.cgal.org/
 .. _cgal: https://www.cgal.org/
 
 ******************************************
-`pubsw/userguide/docs/modules/clang-trunk`
+`pubsw/userguide/docs/modules/clang/trunk`
 ******************************************
 
 .. index::
@@ -1420,7 +1421,7 @@ url: http://clang.llvm.org/
 .. _clang: http://clang.llvm.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/clhep-2.2`
+`pubsw/userguide/docs/modules/clhep/2.2`
 ****************************************
 
 .. index::
@@ -1449,7 +1450,7 @@ url: http://proj-clhep.web.cern.ch/proj-clhep/
 .. _clhep: http://proj-clhep.web.cern.ch/proj-clhep/
 
 ****************************************
-`pubsw/userguide/docs/modules/cluto-2.1`
+`pubsw/userguide/docs/modules/cluto/2.1`
 ****************************************
 
 .. index::
@@ -1478,7 +1479,7 @@ url: http://glaros.dtc.umn.edu/gkhome/cluto/cluto/overview
 .. _cluto: http://glaros.dtc.umn.edu/gkhome/cluto/cluto/overview
 
 ****************************************
-`pubsw/userguide/docs/modules/cmake-2.8`
+`pubsw/userguide/docs/modules/cmake/2.8`
 ****************************************
 
 .. index::
@@ -1507,7 +1508,7 @@ url: http://www.cmake.org/
 .. _cmake: http://www.cmake.org/
 
 ******************************************
-`pubsw/userguide/docs/modules/cnvgrib-1.4`
+`pubsw/userguide/docs/modules/cnvgrib/1.4`
 ******************************************
 
 .. index::
@@ -1536,7 +1537,7 @@ url: http://www.nco.ncep.noaa.gov/pmb/docs/grib2/
 .. _cnvgrib: http://www.nco.ncep.noaa.gov/pmb/docs/grib2/
 
 ****************************************
-`pubsw/userguide/docs/modules/comsol-44`
+`pubsw/userguide/docs/modules/comsol/44`
 ****************************************
 
 .. index::
@@ -1565,7 +1566,7 @@ url: http://www.comsol.com/
 .. _comsol: http://www.comsol.com/
 
 *********************************************
-`pubsw/userguide/docs/modules/coreutils-8.20`
+`pubsw/userguide/docs/modules/coreutils/8.20`
 *********************************************
 
 .. index::
@@ -1594,7 +1595,7 @@ url: http://www.gnu.org/software/coreutils/
 .. _coreutils: http://www.gnu.org/software/coreutils/
 
 ***************************************
-`pubsw/userguide/docs/modules/cp2k-2.4`
+`pubsw/userguide/docs/modules/cp2k/2.4`
 ***************************************
 
 .. index::
@@ -1623,7 +1624,7 @@ url: http://www.cp2k.org/
 .. _cp2k: http://www.cp2k.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/cp2k-svn`
+`pubsw/userguide/docs/modules/cp2k/svn`
 ***************************************
 
 .. index::
@@ -1652,7 +1653,7 @@ url: http://www.cp2k.org/
 .. _cp2k: http://www.cp2k.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/cpmd-3.15`
+`pubsw/userguide/docs/modules/cpmd/3.15`
 ****************************************
 
 .. index::
@@ -1681,7 +1682,7 @@ url: http://www.cpmd.org/
 .. _cpmd: http://www.cpmd.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/cuda-4.2`
+`pubsw/userguide/docs/modules/cuda/4.2`
 ***************************************
 
 .. index::
@@ -1710,7 +1711,7 @@ url: http://www.nvidia.com/object/cuda_home_new.html
 .. _cuda: http://www.nvidia.com/object/cuda_home_new.html
 
 ***************************************
-`pubsw/userguide/docs/modules/cuda-5.0`
+`pubsw/userguide/docs/modules/cuda/5.0`
 ***************************************
 
 .. index::
@@ -1739,7 +1740,7 @@ url: http://www.nvidia.com/object/cuda_home_new.html
 .. _cuda: http://www.nvidia.com/object/cuda_home_new.html
 
 ***************************************
-`pubsw/userguide/docs/modules/cuda-5.5`
+`pubsw/userguide/docs/modules/cuda/5.5`
 ***************************************
 
 .. index::
@@ -1768,7 +1769,7 @@ url: http://www.nvidia.com/object/cuda_home_new.html
 .. _cuda: http://www.nvidia.com/object/cuda_home_new.html
 
 ********************************************
-`pubsw/userguide/docs/modules/cytoscape-2.8`
+`pubsw/userguide/docs/modules/cytoscape/2.8`
 ********************************************
 
 .. index::
@@ -1797,7 +1798,7 @@ url: http://cytoscapeweb.cytoscape.org/
 .. _cytoscape: http://cytoscapeweb.cytoscape.org/
 
 **************************************
-`pubsw/userguide/docs/modules/ddd-3.3`
+`pubsw/userguide/docs/modules/ddd/3.3`
 **************************************
 
 .. index::
@@ -1826,7 +1827,7 @@ url: http://www.gnu.org/software/ddd/
 .. _ddd: http://www.gnu.org/software/ddd/
 
 **************************************
-`pubsw/userguide/docs/modules/ddt-4.0`
+`pubsw/userguide/docs/modules/ddt/4.0`
 **************************************
 
 .. index::
@@ -1855,7 +1856,7 @@ url: http://www.allinea.com/products/ddt/
 .. _ddt: http://www.allinea.com/products/ddt/
 
 ********************************************
-`pubsw/userguide/docs/modules/dicom3tools-1`
+`pubsw/userguide/docs/modules/dicom3tools/1`
 ********************************************
 
 .. index::
@@ -1884,7 +1885,7 @@ url: http://www.dclunie.com/dicom3tools.html
 .. _dicom3tools: http://www.dclunie.com/dicom3tools.html
 
 *******************************************
-`pubsw/userguide/docs/modules/disper-0.3.0`
+`pubsw/userguide/docs/modules/disper/0.3.0`
 *******************************************
 
 .. index::
@@ -1913,7 +1914,7 @@ url: http://www.canarina.com/airpollutiondispersion.htm
 .. _disper: http://www.canarina.com/airpollutiondispersion.htm
 
 ******************************************
-`pubsw/userguide/docs/modules/doxygen-1.8`
+`pubsw/userguide/docs/modules/doxygen/1.8`
 ******************************************
 
 .. index::
@@ -1942,7 +1943,7 @@ url: http://www.stack.nl/~dimitri/doxygen/
 .. _doxygen: http://www.stack.nl/~dimitri/doxygen/
 
 *****************************************
-`pubsw/userguide/docs/modules/emacs-23.4`
+`pubsw/userguide/docs/modules/emacs/23.4`
 *****************************************
 
 .. index::
@@ -1971,7 +1972,7 @@ url: http://www.gnu.org/software/emacs/
 .. _emacs: http://www.gnu.org/software/emacs/
 
 ***************************************
-`pubsw/userguide/docs/modules/emacs-24`
+`pubsw/userguide/docs/modules/emacs/24`
 ***************************************
 
 .. index::
@@ -2000,7 +2001,7 @@ url: http://www.gnu.org/software/emacs/
 .. _emacs: http://www.gnu.org/software/emacs/
 
 *******************************************
-`pubsw/userguide/docs/modules/exabayes-1.3`
+`pubsw/userguide/docs/modules/exabayes/1.3`
 *******************************************
 
 .. index::
@@ -2029,7 +2030,7 @@ url: http://sco.h-its.org/exelixis/web/software/exabayes/
 .. _exabayes: http://sco.h-its.org/exelixis/web/software/exabayes/
 
 ****************************************
-`pubsw/userguide/docs/modules/examl-git`
+`pubsw/userguide/docs/modules/examl/git`
 ****************************************
 
 .. index::
@@ -2058,7 +2059,7 @@ url: https://github.com/stamatak/ExaML
 .. _examl: https://github.com/stamatak/ExaML
 
 *************************************************
-`pubsw/userguide/docs/modules/fermi-fssc-v9r31p1`
+`pubsw/userguide/docs/modules/fermi-fssc/v9r31p1`
 *************************************************
 
 .. index::
@@ -2087,7 +2088,7 @@ url: http://fermi.gsfc.nasa.gov/ssc/data/analysis/
 .. _fermi-fssc: http://fermi.gsfc.nasa.gov/ssc/data/analysis/
 
 ******************************************
-`pubsw/userguide/docs/modules/ffmpeg-0.11`
+`pubsw/userguide/docs/modules/ffmpeg/0.11`
 ******************************************
 
 .. index::
@@ -2116,7 +2117,7 @@ url: https://www.ffmpeg.org/
 .. _ffmpeg: https://www.ffmpeg.org/
 
 *****************************************
-`pubsw/userguide/docs/modules/ffmpeg-1.1`
+`pubsw/userguide/docs/modules/ffmpeg/1.1`
 *****************************************
 
 .. index::
@@ -2145,7 +2146,7 @@ url: https://www.ffmpeg.org/
 .. _ffmpeg: https://www.ffmpeg.org/
 
 *****************************************
-`pubsw/userguide/docs/modules/ffmpeg-2.1`
+`pubsw/userguide/docs/modules/ffmpeg/2.1`
 *****************************************
 
 .. index::
@@ -2174,7 +2175,7 @@ url: https://www.ffmpeg.org/
 .. _ffmpeg: https://www.ffmpeg.org/
 
 ******************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5`
+`pubsw/userguide/docs/modules/fftw2/2.1.5`
 ******************************************
 
 .. index::
@@ -2203,7 +2204,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 *****************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+intel-12.1`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+intel-12.1`
 *****************************************************
 
 .. index::
@@ -2232,7 +2233,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 *******************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+intelmpi-4.0`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+intelmpi-4.0`
 *******************************************************
 
 .. index::
@@ -2261,7 +2262,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 ******************************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+intelmpi-4.0+intel-12.1`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+intelmpi-4.0+intel-12.1`
 ******************************************************************
 
 .. index::
@@ -2290,7 +2291,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 *******************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+mvapich2-1.9`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+mvapich2-1.9`
 *******************************************************
 
 .. index::
@@ -2319,7 +2320,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 ******************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+openmpi-1.6`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+openmpi-1.6`
 ******************************************************
 
 .. index::
@@ -2348,7 +2349,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 *****************************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+openmpi-1.6+intel-12.1`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+openmpi-1.6+intel-12.1`
 *****************************************************************
 
 .. index::
@@ -2377,7 +2378,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 ***************************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+openmpi-1.6+pgi-2012`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+openmpi-1.6+pgi-2012`
 ***************************************************************
 
 .. index::
@@ -2406,7 +2407,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 ***************************************************
-`pubsw/userguide/docs/modules/fftw2-2.1.5+pgi-2012`
+`pubsw/userguide/docs/modules/fftw2/2.1.5+pgi-2012`
 ***************************************************
 
 .. index::
@@ -2435,7 +2436,7 @@ url: http://www.fftw.org/
 .. _fftw2: http://www.fftw.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/fftw3-3.3`
+`pubsw/userguide/docs/modules/fftw3/3.3`
 ****************************************
 
 .. index::
@@ -2464,7 +2465,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ***************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+intel-12.1`
+`pubsw/userguide/docs/modules/fftw3/3.3+intel-12.1`
 ***************************************************
 
 .. index::
@@ -2493,7 +2494,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ***************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+intel-13.1`
+`pubsw/userguide/docs/modules/fftw3/3.3+intel-13.1`
 ***************************************************
 
 .. index::
@@ -2522,7 +2523,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 *****************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+intelmpi-4.0`
+`pubsw/userguide/docs/modules/fftw3/3.3+intelmpi-4.0`
 *****************************************************
 
 .. index::
@@ -2551,7 +2552,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ****************************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+intelmpi-4.0+intel-12.1`
+`pubsw/userguide/docs/modules/fftw3/3.3+intelmpi-4.0+intel-12.1`
 ****************************************************************
 
 .. index::
@@ -2580,7 +2581,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ****************************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+intelmpi-4.1+intel-13.1`
+`pubsw/userguide/docs/modules/fftw3/3.3+intelmpi-4.1+intel-13.1`
 ****************************************************************
 
 .. index::
@@ -2609,7 +2610,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 *****************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+mvapich2-1.9`
+`pubsw/userguide/docs/modules/fftw3/3.3+mvapich2-1.9`
 *****************************************************
 
 .. index::
@@ -2638,7 +2639,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ****************************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+mvapich2-1.9+intel-12.1`
+`pubsw/userguide/docs/modules/fftw3/3.3+mvapich2-1.9+intel-12.1`
 ****************************************************************
 
 .. index::
@@ -2667,7 +2668,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 **************************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+mvapich2-1.9+pgi-2012`
+`pubsw/userguide/docs/modules/fftw3/3.3+mvapich2-1.9+pgi-2012`
 **************************************************************
 
 .. index::
@@ -2696,7 +2697,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ****************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+openmpi-1.6`
+`pubsw/userguide/docs/modules/fftw3/3.3+openmpi-1.6`
 ****************************************************
 
 .. index::
@@ -2725,7 +2726,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ***************************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+openmpi-1.6+intel-12.1`
+`pubsw/userguide/docs/modules/fftw3/3.3+openmpi-1.6+intel-12.1`
 ***************************************************************
 
 .. index::
@@ -2754,7 +2755,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 *************************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+openmpi-1.6+pgi-2012`
+`pubsw/userguide/docs/modules/fftw3/3.3+openmpi-1.6+pgi-2012`
 *************************************************************
 
 .. index::
@@ -2783,7 +2784,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 *************************************************
-`pubsw/userguide/docs/modules/fftw3-3.3+pgi-2012`
+`pubsw/userguide/docs/modules/fftw3/3.3+pgi-2012`
 *************************************************
 
 .. index::
@@ -2812,7 +2813,7 @@ url: http://www.fftw.org/
 .. _fftw3: http://www.fftw.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/fiji-1.47`
+`pubsw/userguide/docs/modules/fiji/1.47`
 ****************************************
 
 .. index::
@@ -2841,7 +2842,7 @@ url: http://fiji.sc/Documentation
 .. _fiji: http://fiji.sc/Documentation
 
 ******************************************
-`pubsw/userguide/docs/modules/firefox-esr`
+`pubsw/userguide/docs/modules/firefox/esr`
 ******************************************
 
 .. index::
@@ -2870,7 +2871,7 @@ url: https://www.mozilla.org/
 .. _firefox: https://www.mozilla.org/
 
 *********************************************
-`pubsw/userguide/docs/modules/freepascal-2.6`
+`pubsw/userguide/docs/modules/freepascal/2.6`
 *********************************************
 
 .. index::
@@ -2899,7 +2900,7 @@ url: http://www.freepascal.org/docs.var
 .. _freepascal: http://www.freepascal.org/docs.var
 
 *********************************************
-`pubsw/userguide/docs/modules/freesurfer-5.3`
+`pubsw/userguide/docs/modules/freesurfer/5.3`
 *********************************************
 
 .. index::
@@ -2928,7 +2929,7 @@ url: http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer
 .. _freesurfer: http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer
 
 **************************************
-`pubsw/userguide/docs/modules/fsl-5.0`
+`pubsw/userguide/docs/modules/fsl/5.0`
 **************************************
 
 .. index::
@@ -2957,7 +2958,7 @@ url: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 .. _fsl: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 
 ****************************************
-`pubsw/userguide/docs/modules/fsl-5.0.6`
+`pubsw/userguide/docs/modules/fsl/5.0.6`
 ****************************************
 
 .. index::
@@ -2986,7 +2987,7 @@ url: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 .. _fsl: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 
 *********************************************
-`pubsw/userguide/docs/modules/g_mmpbsa-1.0.0`
+`pubsw/userguide/docs/modules/g_mmpbsa/1.0.0`
 *********************************************
 
 .. index::
@@ -3015,7 +3016,7 @@ url: http://rashmikumari.github.io/g_mmpbsa/
 .. _g_mmpbsa: http://rashmikumari.github.io/g_mmpbsa/
 
 ************************************************
-`pubsw/userguide/docs/modules/gamess-1May2012R1`
+`pubsw/userguide/docs/modules/gamess/1May2012R1`
 ************************************************
 
 .. index::
@@ -3044,7 +3045,7 @@ url: http://www.msg.ameslab.gov/gamess/documentation.html
 .. _gamess: http://www.msg.ameslab.gov/gamess/documentation.html
 
 *************************************************
-`pubsw/userguide/docs/modules/gaussian-09RevA.02`
+`pubsw/userguide/docs/modules/gaussian/09RevA.02`
 *************************************************
 
 .. index::
@@ -3073,7 +3074,7 @@ url: http://www.gaussian.com/
 .. _gaussian: http://www.gaussian.com/
 
 *************************************************
-`pubsw/userguide/docs/modules/gaussian-09RevB.01`
+`pubsw/userguide/docs/modules/gaussian/09RevB.01`
 *************************************************
 
 .. index::
@@ -3102,7 +3103,7 @@ url: http://www.gaussian.com/
 .. _gaussian: http://www.gaussian.com/
 
 **************************************
-`pubsw/userguide/docs/modules/gcc-4.8`
+`pubsw/userguide/docs/modules/gcc/4.8`
 **************************************
 
 .. index::
@@ -3131,7 +3132,7 @@ url: https://gcc.gnu.org/
 .. _gcc: https://gcc.gnu.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/gdal-1.10`
+`pubsw/userguide/docs/modules/gdal/1.10`
 ****************************************
 
 .. index::
@@ -3160,7 +3161,7 @@ url: http://www.gdal.org/
 .. _gdal: http://www.gdal.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/gdal-1.11`
+`pubsw/userguide/docs/modules/gdal/1.11`
 ****************************************
 
 .. index::
@@ -3189,7 +3190,7 @@ url: http://www.gdal.org/
 .. _gdal: http://www.gdal.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/gdal-1.9`
+`pubsw/userguide/docs/modules/gdal/1.9`
 ***************************************
 
 .. index::
@@ -3218,7 +3219,7 @@ url: http://www.gdal.org/
 .. _gdal: http://www.gdal.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/gdbm-1.8`
+`pubsw/userguide/docs/modules/gdbm/1.8`
 ***************************************
 
 .. index::
@@ -3247,7 +3248,7 @@ url: http://www.gnu.org.ua/software/gdbm/manual.html
 .. _gdbm: http://www.gnu.org.ua/software/gdbm/manual.html
 
 *****************************************
-`pubsw/userguide/docs/modules/gedit-2.28`
+`pubsw/userguide/docs/modules/gedit/2.28`
 *****************************************
 
 .. index::
@@ -3276,7 +3277,7 @@ url: https://wiki.gnome.org/Apps/Gedit
 .. _gedit: https://wiki.gnome.org/Apps/Gedit
 
 ***************************************
-`pubsw/userguide/docs/modules/geos-3.4`
+`pubsw/userguide/docs/modules/geos/3.4`
 ***************************************
 
 .. index::
@@ -3305,7 +3306,7 @@ url: http://trac.osgeo.org/geos/
 .. _geos: http://trac.osgeo.org/geos/
 
 ****************************************
-`pubsw/userguide/docs/modules/gephi-0.8`
+`pubsw/userguide/docs/modules/gephi/0.8`
 ****************************************
 
 .. index::
@@ -3334,7 +3335,7 @@ url: http://gephi.github.io/
 .. _gephi: http://gephi.github.io/
 
 *****************************************
-`pubsw/userguide/docs/modules/gflags-git`
+`pubsw/userguide/docs/modules/gflags/git`
 *****************************************
 
 .. index::
@@ -3363,7 +3364,7 @@ url: https://github.com/schuhschuh/gflags
 .. _gflags: https://github.com/schuhschuh/gflags
 
 **************************************
-`pubsw/userguide/docs/modules/ghc-6.8`
+`pubsw/userguide/docs/modules/ghc/6.8`
 **************************************
 
 .. index::
@@ -3392,7 +3393,7 @@ url: http://www.haskell.org/haskellwiki/GHC
 .. _ghc: http://www.haskell.org/haskellwiki/GHC
 
 **************************************
-`pubsw/userguide/docs/modules/ghc-7.4`
+`pubsw/userguide/docs/modules/ghc/7.4`
 **************************************
 
 .. index::
@@ -3421,7 +3422,7 @@ url: http://www.haskell.org/haskellwiki/GHC
 .. _ghc: http://www.haskell.org/haskellwiki/GHC
 
 **************************************
-`pubsw/userguide/docs/modules/git-1.7`
+`pubsw/userguide/docs/modules/git/1.7`
 **************************************
 
 .. index::
@@ -3450,7 +3451,7 @@ url: https://github.com/git/git/tree/master/Documentation
 .. _git: https://github.com/git/git/tree/master/Documentation
 
 **************************************
-`pubsw/userguide/docs/modules/git-1.8`
+`pubsw/userguide/docs/modules/git/1.8`
 **************************************
 
 .. index::
@@ -3479,7 +3480,7 @@ url: https://github.com/git/git/tree/master/Documentation
 .. _git: https://github.com/git/git/tree/master/Documentation
 
 *****************************************
-`pubsw/userguide/docs/modules/globus-5.2`
+`pubsw/userguide/docs/modules/globus/5.2`
 *****************************************
 
 .. index::
@@ -3508,7 +3509,7 @@ url: https://www.globus.org/
 .. _globus: https://www.globus.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/glog-0.3`
+`pubsw/userguide/docs/modules/glog/0.3`
 ***************************************
 
 .. index::
@@ -3537,7 +3538,7 @@ url: http://google-glog.googlecode.com/svn/trunk/doc/glog.html
 .. _glog: http://google-glog.googlecode.com/svn/trunk/doc/glog.html
 
 ******************************************
-`pubsw/userguide/docs/modules/gnuplot-4.4`
+`pubsw/userguide/docs/modules/gnuplot/4.4`
 ******************************************
 
 .. index::
@@ -3566,7 +3567,7 @@ url: http://www.gnuplot.info/documentation.html
 .. _gnuplot: http://www.gnuplot.info/documentation.html
 
 ******************************************
-`pubsw/userguide/docs/modules/gnuplot-4.6`
+`pubsw/userguide/docs/modules/gnuplot/4.6`
 ******************************************
 
 .. index::
@@ -3595,7 +3596,7 @@ url: http://www.gnuplot.info/documentation.html
 .. _gnuplot: http://www.gnuplot.info/documentation.html
 
 ****************************************
-`pubsw/userguide/docs/modules/grace-5.1`
+`pubsw/userguide/docs/modules/grace/5.1`
 ****************************************
 
 .. index::
@@ -3624,7 +3625,7 @@ url: http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html
 .. _grace: http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html
 
 ****************************************
-`pubsw/userguide/docs/modules/grads-1.8`
+`pubsw/userguide/docs/modules/grads/1.8`
 ****************************************
 
 .. index::
@@ -3653,7 +3654,7 @@ url: http://cola.gmu.edu/grads/gadoc/index.html
 .. _grads: http://cola.gmu.edu/grads/gadoc/index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/grads-1.9`
+`pubsw/userguide/docs/modules/grads/1.9`
 ****************************************
 
 .. index::
@@ -3682,7 +3683,7 @@ url: http://cola.gmu.edu/grads/gadoc/index.html
 .. _grads: http://cola.gmu.edu/grads/gadoc/index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/grads-2.0`
+`pubsw/userguide/docs/modules/grads/2.0`
 ****************************************
 
 .. index::
@@ -3711,7 +3712,7 @@ url: http://cola.gmu.edu/grads/gadoc/index.html
 .. _grads: http://cola.gmu.edu/grads/gadoc/index.html
 
 *********************************************
-`pubsw/userguide/docs/modules/graph-tool-2.2`
+`pubsw/userguide/docs/modules/graph-tool/2.2`
 *********************************************
 
 .. index::
@@ -3740,7 +3741,7 @@ url: http://graph-tool.skewed.de/static/doc/index.html
 .. _graph-tool: http://graph-tool.skewed.de/static/doc/index.html
 
 ********************************************
-`pubsw/userguide/docs/modules/graphviz-2.28`
+`pubsw/userguide/docs/modules/graphviz/2.28`
 ********************************************
 
 .. index::
@@ -3769,7 +3770,7 @@ url: http://www.graphviz.org/
 .. _graphviz: http://www.graphviz.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/grass-6.4`
+`pubsw/userguide/docs/modules/grass/6.4`
 ****************************************
 
 .. index::
@@ -3798,7 +3799,7 @@ url: http://grass.osgeo.org/documentation/
 .. _grass: http://grass.osgeo.org/documentation/
 
 *******************************************
-`pubsw/userguide/docs/modules/grib_api-1.9`
+`pubsw/userguide/docs/modules/grib_api/1.9`
 *******************************************
 
 .. index::
@@ -3827,7 +3828,7 @@ url: https://software.ecmwf.int/wiki/display/GRIB/Documentation
 .. _grib_api: https://software.ecmwf.int/wiki/display/GRIB/Documentation
 
 ********************************************
-`pubsw/userguide/docs/modules/gromacs-4.5.5`
+`pubsw/userguide/docs/modules/gromacs/4.5.5`
 ********************************************
 
 .. index::
@@ -3856,7 +3857,7 @@ url: http://www.gromacs.org/Documentation
 .. _gromacs: http://www.gromacs.org/Documentation
 
 **********************************************************
-`pubsw/userguide/docs/modules/gromacs-4.6-cuda+intel-12.1`
+`pubsw/userguide/docs/modules/gromacs/4.6-cuda+intel-12.1`
 **********************************************************
 
 .. index::
@@ -3885,7 +3886,7 @@ url: http://www.gromacs.org/Documentation
 .. _gromacs: http://www.gromacs.org/Documentation
 
 *****************************************************
-`pubsw/userguide/docs/modules/gromacs-4.6+intel-12.1`
+`pubsw/userguide/docs/modules/gromacs/4.6+intel-12.1`
 *****************************************************
 
 .. index::
@@ -3914,7 +3915,7 @@ url: http://www.gromacs.org/Documentation
 .. _gromacs: http://www.gromacs.org/Documentation
 
 *************************************************************************
-`pubsw/userguide/docs/modules/gromacs-plumed-1.3+intelmpi-4.0+intel-12.1`
+`pubsw/userguide/docs/modules/gromacs-plumed/1.3+intelmpi-4.0+intel-12.1`
 *************************************************************************
 
 .. index::
@@ -3943,7 +3944,7 @@ url: http://www.plumed-code.org/documentation
 .. _gromacs-plumed: http://www.plumed-code.org/documentation
 
 *************************************************************
-`pubsw/userguide/docs/modules/gromacs-plumed-1.3+openmpi-1.6`
+`pubsw/userguide/docs/modules/gromacs-plumed/1.3+openmpi-1.6`
 *************************************************************
 
 .. index::
@@ -3972,7 +3973,7 @@ url: http://www.plumed-code.org/documentation
 .. _gromacs-plumed: http://www.plumed-code.org/documentation
 
 ***************************************
-`pubsw/userguide/docs/modules/gsl-1.15`
+`pubsw/userguide/docs/modules/gsl/1.15`
 ***************************************
 
 .. index::
@@ -4001,7 +4002,7 @@ url: http://www.gnu.org/software/gsl/
 .. _gsl: http://www.gnu.org/software/gsl/
 
 *******************************************
-`pubsw/userguide/docs/modules/hadoop-1.1.2`
+`pubsw/userguide/docs/modules/hadoop/1.1.2`
 *******************************************
 
 .. index::
@@ -4030,7 +4031,7 @@ url: http://hadoop.apache.org/
 .. _hadoop: http://hadoop.apache.org/
 
 *****************************************
-`pubsw/userguide/docs/modules/hadoop-2.4`
+`pubsw/userguide/docs/modules/hadoop/2.4`
 *****************************************
 
 .. index::
@@ -4059,7 +4060,7 @@ url: http://hadoop.apache.org/
 .. _hadoop: http://hadoop.apache.org/
 
 **********************************************
-`pubsw/userguide/docs/modules/hadoop-rdma-0.9`
+`pubsw/userguide/docs/modules/hadoop-rdma/0.9`
 **********************************************
 
 .. index::
@@ -4088,7 +4089,7 @@ url: http://hibd.cse.ohio-state.edu/userguide/
 .. _hadoop-rdma: http://hibd.cse.ohio-state.edu/userguide/
 
 ***************************************
-`pubsw/userguide/docs/modules/hdf5-1.8`
+`pubsw/userguide/docs/modules/hdf5/1.8`
 ***************************************
 
 .. index::
@@ -4117,7 +4118,7 @@ url: http://www.hdfgroup.org/HDF5/doc/index.html
 .. _hdf5: http://www.hdfgroup.org/HDF5/doc/index.html
 
 *******************************************
-`pubsw/userguide/docs/modules/healpix-2.20`
+`pubsw/userguide/docs/modules/healpix/2.20`
 *******************************************
 
 .. index::
@@ -4146,7 +4147,7 @@ url: http://healpix.jpl.nasa.gov/
 .. _healpix: http://healpix.jpl.nasa.gov/
 
 *******************************************
-`pubsw/userguide/docs/modules/healpix-3.11`
+`pubsw/userguide/docs/modules/healpix/3.11`
 *******************************************
 
 .. index::
@@ -4175,7 +4176,7 @@ url: http://healpix.jpl.nasa.gov/
 .. _healpix: http://healpix.jpl.nasa.gov/
 
 *****************************************
-`pubsw/userguide/docs/modules/hoomd-0.11`
+`pubsw/userguide/docs/modules/hoomd/0.11`
 *****************************************
 
 .. index::
@@ -4204,7 +4205,7 @@ url: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 .. _hoomd: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 
 *******************************************
-`pubsw/userguide/docs/modules/hoomd-0.11.0`
+`pubsw/userguide/docs/modules/hoomd/0.11.0`
 *******************************************
 
 .. index::
@@ -4233,7 +4234,7 @@ url: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 .. _hoomd: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/hoomd-1.0`
+`pubsw/userguide/docs/modules/hoomd/1.0`
 ****************************************
 
 .. index::
@@ -4262,7 +4263,7 @@ url: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 .. _hoomd: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 
 *********************************************
-`pubsw/userguide/docs/modules/hpctoolkit-5.3`
+`pubsw/userguide/docs/modules/hpctoolkit/5.3`
 *********************************************
 
 .. index::
@@ -4291,7 +4292,7 @@ url: http://hpctoolkit.org/documentation.html
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
 ********************************************************
-`pubsw/userguide/docs/modules/hpctoolkit-5.3+intel-12.1`
+`pubsw/userguide/docs/modules/hpctoolkit/5.3+intel-12.1`
 ********************************************************
 
 .. index::
@@ -4320,7 +4321,7 @@ url: http://hpctoolkit.org/documentation.html
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
 **********************************************************
-`pubsw/userguide/docs/modules/hpctoolkit-5.3+intelmpi-4.0`
+`pubsw/userguide/docs/modules/hpctoolkit/5.3+intelmpi-4.0`
 **********************************************************
 
 .. index::
@@ -4349,7 +4350,7 @@ url: http://hpctoolkit.org/documentation.html
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
 **********************************************************
-`pubsw/userguide/docs/modules/hpctoolkit-5.3+mvapich2-1.8`
+`pubsw/userguide/docs/modules/hpctoolkit/5.3+mvapich2-1.8`
 **********************************************************
 
 .. index::
@@ -4378,7 +4379,7 @@ url: http://hpctoolkit.org/documentation.html
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
 *********************************************************
-`pubsw/userguide/docs/modules/hpctoolkit-5.3+openmpi-1.6`
+`pubsw/userguide/docs/modules/hpctoolkit/5.3+openmpi-1.6`
 *********************************************************
 
 .. index::
@@ -4407,7 +4408,7 @@ url: http://hpctoolkit.org/documentation.html
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
 ********************************************
-`pubsw/userguide/docs/modules/hpcviewer-5.3`
+`pubsw/userguide/docs/modules/hpcviewer/5.3`
 ********************************************
 
 .. index::
@@ -4436,7 +4437,7 @@ url: http://hpctoolkit.org/man/hpcviewer.html
 .. _hpcviewer: http://hpctoolkit.org/man/hpcviewer.html
 
 **************************************
-`pubsw/userguide/docs/modules/idl-8.2`
+`pubsw/userguide/docs/modules/idl/8.2`
 **************************************
 
 .. index::
@@ -4465,7 +4466,7 @@ url: http://www.exelisvis.com/ProductsServices/IDL.aspx
 .. _idl: http://www.exelisvis.com/ProductsServices/IDL.aspx
 
 ****************************************
-`pubsw/userguide/docs/modules/ifrit-3.4`
+`pubsw/userguide/docs/modules/ifrit/3.4`
 ****************************************
 
 .. index::
@@ -4494,7 +4495,7 @@ url: https://sites.google.com/site/ifrithome/Home/documentation
 .. _ifrit: https://sites.google.com/site/ifrithome/Home/documentation
 
 *****************************************
-`pubsw/userguide/docs/modules/intel-11.1`
+`pubsw/userguide/docs/modules/intel/11.1`
 *****************************************
 
 .. index::
@@ -4523,7 +4524,7 @@ url: https://software.intel.com/en-us/intel-parallel-studio-xe
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
 *****************************************
-`pubsw/userguide/docs/modules/intel-12.1`
+`pubsw/userguide/docs/modules/intel/12.1`
 *****************************************
 
 .. index::
@@ -4552,7 +4553,7 @@ url: https://software.intel.com/en-us/intel-parallel-studio-xe
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
 *****************************************
-`pubsw/userguide/docs/modules/intel-13.1`
+`pubsw/userguide/docs/modules/intel/13.1`
 *****************************************
 
 .. index::
@@ -4581,7 +4582,7 @@ url: https://software.intel.com/en-us/intel-parallel-studio-xe
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
 *****************************************
-`pubsw/userguide/docs/modules/intel-14.0`
+`pubsw/userguide/docs/modules/intel/14.0`
 *****************************************
 
 .. index::
@@ -4610,7 +4611,7 @@ url: https://software.intel.com/en-us/intel-parallel-studio-xe
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
 *******************************************
-`pubsw/userguide/docs/modules/intelmpi-4.0`
+`pubsw/userguide/docs/modules/intelmpi/4.0`
 *******************************************
 
 .. index::
@@ -4639,7 +4640,7 @@ url: https://software.intel.com/en-us/intel-mpi-library
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
 ******************************************************
-`pubsw/userguide/docs/modules/intelmpi-4.0+intel-12.1`
+`pubsw/userguide/docs/modules/intelmpi/4.0+intel-12.1`
 ******************************************************
 
 .. index::
@@ -4668,7 +4669,7 @@ url: https://software.intel.com/en-us/intel-mpi-library
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
 *******************************************
-`pubsw/userguide/docs/modules/intelmpi-4.1`
+`pubsw/userguide/docs/modules/intelmpi/4.1`
 *******************************************
 
 .. index::
@@ -4697,7 +4698,7 @@ url: https://software.intel.com/en-us/intel-mpi-library
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
 ******************************************************
-`pubsw/userguide/docs/modules/intelmpi-4.1+intel-12.1`
+`pubsw/userguide/docs/modules/intelmpi/4.1+intel-12.1`
 ******************************************************
 
 .. index::
@@ -4726,7 +4727,7 @@ url: https://software.intel.com/en-us/intel-mpi-library
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
 ******************************************************
-`pubsw/userguide/docs/modules/intelmpi-4.1+intel-13.1`
+`pubsw/userguide/docs/modules/intelmpi/4.1+intel-13.1`
 ******************************************************
 
 .. index::
@@ -4755,7 +4756,7 @@ url: https://software.intel.com/en-us/intel-mpi-library
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
 ******************************************************
-`pubsw/userguide/docs/modules/intelmpi-4.1+intel-14.0`
+`pubsw/userguide/docs/modules/intelmpi/4.1+intel-14.0`
 ******************************************************
 
 .. index::
@@ -4784,7 +4785,7 @@ url: https://software.intel.com/en-us/intel-mpi-library
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
 *****************************************
-`pubsw/userguide/docs/modules/ipopt-3.11`
+`pubsw/userguide/docs/modules/ipopt/3.11`
 *****************************************
 
 .. index::
@@ -4813,7 +4814,7 @@ url: https://projects.coin-or.org/Ipopt
 .. _ipopt: https://projects.coin-or.org/Ipopt
 
 **************************************
-`pubsw/userguide/docs/modules/j3d-1.5`
+`pubsw/userguide/docs/modules/j3d/1.5`
 **************************************
 
 .. index::
@@ -4842,7 +4843,7 @@ url: https://java3d.java.net/
 .. _j3d: https://java3d.java.net/
 
 *******************************************
-`pubsw/userguide/docs/modules/jasper-1.900`
+`pubsw/userguide/docs/modules/jasper/1.900`
 *******************************************
 
 .. index::
@@ -4871,7 +4872,7 @@ url: http://www.ece.uvic.ca/~frodo/jasper/
 .. _jasper: http://www.ece.uvic.ca/~frodo/jasper/
 
 ***************************************
-`pubsw/userguide/docs/modules/java-1.7`
+`pubsw/userguide/docs/modules/java/1.7`
 ***************************************
 
 .. index::
@@ -4900,7 +4901,7 @@ url: https://www.oracle.com/java/index.html
 .. _java: https://www.oracle.com/java/index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/jruby-1.7`
+`pubsw/userguide/docs/modules/jruby/1.7`
 ****************************************
 
 .. index::
@@ -4929,7 +4930,7 @@ url: http://jruby.org/documentation
 .. _jruby: http://jruby.org/documentation
 
 *********************************************
-`pubsw/userguide/docs/modules/knitro-9.0.1-z`
+`pubsw/userguide/docs/modules/knitro/9.0.1-z`
 *********************************************
 
 .. index::
@@ -4958,7 +4959,7 @@ url: http://www.ziena.com/knitro.htm
 .. _knitro: http://www.ziena.com/knitro.htm
 
 *******************************************
-`pubsw/userguide/docs/modules/lammps-trunk`
+`pubsw/userguide/docs/modules/lammps/trunk`
 *******************************************
 
 .. index::
@@ -4987,7 +4988,7 @@ url: http://lammps.sandia.gov/doc/Manual.html
 .. _lammps: http://lammps.sandia.gov/doc/Manual.html
 
 ****************************************
-`pubsw/userguide/docs/modules/leveldb-1`
+`pubsw/userguide/docs/modules/leveldb/1`
 ****************************************
 
 .. index::
@@ -5016,7 +5017,7 @@ url: https://github.com/rvagg/node-levelup/blob/master/README.md
 .. _leveldb: https://github.com/rvagg/node-levelup/blob/master/README.md
 
 ****************************************
-`pubsw/userguide/docs/modules/libassp-1`
+`pubsw/userguide/docs/modules/libassp/1`
 ****************************************
 
 .. index::
@@ -5045,7 +5046,7 @@ url: http://libassp.sourceforge.net/toc.html
 .. _libassp: http://libassp.sourceforge.net/toc.html
 
 *****************************************
-`pubsw/userguide/docs/modules/libint-1.1`
+`pubsw/userguide/docs/modules/libint/1.1`
 *****************************************
 
 .. index::
@@ -5074,7 +5075,7 @@ url: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%
 .. _libint: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%20of%20quantum%20mechanical%20matrix%20elements%20over%20Gaussian%20basis%20sets/
 
 *****************************************
-`pubsw/userguide/docs/modules/libint-2.0`
+`pubsw/userguide/docs/modules/libint/2.0`
 *****************************************
 
 .. index::
@@ -5103,7 +5104,7 @@ url: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%
 .. _libint: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%20of%20quantum%20mechanical%20matrix%20elements%20over%20Gaussian%20basis%20sets/
 
 ************************************************
-`pubsw/userguide/docs/modules/libspatialite-4.0`
+`pubsw/userguide/docs/modules/libspatialite/4.0`
 ************************************************
 
 .. index::
@@ -5132,7 +5133,7 @@ url: https://www.gaia-gis.it/fossil/libspatialite/index
 .. _libspatialite: https://www.gaia-gis.it/fossil/libspatialite/index
 
 ******************************************
-`pubsw/userguide/docs/modules/libtool-2.4`
+`pubsw/userguide/docs/modules/libtool/2.4`
 ******************************************
 
 .. index::
@@ -5161,7 +5162,7 @@ url: https://www.gnu.org/software/libtool/manual/html_node/index.html
 .. _libtool: https://www.gnu.org/software/libtool/manual/html_node/index.html
 
 *****************************************
-`pubsw/userguide/docs/modules/mallet-2.0`
+`pubsw/userguide/docs/modules/mallet/2.0`
 *****************************************
 
 .. index::
@@ -5190,7 +5191,7 @@ url: http://mallet.cs.umass.edu/
 .. _mallet: http://mallet.cs.umass.edu/
 
 **********************************************
-`pubsw/userguide/docs/modules/mathematica-8.0`
+`pubsw/userguide/docs/modules/mathematica/8.0`
 **********************************************
 
 .. index::
@@ -5219,7 +5220,7 @@ url: http://www.wolfram.com/mathematica/
 .. _mathematica: http://www.wolfram.com/mathematica/
 
 **********************************************
-`pubsw/userguide/docs/modules/mathematica-9.0`
+`pubsw/userguide/docs/modules/mathematica/9.0`
 **********************************************
 
 .. index::
@@ -5248,7 +5249,7 @@ url: http://www.wolfram.com/mathematica/
 .. _mathematica: http://www.wolfram.com/mathematica/
 
 *******************************************
-`pubsw/userguide/docs/modules/matlab-2011b`
+`pubsw/userguide/docs/modules/matlab/2011b`
 *******************************************
 
 .. index::
@@ -5277,7 +5278,7 @@ url: http://www.mathworks.com/products/matlab/
 .. _matlab: http://www.mathworks.com/products/matlab/
 
 *******************************************
-`pubsw/userguide/docs/modules/matlab-2012a`
+`pubsw/userguide/docs/modules/matlab/2012a`
 *******************************************
 
 .. index::
@@ -5306,7 +5307,7 @@ url: http://www.mathworks.com/products/matlab/
 .. _matlab: http://www.mathworks.com/products/matlab/
 
 *******************************************
-`pubsw/userguide/docs/modules/matlab-2012b`
+`pubsw/userguide/docs/modules/matlab/2012b`
 *******************************************
 
 .. index::
@@ -5335,7 +5336,7 @@ url: http://www.mathworks.com/products/matlab/
 .. _matlab: http://www.mathworks.com/products/matlab/
 
 *******************************************
-`pubsw/userguide/docs/modules/matlab-2013b`
+`pubsw/userguide/docs/modules/matlab/2013b`
 *******************************************
 
 .. index::
@@ -5364,7 +5365,7 @@ url: http://www.mathworks.com/products/matlab/
 .. _matlab: http://www.mathworks.com/products/matlab/
 
 *******************************************
-`pubsw/userguide/docs/modules/matlab-2014b`
+`pubsw/userguide/docs/modules/matlab/2014b`
 *******************************************
 
 .. index::
@@ -5393,7 +5394,7 @@ url: http://www.mathworks.com/products/matlab/
 .. _matlab: http://www.mathworks.com/products/matlab/
 
 ****************************************
-`pubsw/userguide/docs/modules/maven-3.1`
+`pubsw/userguide/docs/modules/maven/3.1`
 ****************************************
 
 .. index::
@@ -5422,7 +5423,7 @@ url: http://maven.apache.org/guides/index.html
 .. _maven: http://maven.apache.org/guides/index.html
 
 ********************************************
-`pubsw/userguide/docs/modules/mercurial-2.5`
+`pubsw/userguide/docs/modules/mercurial/2.5`
 ********************************************
 
 .. index::
@@ -5451,7 +5452,7 @@ url: http://mercurial.selenic.com/guide
 .. _mercurial: http://mercurial.selenic.com/guide
 
 ********************************************
-`pubsw/userguide/docs/modules/mercurial-2.8`
+`pubsw/userguide/docs/modules/mercurial/2.8`
 ********************************************
 
 .. index::
@@ -5480,7 +5481,7 @@ url: http://mercurial.selenic.com/guide
 .. _mercurial: http://mercurial.selenic.com/guide
 
 ********************************************
-`pubsw/userguide/docs/modules/mercurial-3.1`
+`pubsw/userguide/docs/modules/mercurial/3.1`
 ********************************************
 
 .. index::
@@ -5509,7 +5510,7 @@ url: http://mercurial.selenic.com/guide
 .. _mercurial: http://mercurial.selenic.com/guide
 
 ********************************************
-`pubsw/userguide/docs/modules/migrate-n-3.6`
+`pubsw/userguide/docs/modules/migrate-n/3.6`
 ********************************************
 
 .. index::
@@ -5538,7 +5539,7 @@ url: http://popgen.sc.fsu.edu/Migrate/Migrate-n.html
 .. _migrate-n: http://popgen.sc.fsu.edu/Migrate/Migrate-n.html
 
 ***************************************
-`pubsw/userguide/docs/modules/mkl-10.2`
+`pubsw/userguide/docs/modules/mkl/10.2`
 ***************************************
 
 .. index::
@@ -5567,7 +5568,7 @@ url: https://software.intel.com/en-us/intel-mkl
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
 ***************************************
-`pubsw/userguide/docs/modules/mkl-10.3`
+`pubsw/userguide/docs/modules/mkl/10.3`
 ***************************************
 
 .. index::
@@ -5596,7 +5597,7 @@ url: https://software.intel.com/en-us/intel-mkl
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
 ***************************************
-`pubsw/userguide/docs/modules/mkl-11.0`
+`pubsw/userguide/docs/modules/mkl/11.0`
 ***************************************
 
 .. index::
@@ -5625,7 +5626,7 @@ url: https://software.intel.com/en-us/intel-mkl
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
 ***************************************
-`pubsw/userguide/docs/modules/mkl-11.1`
+`pubsw/userguide/docs/modules/mkl/11.1`
 ***************************************
 
 .. index::
@@ -5654,7 +5655,7 @@ url: https://software.intel.com/en-us/intel-mkl
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
 ****************************************
-`pubsw/userguide/docs/modules/mono-2.10`
+`pubsw/userguide/docs/modules/mono/2.10`
 ****************************************
 
 .. index::
@@ -5683,7 +5684,7 @@ url: http://www.mono-project.com/docs/
 .. _mono: http://www.mono-project.com/docs/
 
 ***************************************
-`pubsw/userguide/docs/modules/mosh-1.2`
+`pubsw/userguide/docs/modules/mosh/1.2`
 ***************************************
 
 .. index::
@@ -5712,7 +5713,7 @@ url: https://mosh.mit.edu/
 .. _mosh: https://mosh.mit.edu/
 
 ******************************************
-`pubsw/userguide/docs/modules/mpg123-1.13`
+`pubsw/userguide/docs/modules/mpg123/1.13`
 ******************************************
 
 .. index::
@@ -5741,7 +5742,7 @@ url: http://www.mpg123.de/
 .. _mpg123: http://www.mpg123.de/
 
 ******************************************
-`pubsw/userguide/docs/modules/mpg123-1.14`
+`pubsw/userguide/docs/modules/mpg123/1.14`
 ******************************************
 
 .. index::
@@ -5770,7 +5771,7 @@ url: http://www.mpg123.de/
 .. _mpg123: http://www.mpg123.de/
 
 *************************************************************
-`pubsw/userguide/docs/modules/mpi4py-1.3-2014q1+intelmpi-4.0`
+`pubsw/userguide/docs/modules/mpi4py/1.3-2014q1+intelmpi-4.0`
 *************************************************************
 
 .. index::
@@ -5799,7 +5800,7 @@ url: https://bitbucket.org/mpi4py/mpi4py
 .. _mpi4py: https://bitbucket.org/mpi4py/mpi4py
 
 *************************************************************
-`pubsw/userguide/docs/modules/mpi4py-1.3-2014q3+intelmpi-4.0`
+`pubsw/userguide/docs/modules/mpi4py/1.3-2014q3+intelmpi-4.0`
 *************************************************************
 
 .. index::
@@ -5828,7 +5829,7 @@ url: https://bitbucket.org/mpi4py/mpi4py
 .. _mpi4py: https://bitbucket.org/mpi4py/mpi4py
 
 ******************************************************
-`pubsw/userguide/docs/modules/mpi4py-1.3+intelmpi-4.0`
+`pubsw/userguide/docs/modules/mpi4py/1.3+intelmpi-4.0`
 ******************************************************
 
 .. index::
@@ -5857,7 +5858,7 @@ url: https://bitbucket.org/mpi4py/mpi4py
 .. _mpi4py: https://bitbucket.org/mpi4py/mpi4py
 
 *********************************************
-`pubsw/userguide/docs/modules/mpiblast-trunk`
+`pubsw/userguide/docs/modules/mpiblast/trunk`
 *********************************************
 
 .. index::
@@ -5886,7 +5887,7 @@ url: http://www.mpiblast.org/
 .. _mpiblast: http://www.mpiblast.org/
 
 ********************************************
-`pubsw/userguide/docs/modules/mplayer-trunk`
+`pubsw/userguide/docs/modules/mplayer/trunk`
 ********************************************
 
 .. index::
@@ -5915,7 +5916,7 @@ url: http://www.mplayerhq.hu/design7/documentation.html
 .. _mplayer: http://www.mplayerhq.hu/design7/documentation.html
 
 **********************************************
-`pubsw/userguide/docs/modules/mrbayes-release`
+`pubsw/userguide/docs/modules/mrbayes/release`
 **********************************************
 
 .. index::
@@ -5944,7 +5945,7 @@ url: http://mrbayes.sourceforge.net/manual.php
 .. _mrbayes: http://mrbayes.sourceforge.net/manual.php
 
 *****************************************
-`pubsw/userguide/docs/modules/mumps-4.10`
+`pubsw/userguide/docs/modules/mumps/4.10`
 *****************************************
 
 .. index::
@@ -5973,7 +5974,7 @@ url: http://mumps.enseeiht.fr/index.php?page=doc
 .. _mumps: http://mumps.enseeiht.fr/index.php?page=doc
 
 ****************************************************
-`pubsw/userguide/docs/modules/mvapich2-1.8+pgi-2012`
+`pubsw/userguide/docs/modules/mvapich2/1.8+pgi-2012`
 ****************************************************
 
 .. index::
@@ -6002,7 +6003,7 @@ url: http://mvapich.cse.ohio-state.edu/userguide/
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
 *******************************************
-`pubsw/userguide/docs/modules/mvapich2-1.9`
+`pubsw/userguide/docs/modules/mvapich2/1.9`
 *******************************************
 
 .. index::
@@ -6031,7 +6032,7 @@ url: http://mvapich.cse.ohio-state.edu/userguide/
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
 ******************************************************
-`pubsw/userguide/docs/modules/mvapich2-1.9+intel-12.1`
+`pubsw/userguide/docs/modules/mvapich2/1.9+intel-12.1`
 ******************************************************
 
 .. index::
@@ -6060,7 +6061,7 @@ url: http://mvapich.cse.ohio-state.edu/userguide/
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
 ****************************************************
-`pubsw/userguide/docs/modules/mvapich2-1.9+pgi-2012`
+`pubsw/userguide/docs/modules/mvapich2/1.9+pgi-2012`
 ****************************************************
 
 .. index::
@@ -6089,7 +6090,7 @@ url: http://mvapich.cse.ohio-state.edu/userguide/
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
 *******************************************
-`pubsw/userguide/docs/modules/mvapich2-2.0`
+`pubsw/userguide/docs/modules/mvapich2/2.0`
 *******************************************
 
 .. index::
@@ -6118,7 +6119,7 @@ url: http://mvapich.cse.ohio-state.edu/userguide/
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
 ******************************************************
-`pubsw/userguide/docs/modules/mvapich2-2.0+intel-12.1`
+`pubsw/userguide/docs/modules/mvapich2/2.0+intel-12.1`
 ******************************************************
 
 .. index::
@@ -6147,7 +6148,7 @@ url: http://mvapich.cse.ohio-state.edu/userguide/
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
 ******************************************
-`pubsw/userguide/docs/modules/namd-2.10b1`
+`pubsw/userguide/docs/modules/namd/2.10b1`
 ******************************************
 
 .. index::
@@ -6176,7 +6177,7 @@ url: http://www.ks.uiuc.edu/Research/namd/
 .. _namd: http://www.ks.uiuc.edu/Research/namd/
 
 ***************************************
-`pubsw/userguide/docs/modules/namd-2.9`
+`pubsw/userguide/docs/modules/namd/2.9`
 ***************************************
 
 .. index::
@@ -6205,7 +6206,7 @@ url: http://www.ks.uiuc.edu/Research/namd/
 .. _namd: http://www.ks.uiuc.edu/Research/namd/
 
 ********************************************
-`pubsw/userguide/docs/modules/namd-2.9-cuda`
+`pubsw/userguide/docs/modules/namd/2.9-cuda`
 ********************************************
 
 .. index::
@@ -6234,7 +6235,7 @@ url: http://www.ks.uiuc.edu/Research/namd/
 .. _namd: http://www.ks.uiuc.edu/Research/namd/
 
 ********************************************
-`pubsw/userguide/docs/modules/ncl_ncarg-6.1`
+`pubsw/userguide/docs/modules/ncl_ncarg/6.1`
 ********************************************
 
 .. index::
@@ -6263,7 +6264,7 @@ url: https://www.ncl.ucar.edu/index.shtml
 .. _ncl_ncarg: https://www.ncl.ucar.edu/index.shtml
 
 **************************************
-`pubsw/userguide/docs/modules/nco-4.2`
+`pubsw/userguide/docs/modules/nco/4.2`
 **************************************
 
 .. index::
@@ -6292,7 +6293,7 @@ url: http://nco.sourceforge.net/
 .. _nco: http://nco.sourceforge.net/
 
 **************************************
-`pubsw/userguide/docs/modules/nco-4.3`
+`pubsw/userguide/docs/modules/nco/4.3`
 **************************************
 
 .. index::
@@ -6321,7 +6322,7 @@ url: http://nco.sourceforge.net/
 .. _nco: http://nco.sourceforge.net/
 
 **************************************
-`pubsw/userguide/docs/modules/nco-4.4`
+`pubsw/userguide/docs/modules/nco/4.4`
 **************************************
 
 .. index::
@@ -6350,7 +6351,7 @@ url: http://nco.sourceforge.net/
 .. _nco: http://nco.sourceforge.net/
 
 *******************************************
-`pubsw/userguide/docs/modules/ncview-2.1.1`
+`pubsw/userguide/docs/modules/ncview/2.1.1`
 *******************************************
 
 .. index::
@@ -6379,7 +6380,7 @@ url: http://meteora.ucsd.edu/~pierce/ncview_home_page.html
 .. _ncview: http://meteora.ucsd.edu/~pierce/ncview_home_page.html
 
 *******************************************
-`pubsw/userguide/docs/modules/netcdf-3.6.3`
+`pubsw/userguide/docs/modules/netcdf/3.6.3`
 *******************************************
 
 .. index::
@@ -6408,7 +6409,7 @@ url: http://www.unidata.ucar.edu/software/netcdf/docs/
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
 ******************************************************
-`pubsw/userguide/docs/modules/netcdf-3.6.3+intel-12.1`
+`pubsw/userguide/docs/modules/netcdf/3.6.3+intel-12.1`
 ******************************************************
 
 .. index::
@@ -6437,7 +6438,7 @@ url: http://www.unidata.ucar.edu/software/netcdf/docs/
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
 *****************************************
-`pubsw/userguide/docs/modules/netcdf-4.2`
+`pubsw/userguide/docs/modules/netcdf/4.2`
 *****************************************
 
 .. index::
@@ -6466,7 +6467,7 @@ url: http://www.unidata.ucar.edu/software/netcdf/docs/
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
 ****************************************************
-`pubsw/userguide/docs/modules/netcdf-4.2+intel-12.1`
+`pubsw/userguide/docs/modules/netcdf/4.2+intel-12.1`
 ****************************************************
 
 .. index::
@@ -6495,7 +6496,7 @@ url: http://www.unidata.ucar.edu/software/netcdf/docs/
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
 *****************************************
-`pubsw/userguide/docs/modules/netcdf-4.3`
+`pubsw/userguide/docs/modules/netcdf/4.3`
 *****************************************
 
 .. index::
@@ -6524,7 +6525,7 @@ url: http://www.unidata.ucar.edu/software/netcdf/docs/
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
 *******************************************
-`pubsw/userguide/docs/modules/node-0.10.29`
+`pubsw/userguide/docs/modules/node/0.10.29`
 *******************************************
 
 .. index::
@@ -6553,7 +6554,7 @@ url: http://nodejs.org/api/
 .. _node: http://nodejs.org/api/
 
 *****************************************
-`pubsw/userguide/docs/modules/octave-3.6`
+`pubsw/userguide/docs/modules/octave/3.6`
 *****************************************
 
 .. index::
@@ -6582,7 +6583,7 @@ url: https://www.gnu.org/software/octave/doc/interpreter/index.html
 .. _octave: https://www.gnu.org/software/octave/doc/interpreter/index.html
 
 **********************************************
-`pubsw/userguide/docs/modules/openbabel-2.3.1`
+`pubsw/userguide/docs/modules/openbabel/2.3.1`
 **********************************************
 
 .. index::
@@ -6611,7 +6612,7 @@ url: http://openbabel.org/docs/current/
 .. _openbabel: http://openbabel.org/docs/current/
 
 *********************************************
-`pubsw/userguide/docs/modules/openblas-0.2.6`
+`pubsw/userguide/docs/modules/openblas/0.2.6`
 *********************************************
 
 .. index::
@@ -6640,7 +6641,7 @@ url: https://github.com/xianyi/OpenBLAS/wiki/Document
 .. _openblas: https://github.com/xianyi/OpenBLAS/wiki/Document
 
 *****************************************
-`pubsw/userguide/docs/modules/opencv-2.4`
+`pubsw/userguide/docs/modules/opencv/2.4`
 *****************************************
 
 .. index::
@@ -6669,7 +6670,7 @@ url: http://docs.opencv.org/
 .. _opencv: http://docs.opencv.org/
 
 *******************************************
-`pubsw/userguide/docs/modules/openfoam-2.1`
+`pubsw/userguide/docs/modules/openfoam/2.1`
 *******************************************
 
 .. index::
@@ -6698,7 +6699,7 @@ url: http://www.openfoam.org/docs/
 .. _openfoam: http://www.openfoam.org/docs/
 
 **********************************************************
-`pubsw/userguide/docs/modules/openfoam-pegged+openmpi-1.6`
+`pubsw/userguide/docs/modules/openfoam/pegged+openmpi-1.6`
 **********************************************************
 
 .. index::
@@ -6727,7 +6728,7 @@ url: http://www.openfoam.org/docs/
 .. _openfoam: http://www.openfoam.org/docs/
 
 *****************************************
-`pubsw/userguide/docs/modules/openmm-6.0`
+`pubsw/userguide/docs/modules/openmm/6.0`
 *****************************************
 
 .. index::
@@ -6756,7 +6757,7 @@ url: https://simtk.org/docman/?group_id=161
 .. _openmm: https://simtk.org/docman/?group_id=161
 
 *****************************************
-`pubsw/userguide/docs/modules/openmm-6.1`
+`pubsw/userguide/docs/modules/openmm/6.1`
 *****************************************
 
 .. index::
@@ -6785,7 +6786,7 @@ url: https://simtk.org/docman/?group_id=161
 .. _openmm: https://simtk.org/docman/?group_id=161
 
 ******************************************
-`pubsw/userguide/docs/modules/openmpi-1.6`
+`pubsw/userguide/docs/modules/openmpi/1.6`
 ******************************************
 
 .. index::
@@ -6814,7 +6815,7 @@ url: http://www.open-mpi.org/doc/
 .. _openmpi: http://www.open-mpi.org/doc/
 
 *****************************************************
-`pubsw/userguide/docs/modules/openmpi-1.6+intel-12.1`
+`pubsw/userguide/docs/modules/openmpi/1.6+intel-12.1`
 *****************************************************
 
 .. index::
@@ -6843,7 +6844,7 @@ url: http://www.open-mpi.org/doc/
 .. _openmpi: http://www.open-mpi.org/doc/
 
 ***************************************************
-`pubsw/userguide/docs/modules/openmpi-1.6+pgi-2012`
+`pubsw/userguide/docs/modules/openmpi/1.6+pgi-2012`
 ***************************************************
 
 .. index::
@@ -6872,7 +6873,7 @@ url: http://www.open-mpi.org/doc/
 .. _openmpi: http://www.open-mpi.org/doc/
 
 ******************************************
-`pubsw/userguide/docs/modules/openmpi-1.8`
+`pubsw/userguide/docs/modules/openmpi/1.8`
 ******************************************
 
 .. index::
@@ -6901,7 +6902,7 @@ url: http://www.open-mpi.org/doc/
 .. _openmpi: http://www.open-mpi.org/doc/
 
 *****************************************************
-`pubsw/userguide/docs/modules/openmpi-1.8+intel-12.1`
+`pubsw/userguide/docs/modules/openmpi/1.8+intel-12.1`
 *****************************************************
 
 .. index::
@@ -6930,7 +6931,7 @@ url: http://www.open-mpi.org/doc/
 .. _openmpi: http://www.open-mpi.org/doc/
 
 ***************************************
-`pubsw/userguide/docs/modules/papi-5.1`
+`pubsw/userguide/docs/modules/papi/5.1`
 ***************************************
 
 .. index::
@@ -6959,7 +6960,7 @@ url: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
 .. _papi: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
 
 ***************************************
-`pubsw/userguide/docs/modules/papi-5.3`
+`pubsw/userguide/docs/modules/papi/5.3`
 ***************************************
 
 .. index::
@@ -6988,7 +6989,7 @@ url: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
 .. _papi: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
 
 **********************************************
-`pubsw/userguide/docs/modules/parallel-latest`
+`pubsw/userguide/docs/modules/parallel/latest`
 **********************************************
 
 .. index::
@@ -7017,7 +7018,7 @@ url: http://www.gnu.org/software/parallel/
 .. _parallel: http://www.gnu.org/software/parallel/
 
 ********************************************
-`pubsw/userguide/docs/modules/paraview-3.14`
+`pubsw/userguide/docs/modules/paraview/3.14`
 ********************************************
 
 .. index::
@@ -7046,7 +7047,7 @@ url: http://www.paraview.org/documentation/
 .. _paraview: http://www.paraview.org/documentation/
 
 *********************************************
-`pubsw/userguide/docs/modules/pdtoolkit-3.18`
+`pubsw/userguide/docs/modules/pdtoolkit/3.18`
 *********************************************
 
 .. index::
@@ -7075,7 +7076,7 @@ url: http://www.cs.uoregon.edu/research/pdt/docs.php
 .. _pdtoolkit: http://www.cs.uoregon.edu/research/pdt/docs.php
 
 ****************************************
-`pubsw/userguide/docs/modules/perl-5.18`
+`pubsw/userguide/docs/modules/perl/5.18`
 ****************************************
 
 .. index::
@@ -7104,7 +7105,7 @@ url: https://www.perl.org/docs.html
 .. _perl: https://www.perl.org/docs.html
 
 ****************************************************
-`pubsw/userguide/docs/modules/petsc-3.4+openmpi-1.6`
+`pubsw/userguide/docs/modules/petsc/3.4+openmpi-1.6`
 ****************************************************
 
 .. index::
@@ -7133,7 +7134,7 @@ url: http://www.mcs.anl.gov/petsc/documentation/index.html
 .. _petsc: http://www.mcs.anl.gov/petsc/documentation/index.html
 
 ***************************************
-`pubsw/userguide/docs/modules/pgi-2012`
+`pubsw/userguide/docs/modules/pgi/2012`
 ***************************************
 
 .. index::
@@ -7162,7 +7163,7 @@ url: http://www.pgroup.com/
 .. _pgi: http://www.pgroup.com/
 
 ***************************************
-`pubsw/userguide/docs/modules/pgi-2013`
+`pubsw/userguide/docs/modules/pgi/2013`
 ***************************************
 
 .. index::
@@ -7191,7 +7192,7 @@ url: http://www.pgroup.com/
 .. _pgi: http://www.pgroup.com/
 
 ******************************************
-`pubsw/userguide/docs/modules/picrust-1.0`
+`pubsw/userguide/docs/modules/picrust/1.0`
 ******************************************
 
 .. index::
@@ -7220,7 +7221,7 @@ url: http://picrust.github.io/picrust/
 .. _picrust: http://picrust.github.io/picrust/
 
 ***************************************
-`pubsw/userguide/docs/modules/pism-0.6`
+`pubsw/userguide/docs/modules/pism/0.6`
 ***************************************
 
 .. index::
@@ -7249,7 +7250,7 @@ url: http://www.pism-docs.org/wiki/doku.php
 .. _pism: http://www.pism-docs.org/wiki/doku.php
 
 *********************************************
-`pubsw/userguide/docs/modules/postgresql-9.2`
+`pubsw/userguide/docs/modules/postgresql/9.2`
 *********************************************
 
 .. index::
@@ -7278,7 +7279,7 @@ url: http://www.postgresql.org/docs/
 .. _postgresql: http://www.postgresql.org/docs/
 
 *********************************************
-`pubsw/userguide/docs/modules/postgresql-9.3`
+`pubsw/userguide/docs/modules/postgresql/9.3`
 *********************************************
 
 .. index::
@@ -7307,7 +7308,7 @@ url: http://www.postgresql.org/docs/
 .. _postgresql: http://www.postgresql.org/docs/
 
 *******************************************
-`pubsw/userguide/docs/modules/povray-3.6.1`
+`pubsw/userguide/docs/modules/povray/3.6.1`
 *******************************************
 
 .. index::
@@ -7336,7 +7337,7 @@ url: http://www.povray.org/documentation/3.7.0/
 .. _povray: http://www.povray.org/documentation/3.7.0/
 
 ****************************************
-`pubsw/userguide/docs/modules/praat-5.3`
+`pubsw/userguide/docs/modules/praat/5.3`
 ****************************************
 
 .. index::
@@ -7365,7 +7366,7 @@ url: http://www.fon.hum.uva.nl/praat/
 .. _praat: http://www.fon.hum.uva.nl/praat/
 
 ****************************************
-`pubsw/userguide/docs/modules/prism-4.0`
+`pubsw/userguide/docs/modules/prism/4.0`
 ****************************************
 
 .. index::
@@ -7394,7 +7395,7 @@ url: http://www.prismmodelchecker.org/doc/
 .. _prism: http://www.prismmodelchecker.org/doc/
 
 ***************************************
-`pubsw/userguide/docs/modules/proj-4.8`
+`pubsw/userguide/docs/modules/proj/4.8`
 ***************************************
 
 .. index::
@@ -7423,7 +7424,7 @@ url: trac.osgeo.org/proj/
 .. _proj: trac.osgeo.org/proj/
 
 ********************************************
-`pubsw/userguide/docs/modules/proot-current`
+`pubsw/userguide/docs/modules/proot/current`
 ********************************************
 
 .. index::
@@ -7452,7 +7453,7 @@ url: http://proot.me/
 .. _proot: http://proot.me/
 
 *******************************************
-`pubsw/userguide/docs/modules/protobuf-2.5`
+`pubsw/userguide/docs/modules/protobuf/2.5`
 *******************************************
 
 .. index::
@@ -7481,7 +7482,7 @@ url: https://developers.google.com/protocol-buffers/docs/overview
 .. _protobuf: https://developers.google.com/protocol-buffers/docs/overview
 
 ****************************************
-`pubsw/userguide/docs/modules/pymol-svn`
+`pubsw/userguide/docs/modules/pymol/svn`
 ****************************************
 
 .. index::
@@ -7510,7 +7511,7 @@ url: http://www.pymol.org/
 .. _pymol: http://www.pymol.org/
 
 ***************************************
-`pubsw/userguide/docs/modules/pypy-1.8`
+`pubsw/userguide/docs/modules/pypy/1.8`
 ***************************************
 
 .. index::
@@ -7539,7 +7540,7 @@ url: http://doc.pypy.org/en/latest/
 .. _pypy: http://doc.pypy.org/en/latest/
 
 *****************************************
-`pubsw/userguide/docs/modules/python-2.7`
+`pubsw/userguide/docs/modules/python/2.7`
 *****************************************
 
 .. index::
@@ -7568,7 +7569,7 @@ url: https://www.python.org/doc/
 .. _python: https://www.python.org/doc/
 
 ************************************************
-`pubsw/userguide/docs/modules/python-2.7-2013q4`
+`pubsw/userguide/docs/modules/python/2.7-2013q4`
 ************************************************
 
 .. index::
@@ -7597,7 +7598,7 @@ url: https://www.python.org/doc/
 .. _python: https://www.python.org/doc/
 
 ************************************************
-`pubsw/userguide/docs/modules/python-2.7-2014q1`
+`pubsw/userguide/docs/modules/python/2.7-2014q1`
 ************************************************
 
 .. index::
@@ -7626,7 +7627,7 @@ url: https://www.python.org/doc/
 .. _python: https://www.python.org/doc/
 
 ************************************************
-`pubsw/userguide/docs/modules/python-2.7-2014q2`
+`pubsw/userguide/docs/modules/python/2.7-2014q2`
 ************************************************
 
 .. index::
@@ -7655,7 +7656,7 @@ url: https://www.python.org/doc/
 .. _python: https://www.python.org/doc/
 
 ************************************************
-`pubsw/userguide/docs/modules/python-2.7-2014q3`
+`pubsw/userguide/docs/modules/python/2.7-2014q3`
 ************************************************
 
 .. index::
@@ -7684,7 +7685,7 @@ url: https://www.python.org/doc/
 .. _python: https://www.python.org/doc/
 
 *****************************************
-`pubsw/userguide/docs/modules/python-3.3`
+`pubsw/userguide/docs/modules/python/3.3`
 *****************************************
 
 .. index::
@@ -7713,7 +7714,7 @@ url: https://www.python.org/doc/
 .. _python: https://www.python.org/doc/
 
 ****************************************
-`pubsw/userguide/docs/modules/qd-2.3.14`
+`pubsw/userguide/docs/modules/qd/2.3.14`
 ****************************************
 
 .. index::
@@ -7742,7 +7743,7 @@ url: http://crd-legacy.lbl.gov/~dhbailey/mpdist/
 .. _qd: http://crd-legacy.lbl.gov/~dhbailey/mpdist/
 
 ***************************************
-`pubsw/userguide/docs/modules/qgis-1.8`
+`pubsw/userguide/docs/modules/qgis/1.8`
 ***************************************
 
 .. index::
@@ -7771,7 +7772,7 @@ url: http://www.qgis.org/en/docs/index.html
 .. _qgis: http://www.qgis.org/en/docs/index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/qiime-1.6`
+`pubsw/userguide/docs/modules/qiime/1.6`
 ****************************************
 
 .. index::
@@ -7800,7 +7801,7 @@ url: http://qiime.org/documentation_index.html
 .. _qiime: http://qiime.org/documentation_index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/qiime-1.7`
+`pubsw/userguide/docs/modules/qiime/1.7`
 ****************************************
 
 .. index::
@@ -7829,7 +7830,7 @@ url: http://qiime.org/documentation_index.html
 .. _qiime: http://qiime.org/documentation_index.html
 
 ****************************************
-`pubsw/userguide/docs/modules/qiime-1.8`
+`pubsw/userguide/docs/modules/qiime/1.8`
 ****************************************
 
 .. index::
@@ -7858,7 +7859,7 @@ url: http://qiime.org/documentation_index.html
 .. _qiime: http://qiime.org/documentation_index.html
 
 *************************************
-`pubsw/userguide/docs/modules/qt-3.3`
+`pubsw/userguide/docs/modules/qt/3.3`
 *************************************
 
 .. index::
@@ -7887,7 +7888,7 @@ url: http://qt-project.org/doc/
 .. _qt: http://qt-project.org/doc/
 
 *************************************
-`pubsw/userguide/docs/modules/qt-4.7`
+`pubsw/userguide/docs/modules/qt/4.7`
 *************************************
 
 .. index::
@@ -7916,7 +7917,7 @@ url: http://qt-project.org/doc/
 .. _qt: http://qt-project.org/doc/
 
 *************************************
-`pubsw/userguide/docs/modules/qt-4.8`
+`pubsw/userguide/docs/modules/qt/4.8`
 *************************************
 
 .. index::
@@ -7945,7 +7946,7 @@ url: http://qt-project.org/doc/
 .. _qt: http://qt-project.org/doc/
 
 **************************************
-`pubsw/userguide/docs/modules/qwt-6.0`
+`pubsw/userguide/docs/modules/qwt/6.0`
 **************************************
 
 .. index::
@@ -7974,7 +7975,7 @@ url: http://qwt.sourceforge.net/
 .. _qwt: http://qwt.sourceforge.net/
 
 ******************************************
-`pubsw/userguide/docs/modules/rapsearch-2`
+`pubsw/userguide/docs/modules/rapsearch/2`
 ******************************************
 
 .. index::
@@ -8003,7 +8004,7 @@ url: https://github.com/zhaoyanswill/RAPSearch2
 .. _rapsearch: https://github.com/zhaoyanswill/RAPSearch2
 
 ******************************************
-`pubsw/userguide/docs/modules/raxml-trunk`
+`pubsw/userguide/docs/modules/raxml/trunk`
 ******************************************
 
 .. index::
@@ -8032,7 +8033,7 @@ url: http://sco.h-its.org/exelixis/web/software/raxml/index.html
 .. _raxml: http://sco.h-its.org/exelixis/web/software/raxml/index.html
 
 *******************************************
-`pubsw/userguide/docs/modules/rstudio-0.97`
+`pubsw/userguide/docs/modules/rstudio/0.97`
 *******************************************
 
 .. index::
@@ -8061,7 +8062,7 @@ url: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 .. _rstudio: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 
 *******************************************
-`pubsw/userguide/docs/modules/rstudio-0.98`
+`pubsw/userguide/docs/modules/rstudio/0.98`
 *******************************************
 
 .. index::
@@ -8090,7 +8091,7 @@ url: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 .. _rstudio: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 
 ***************************************
-`pubsw/userguide/docs/modules/ruby-2.1`
+`pubsw/userguide/docs/modules/ruby/2.1`
 ***************************************
 
 .. index::
@@ -8119,7 +8120,7 @@ url: https://www.ruby-lang.org/en/documentation/
 .. _ruby: https://www.ruby-lang.org/en/documentation/
 
 ****************************************************
-`pubsw/userguide/docs/modules/sdpa-7.3.8+intel-12.1`
+`pubsw/userguide/docs/modules/sdpa/7.3.8+intel-12.1`
 ****************************************************
 
 .. index::
@@ -8148,7 +8149,7 @@ url: http://sdpa.sourceforge.net/index.html
 .. _sdpa: http://sdpa.sourceforge.net/index.html
 
 *******************************************************
-`pubsw/userguide/docs/modules/sdpa-dd-7.1.2+intel-12.1`
+`pubsw/userguide/docs/modules/sdpa-dd/7.1.2+intel-12.1`
 *******************************************************
 
 .. index::
@@ -8177,7 +8178,7 @@ url: http://sdpa.sourceforge.net/index.html
 .. _sdpa-dd: http://sdpa.sourceforge.net/index.html
 
 ********************************************************
-`pubsw/userguide/docs/modules/sdpa-gmp-7.1.2+intel-12.1`
+`pubsw/userguide/docs/modules/sdpa-gmp/7.1.2+intel-12.1`
 ********************************************************
 
 .. index::
@@ -8206,7 +8207,7 @@ url: http://sdpa.sourceforge.net/index.html
 .. _sdpa-gmp: http://sdpa.sourceforge.net/index.html
 
 *******************************************************
-`pubsw/userguide/docs/modules/sdpa-qd-7.1.2+intel-12.1`
+`pubsw/userguide/docs/modules/sdpa-qd/7.1.2+intel-12.1`
 *******************************************************
 
 .. index::
@@ -8235,7 +8236,7 @@ url: http://sdpa.sourceforge.net/index.html
 .. _sdpa-qd: http://sdpa.sourceforge.net/index.html
 
 *******************************************
-`pubsw/userguide/docs/modules/smlnj-110.74`
+`pubsw/userguide/docs/modules/smlnj/110.74`
 *******************************************
 
 .. index::
@@ -8264,7 +8265,7 @@ url: http://www.smlnj.org/
 .. _smlnj: http://www.smlnj.org/
 
 *******************************************
-`pubsw/userguide/docs/modules/smlnj-110.76`
+`pubsw/userguide/docs/modules/smlnj/110.76`
 *******************************************
 
 .. index::
@@ -8293,7 +8294,7 @@ url: http://www.smlnj.org/
 .. _smlnj: http://www.smlnj.org/
 
 ****************************************
-`pubsw/userguide/docs/modules/snack-2.2`
+`pubsw/userguide/docs/modules/snack/2.2`
 ****************************************
 
 .. index::
@@ -8322,7 +8323,7 @@ url: http://www.speech.kth.se/snack/man/snack2.2/tcl-man.html
 .. _snack: http://www.speech.kth.se/snack/man/snack2.2/tcl-man.html
 
 *********************************************
-`pubsw/userguide/docs/modules/sparsehash-2.0`
+`pubsw/userguide/docs/modules/sparsehash/2.0`
 *********************************************
 
 .. index::
@@ -8351,7 +8352,7 @@ url: http://google-sparsehash.googlecode.com/svn/trunk/doc/index.html
 .. _sparsehash: http://google-sparsehash.googlecode.com/svn/trunk/doc/index.html
 
 ***********************************************
-`pubsw/userguide/docs/modules/spatialindex-1.8`
+`pubsw/userguide/docs/modules/spatialindex/1.8`
 ***********************************************
 
 .. index::
@@ -8380,7 +8381,7 @@ url: http://libspatialindex.github.io/
 .. _spatialindex: http://libspatialindex.github.io/
 
 *************************************
-`pubsw/userguide/docs/modules/spm-12`
+`pubsw/userguide/docs/modules/spm/12`
 *************************************
 
 .. index::
@@ -8409,7 +8410,7 @@ url: http://www.fil.ion.ucl.ac.uk/spm/doc/
 .. _spm: http://www.fil.ion.ucl.ac.uk/spm/doc/
 
 ************************************
-`pubsw/userguide/docs/modules/spm-8`
+`pubsw/userguide/docs/modules/spm/8`
 ************************************
 
 .. index::
@@ -8438,7 +8439,7 @@ url: http://www.fil.ion.ucl.ac.uk/spm/doc/
 .. _spm: http://www.fil.ion.ucl.ac.uk/spm/doc/
 
 ***********************************************
-`pubsw/userguide/docs/modules/stanford-nlp-3.3`
+`pubsw/userguide/docs/modules/stanford-nlp/3.3`
 ***********************************************
 
 .. index::
@@ -8467,7 +8468,7 @@ url: http://nlp.stanford.edu/software/corenlp.shtml
 .. _stanford-nlp: http://nlp.stanford.edu/software/corenlp.shtml
 
 ***************************************
-`pubsw/userguide/docs/modules/stata-13`
+`pubsw/userguide/docs/modules/stata/13`
 ***************************************
 
 .. index::
@@ -8496,7 +8497,7 @@ url: http://www.stata.com/
 .. _stata: http://www.stata.com/
 
 ******************************************
-`pubsw/userguide/docs/modules/stata-13-64`
+`pubsw/userguide/docs/modules/stata/13-64`
 ******************************************
 
 .. index::
@@ -8525,7 +8526,7 @@ url: http://www.stata.com/
 .. _stata: http://www.stata.com/
 
 *********************************************
-`pubsw/userguide/docs/modules/subversion-1.6`
+`pubsw/userguide/docs/modules/subversion/1.6`
 *********************************************
 
 .. index::
@@ -8554,7 +8555,7 @@ url: https://subversion.apache.org/docs/
 .. _subversion: https://subversion.apache.org/docs/
 
 *********************************************
-`pubsw/userguide/docs/modules/subversion-1.7`
+`pubsw/userguide/docs/modules/subversion/1.7`
 *********************************************
 
 .. index::
@@ -8583,7 +8584,7 @@ url: https://subversion.apache.org/docs/
 .. _subversion: https://subversion.apache.org/docs/
 
 *********************************************
-`pubsw/userguide/docs/modules/subversion-1.8`
+`pubsw/userguide/docs/modules/subversion/1.8`
 *********************************************
 
 .. index::
@@ -8612,7 +8613,7 @@ url: https://subversion.apache.org/docs/
 .. _subversion: https://subversion.apache.org/docs/
 
 *************************************************
-`pubsw/userguide/docs/modules/subversion-keyring`
+`pubsw/userguide/docs/modules/subversion/keyring`
 *************************************************
 
 .. index::
@@ -8641,7 +8642,7 @@ url: https://subversion.apache.org/docs/
 .. _subversion: https://subversion.apache.org/docs/
 
 *****************************************
-`pubsw/userguide/docs/modules/swift-0.94`
+`pubsw/userguide/docs/modules/swift/0.94`
 *****************************************
 
 .. index::
@@ -8670,7 +8671,7 @@ url: https://developer.apple.com/swift/resources/
 .. _swift: https://developer.apple.com/swift/resources/
 
 *******************************************
-`pubsw/userguide/docs/modules/swift-0.94.1`
+`pubsw/userguide/docs/modules/swift/0.94.1`
 *******************************************
 
 .. index::
@@ -8699,7 +8700,7 @@ url: https://developer.apple.com/swift/resources/
 .. _swift: https://developer.apple.com/swift/resources/
 
 *********************************************
-`pubsw/userguide/docs/modules/swift-0.95-RC1`
+`pubsw/userguide/docs/modules/swift/0.95-RC1`
 *********************************************
 
 .. index::
@@ -8728,7 +8729,7 @@ url: https://developer.apple.com/swift/resources/
 .. _swift: https://developer.apple.com/swift/resources/
 
 *********************************************
-`pubsw/userguide/docs/modules/swift-0.95-RC5`
+`pubsw/userguide/docs/modules/swift/0.95-RC5`
 *********************************************
 
 .. index::
@@ -8757,7 +8758,7 @@ url: https://developer.apple.com/swift/resources/
 .. _swift: https://developer.apple.com/swift/resources/
 
 ******************************************
-`pubsw/userguide/docs/modules/tcllib-1.15`
+`pubsw/userguide/docs/modules/tcllib/1.15`
 ******************************************
 
 .. index::
@@ -8786,7 +8787,7 @@ url: http://core.tcl.tk/tcllib/doc/trunk/embedded/www/toc.html
 .. _tcllib: http://core.tcl.tk/tcllib/doc/trunk/embedded/www/toc.html
 
 *****************************************
-`pubsw/userguide/docs/modules/teem-trunk`
+`pubsw/userguide/docs/modules/teem/trunk`
 *****************************************
 
 .. index::
@@ -8815,7 +8816,7 @@ url: http://teem.sourceforge.net/
 .. _teem: http://teem.sourceforge.net/
 
 ********************************************
-`pubsw/userguide/docs/modules/texinfo-4.13a`
+`pubsw/userguide/docs/modules/texinfo/4.13a`
 ********************************************
 
 .. index::
@@ -8844,7 +8845,7 @@ url: http://www.gnu.org/software/texinfo/
 .. _texinfo: http://www.gnu.org/software/texinfo/
 
 *******************************************
-`pubsw/userguide/docs/modules/texlive-2012`
+`pubsw/userguide/docs/modules/texlive/2012`
 *******************************************
 
 .. index::
@@ -8873,7 +8874,7 @@ url: https://www.tug.org/texlive/doc.html
 .. _texlive: https://www.tug.org/texlive/doc.html
 
 ****************************************
-`pubsw/userguide/docs/modules/tklib-0.5`
+`pubsw/userguide/docs/modules/tklib/0.5`
 ****************************************
 
 .. index::
@@ -8902,7 +8903,7 @@ url: http://core.tcl.tk/tklib/doc/trunk/embedded/www/toc.html
 .. _tklib: http://core.tcl.tk/tklib/doc/trunk/embedded/www/toc.html
 
 *****************************************
-`pubsw/userguide/docs/modules/tree-1.6.0`
+`pubsw/userguide/docs/modules/tree/1.6.0`
 *****************************************
 
 .. index::
@@ -8931,7 +8932,7 @@ url: http://mama.indstate.edu/users/ice/tree/tree.1.html
 .. _tree: http://mama.indstate.edu/users/ice/tree/tree.1.html
 
 *****************************************
-`pubsw/userguide/docs/modules/treepl-git`
+`pubsw/userguide/docs/modules/treepl/git`
 *****************************************
 
 .. index::
@@ -8960,7 +8961,7 @@ url: http://blackrim.org/programs/treepl/
 .. _treepl: http://blackrim.org/programs/treepl/
 
 *********************************************
-`pubsw/userguide/docs/modules/uclust-1.2.22q`
+`pubsw/userguide/docs/modules/uclust/1.2.22q`
 *********************************************
 
 .. index::
@@ -8989,7 +8990,7 @@ url: http://drive5.com/usearch/manual/uclust_algo.html
 .. _uclust: http://drive5.com/usearch/manual/uclust_algo.html
 
 ******************************************
-`pubsw/userguide/docs/modules/udunits-2.1`
+`pubsw/userguide/docs/modules/udunits/2.1`
 ******************************************
 
 .. index::
@@ -9018,7 +9019,7 @@ url: http://www.unidata.ucar.edu/software/udunits/
 .. _udunits: http://www.unidata.ucar.edu/software/udunits/
 
 ****************************************
-`pubsw/userguide/docs/modules/unrar-5.0`
+`pubsw/userguide/docs/modules/unrar/5.0`
 ****************************************
 
 .. index::
@@ -9047,7 +9048,7 @@ url: http://www.rarlab.com/rar_add.htm
 .. _unrar: http://www.rarlab.com/rar_add.htm
 
 ******************************************
-`pubsw/userguide/docs/modules/usearch-6.1`
+`pubsw/userguide/docs/modules/usearch/6.1`
 ******************************************
 
 .. index::
@@ -9076,7 +9077,7 @@ url: http://www.drive5.com/usearch/manual/
 .. _usearch: http://www.drive5.com/usearch/manual/
 
 *******************************************
-`pubsw/userguide/docs/modules/valgrind-3.7`
+`pubsw/userguide/docs/modules/valgrind/3.7`
 *******************************************
 
 .. index::
@@ -9105,7 +9106,7 @@ url: http://valgrind.org/docs/manual/
 .. _valgrind: http://valgrind.org/docs/manual/
 
 *******************************************
-`pubsw/userguide/docs/modules/valgrind-3.8`
+`pubsw/userguide/docs/modules/valgrind/3.8`
 *******************************************
 
 .. index::
@@ -9134,7 +9135,7 @@ url: http://valgrind.org/docs/manual/
 .. _valgrind: http://valgrind.org/docs/manual/
 
 *******************************************
-`pubsw/userguide/docs/modules/valgrind-3.9`
+`pubsw/userguide/docs/modules/valgrind/3.9`
 *******************************************
 
 .. index::
@@ -9163,7 +9164,7 @@ url: http://valgrind.org/docs/manual/
 .. _valgrind: http://valgrind.org/docs/manual/
 
 *******************************************
-`pubsw/userguide/docs/modules/valkyrie-2.0`
+`pubsw/userguide/docs/modules/valkyrie/2.0`
 *******************************************
 
 .. index::
@@ -9192,7 +9193,7 @@ url: http://valgrind.org/downloads/guis.html
 .. _valkyrie: http://valgrind.org/downloads/guis.html
 
 **************************************
-`pubsw/userguide/docs/modules/vim-7.3`
+`pubsw/userguide/docs/modules/vim/7.3`
 **************************************
 
 .. index::
@@ -9221,7 +9222,7 @@ url: http://www.vim.org/docs.php
 .. _vim: http://www.vim.org/docs.php
 
 **************************************
-`pubsw/userguide/docs/modules/vim-7.4`
+`pubsw/userguide/docs/modules/vim/7.4`
 **************************************
 
 .. index::
@@ -9250,7 +9251,7 @@ url: http://www.vim.org/docs.php
 .. _vim: http://www.vim.org/docs.php
 
 ****************************************
-`pubsw/userguide/docs/modules/visit-2.6`
+`pubsw/userguide/docs/modules/visit/2.6`
 ****************************************
 
 .. index::
@@ -9279,7 +9280,7 @@ url: https://wci.llnl.gov/simulation/computer-codes/visit/faqs
 .. _visit: https://wci.llnl.gov/simulation/computer-codes/visit/faqs
 
 **************************************
-`pubsw/userguide/docs/modules/vmd-1.9`
+`pubsw/userguide/docs/modules/vmd/1.9`
 **************************************
 
 .. index::
@@ -9308,7 +9309,7 @@ url: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 .. _vmd: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 
 ****************************************
-`pubsw/userguide/docs/modules/vmd-1.9.1`
+`pubsw/userguide/docs/modules/vmd/1.9.1`
 ****************************************
 
 .. index::
@@ -9337,7 +9338,7 @@ url: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 .. _vmd: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 
 ***************************************
-`pubsw/userguide/docs/modules/vtk-5.10`
+`pubsw/userguide/docs/modules/vtk/5.10`
 ***************************************
 
 .. index::
@@ -9366,7 +9367,7 @@ url: http://www.vtk.org/VTK/resources/resources.html
 .. _vtk: http://www.vtk.org/VTK/resources/resources.html
 
 *********************************************************
-`pubsw/userguide/docs/modules/vtk-5.10+python-2.7-2014q1`
+`pubsw/userguide/docs/modules/vtk/5.10+python-2.7-2014q1`
 *********************************************************
 
 .. index::
@@ -9395,7 +9396,7 @@ url: http://www.vtk.org/VTK/resources/resources.html
 .. _vtk: http://www.vtk.org/VTK/resources/resources.html
 
 **************************************
-`pubsw/userguide/docs/modules/vtk-5.8`
+`pubsw/userguide/docs/modules/vtk/5.8`
 **************************************
 
 .. index::
@@ -9424,7 +9425,7 @@ url: http://www.vtk.org/VTK/resources/resources.html
 .. _vtk: http://www.vtk.org/VTK/resources/resources.html
 
 ***************************************
-`pubsw/userguide/docs/modules/weka-3.6`
+`pubsw/userguide/docs/modules/weka/3.6`
 ***************************************
 
 .. index::
@@ -9453,7 +9454,7 @@ url: http://www.cs.waikato.ac.nz/ml/weka/documentation.html
 .. _weka: http://www.cs.waikato.ac.nz/ml/weka/documentation.html
 
 *****************************************
-`pubsw/userguide/docs/modules/wgrib2-0.1`
+`pubsw/userguide/docs/modules/wgrib2/0.1`
 *****************************************
 
 .. index::
@@ -9482,7 +9483,7 @@ url: http://www.cpc.noaa.gov/products/wesley/wgrib2/
 .. _wgrib2: http://www.cpc.noaa.gov/products/wesley/wgrib2/
 
 *********************************************
-`pubsw/userguide/docs/modules/word2vec-trunk`
+`pubsw/userguide/docs/modules/word2vec/trunk`
 *********************************************
 
 .. index::
@@ -9511,7 +9512,7 @@ url: https://code.google.com/p/word2vec/
 .. _word2vec: https://code.google.com/p/word2vec/
 
 ********************************************
-`pubsw/userguide/docs/modules/wxwidgets-2.8`
+`pubsw/userguide/docs/modules/wxwidgets/2.8`
 ********************************************
 
 .. index::
@@ -9540,7 +9541,7 @@ url: https://www.wxwidgets.org/docs/
 .. _wxwidgets: https://www.wxwidgets.org/docs/
 
 ******************************************
-`pubsw/userguide/docs/modules/x264-stable`
+`pubsw/userguide/docs/modules/x264/stable`
 ******************************************
 
 .. index::
@@ -9569,7 +9570,7 @@ url: http://www.videolan.org/developers/x264.html
 .. _x264: http://www.videolan.org/developers/x264.html
 
 ***************************************
-`pubsw/userguide/docs/modules/yasm-1.2`
+`pubsw/userguide/docs/modules/yasm/1.2`
 ***************************************
 
 .. index::
@@ -9598,7 +9599,7 @@ url: http://yasm.tortall.net/Guide.html
 .. _yasm: http://yasm.tortall.net/Guide.html
 
 **************************************
-`pubsw/userguide/docs/modules/yaz-5.4`
+`pubsw/userguide/docs/modules/yaz/5.4`
 **************************************
 
 .. index::
@@ -9627,7 +9628,7 @@ url: http://www.indexdata.com/yaz/doc/
 .. _yaz: http://www.indexdata.com/yaz/doc/
 
 *************************************
-`pubsw/userguide/docs/modules/yt-3.0`
+`pubsw/userguide/docs/modules/yt/3.0`
 *************************************
 
 .. index::
@@ -9656,7 +9657,7 @@ url: http://yt-project.org
 .. _yt: http://yt-project.org
 
 ***************************************
-`pubsw/userguide/docs/modules/zlib-1.2`
+`pubsw/userguide/docs/modules/zlib/1.2`
 ***************************************
 
 .. index::
