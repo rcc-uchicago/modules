@@ -58,7 +58,7 @@ usage:
 
 def print_yaml(module):
     (name, vers) = module['name'], module['version']
-    fpath = "``{}/{}/info.yaml``".format(name, vers)
+    fpath = "`{}/{}/info.yaml`".format(name, vers)
     # with open(fpath, 'w') as file:
     print "####", fpath
     print yaml.format(**module)
@@ -66,7 +66,7 @@ def print_yaml(module):
 def print_rst(module):
     rst = rst_template.render(module)
     (name, vers) = module['name'], module['version']
-    fpath = "`pubsw/userguide/docs/modules/{}/{}`".format(name, vers)
+    fpath = "pubsw/userguide/docs/modules/{}/{}".format(name, vers)
     line = '*' * len(fpath)
     print line
     print fpath
@@ -78,5 +78,5 @@ for name, module in sorted(data.items()):
         module['version'] = version
         module['categories'] = list(module['categories'])
         module['tags'] = list(module['tags'])
-        # print_yaml(module)
-        print_rst(module)
+        print_yaml(module)
+        # print_rst(module)
