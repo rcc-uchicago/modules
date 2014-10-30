@@ -12,13 +12,18 @@ Minuit2_
 --------
 
 name: Minuit2
+
 description: "tool for function minimization"
+
 version: 5.34
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['astrophysics', 'high energy physics', 'physics', 'mathematics']
+
 url: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
-usage:
 
 .. _Minuit2: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
 
@@ -36,13 +41,18 @@ Minuit2_
 --------
 
 name: Minuit2
+
 description: "tool for function minimization"
+
 version: 5.34+intel-12.1
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['astrophysics', 'high energy physics', 'physics', 'mathematics']
+
 url: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
-usage:
 
 .. _Minuit2: http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/
 
@@ -60,13 +70,18 @@ R_
 --
 
 name: R
+
 description: "programming language/environment for statistical computation and graphics"
+
 version: 2.15
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'statistics', 'visualization', 'development tools']
+
 url: http://www.r-project.org/
-usage:
 
 .. _R: http://www.r-project.org/
 
@@ -84,13 +99,18 @@ R_
 --
 
 name: R
+
 description: "programming language/environment for statistical computation and graphics"
+
 version: 2.15+intel-12.1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'statistics', 'visualization', 'development tools']
+
 url: http://www.r-project.org/
-usage:
 
 .. _R: http://www.r-project.org/
 
@@ -108,13 +128,18 @@ R_
 --
 
 name: R
+
 description: "programming language/environment for statistical computation and graphics"
+
 version: 3.0
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'statistics', 'visualization', 'development tools']
+
 url: http://www.r-project.org/
-usage:
 
 .. _R: http://www.r-project.org/
 
@@ -132,13 +157,18 @@ R_
 --
 
 name: R
+
 description: "programming language/environment for statistical computation and graphics"
+
 version: 3.0+intel-12.1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'statistics', 'visualization', 'development tools']
+
 url: http://www.r-project.org/
-usage:
 
 .. _R: http://www.r-project.org/
 
@@ -156,13 +186,18 @@ ROOT_
 -----
 
 name: ROOT
+
 description: "program library for particle physics data analysis"
+
 version: 5.26
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['astrophysics', 'high energy physics', 'numerical analysis', 'physics', 'visualization']
+
 url: http://root.cern.ch/drupal/content/documentation
-usage:
 
 .. _ROOT: http://root.cern.ch/drupal/content/documentation
 
@@ -180,13 +215,18 @@ ROOT_
 -----
 
 name: ROOT
+
 description: "program library for particle physics data analysis"
+
 version: 5.34
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['astrophysics', 'high energy physics', 'numerical analysis', 'physics', 'visualization']
+
 url: http://root.cern.ch/drupal/content/documentation
-usage:
 
 .. _ROOT: http://root.cern.ch/drupal/content/documentation
 
@@ -204,13 +244,18 @@ ROOT_
 -----
 
 name: ROOT
+
 description: "program library for particle physics data analysis"
+
 version: 5.34+python-2.7-2014q1
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['astrophysics', 'high energy physics', 'numerical analysis', 'physics', 'visualization']
+
 url: http://root.cern.ch/drupal/content/documentation
-usage:
 
 .. _ROOT: http://root.cern.ch/drupal/content/documentation
 
@@ -228,13 +273,18 @@ SuiteSparse_
 ------------
 
 name: SuiteSparse
+
 description: "sparse matrix algorithms"
+
 version: 4.0
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical']
+
 url: http://faculty.cse.tamu.edu/davis/suitesparse.html
-usage:
 
 .. _SuiteSparse: http://faculty.cse.tamu.edu/davis/suitesparse.html
 
@@ -252,13 +302,18 @@ SuiteSparse_
 ------------
 
 name: SuiteSparse
+
 description: "sparse matrix algorithms"
+
 version: 4.0+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical']
+
 url: http://faculty.cse.tamu.edu/davis/suitesparse.html
-usage:
 
 .. _SuiteSparse: http://faculty.cse.tamu.edu/davis/suitesparse.html
 
@@ -276,13 +331,18 @@ SuiteSparse_
 ------------
 
 name: SuiteSparse
+
 description: "sparse matrix algorithms"
+
 version: 4.2
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical']
+
 url: http://faculty.cse.tamu.edu/davis/suitesparse.html
-usage:
 
 .. _SuiteSparse: http://faculty.cse.tamu.edu/davis/suitesparse.html
 
@@ -300,13 +360,18 @@ abaqus_
 -------
 
 name: abaqus
+
 description: "engineering simulations"
+
 version: 6.13
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.3ds.com/products-services/simulia/portfolio/abaqus/overview/
-usage:
 
 .. _abaqus: http://www.3ds.com/products-services/simulia/portfolio/abaqus/overview/
 
@@ -324,13 +389,18 @@ afni_
 -----
 
 name: afni
+
 description: "neuroimaging data analysis"
+
 version: latest
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['neuroscience', 'biology', 'image processing', 'biological and life sciences']
+
 url: http://afni.nimh.nih.gov/afni/
-usage:
 
 .. _afni: http://afni.nimh.nih.gov/afni/
 
@@ -348,13 +418,18 @@ amber_
 ------
 
 name: amber
+
 description: "molecular simulations"
+
 version: 12
+
 license: commercial
+
 categories: []
+
 tags: ['molecular dynamics']
+
 url: http://ambermd.org/
-usage:
 
 .. _amber: http://ambermd.org/
 
@@ -372,13 +447,18 @@ amber_
 ------
 
 name: amber
+
 description: "molecular simulations"
+
 version: 14
+
 license: commercial
+
 categories: []
+
 tags: ['molecular dynamics']
+
 url: http://ambermd.org/
-usage:
 
 .. _amber: http://ambermd.org/
 
@@ -396,13 +476,18 @@ amdappsdk_
 ----------
 
 name: amdappsdk
+
 description: "development platform for accelerating applications"
+
 version: 2.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/
-usage:
 
 .. _amdappsdk: http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/
 
@@ -420,13 +505,18 @@ amira_
 ------
 
 name: amira
+
 description: "biomedical visualization"
+
 version: 5.4.5
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.vsg3d.com/amira/overview
-usage:
 
 .. _amira: http://www.vsg3d.com/amira/overview
 
@@ -444,13 +534,18 @@ amira_
 ------
 
 name: amira
+
 description: "biomedical visualization"
+
 version: 5.5.0
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.vsg3d.com/amira/overview
-usage:
 
 .. _amira: http://www.vsg3d.com/amira/overview
 
@@ -468,13 +563,18 @@ ant_
 ----
 
 name: ant
+
 description: "Java library and command-line tool, often for building Java applications"
+
 version: 1.8.4
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: http://ant.apache.org/
-usage:
 
 .. _ant: http://ant.apache.org/
 
@@ -492,13 +592,18 @@ antlr_
 ------
 
 name: antlr
+
 description: "parser generator for computer-based language recognition"
+
 version: 2.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.antlr.org/
-usage:
 
 .. _antlr: http://www.antlr.org/
 
@@ -516,13 +621,18 @@ apbs_
 -----
 
 name: apbs
+
 description: "analysis of solvation properties of molecules"
+
 version: 1.3
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['chemistry', 'molecular dynamics']
+
 url: http://www.poissonboltzmann.org/docs/home/
-usage:
 
 .. _apbs: http://www.poissonboltzmann.org/docs/home/
 
@@ -540,13 +650,18 @@ apbs_
 -----
 
 name: apbs
+
 description: "analysis of solvation properties of molecules"
+
 version: 1.4
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['chemistry', 'molecular dynamics']
+
 url: http://www.poissonboltzmann.org/docs/home/
-usage:
 
 .. _apbs: http://www.poissonboltzmann.org/docs/home/
 
@@ -564,13 +679,18 @@ armadillo_
 ----------
 
 name: armadillo
+
 description: "linear algebra software library for C++"
+
 version: 3.4
+
 license: opensource
+
 categories: ['num']
+
 tags: ['numerical or mathematical', 'numerical analysis']
+
 url: http://arma.sourceforge.net/
-usage:
 
 .. _armadillo: http://arma.sourceforge.net/
 
@@ -588,13 +708,18 @@ artisynth_
 ----------
 
 name: artisynth
+
 description: "3-D biomechanical modeling"
+
 version: 2.8
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', '3D modeling', 'proteins', 'biological and life sciences', 'chemistry', 'molecular dynamics']
+
 url: http://www.magic.ubc.ca/artisynth/pmwiki.php
-usage:
 
 .. _artisynth: http://www.magic.ubc.ca/artisynth/pmwiki.php
 
@@ -612,13 +737,18 @@ artisynth_
 ----------
 
 name: artisynth
+
 description: "3-D biomechanical modeling"
+
 version: 2.9
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', '3D modeling', 'proteins', 'biological and life sciences', 'chemistry', 'molecular dynamics']
+
 url: http://www.magic.ubc.ca/artisynth/pmwiki.php
-usage:
 
 .. _artisynth: http://www.magic.ubc.ca/artisynth/pmwiki.php
 
@@ -636,13 +766,18 @@ artisynth_
 ----------
 
 name: artisynth
+
 description: "3-D biomechanical modeling"
+
 version: 3.1
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', '3D modeling', 'proteins', 'biological and life sciences', 'chemistry', 'molecular dynamics']
+
 url: http://www.magic.ubc.ca/artisynth/pmwiki.php
-usage:
 
 .. _artisynth: http://www.magic.ubc.ca/artisynth/pmwiki.php
 
@@ -660,13 +795,18 @@ autoconf_
 ---------
 
 name: autoconf
+
 description: "configures software source code packages"
+
 version: 2.68
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.gnu.org/software/autoconf/
-usage:
 
 .. _autoconf: http://www.gnu.org/software/autoconf/
 
@@ -684,13 +824,18 @@ automake_
 ---------
 
 name: automake
+
 description: "automatically generates makefile"
+
 version: 1.13
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: https://www.gnu.org/software/automake/
-usage:
 
 .. _automake: https://www.gnu.org/software/automake/
 
@@ -708,13 +853,18 @@ bats_
 -----
 
 name: bats
+
 description: "for testing"
+
 version: latest
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: https://github.com/sstephenson/bats
-usage:
 
 .. _bats: https://github.com/sstephenson/bats
 
@@ -732,13 +882,18 @@ beagle_
 -------
 
 name: beagle
+
 description: "library for core calculations with phylogenetics packages"
+
 version: trunk
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'statistics', 'genetics', 'biological and life sciences']
+
 url: http://code.google.com/p/beagle-lib/
-usage:
 
 .. _beagle: http://code.google.com/p/beagle-lib/
 
@@ -756,13 +911,18 @@ beast_
 ------
 
 name: beast
+
 description: "Bayesian analysis of molecular sequences"
+
 version: 1.7
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'genetics', 'biological and life sciences']
+
 url: http://beast.bio.ed.ac.uk/
-usage:
 
 .. _beast: http://beast.bio.ed.ac.uk/
 
@@ -780,13 +940,18 @@ bino_
 -----
 
 name: bino
+
 description: "3D video player"
+
 version: 1.4
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'browsers', 'utilities', 'editors']
+
 url: http://bino3d.org/
-usage:
 
 .. _bino: http://bino3d.org/
 
@@ -804,13 +969,18 @@ blastplus_
 ----------
 
 name: blastplus
+
 description: "biological search alignment tool"
+
 version: 2.2
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'genetics', 'database', 'biological and life sciences', 'medicine']
+
 url: http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
-usage:
 
 .. _blastplus: http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs
 
@@ -828,13 +998,18 @@ blender_
 --------
 
 name: blender
+
 description: "3D creation pipeline (includes modeling, animation, simulation, etc)"
+
 version: 2.68
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', '3D modeling']
+
 url: http://www.blender.org/
-usage:
 
 .. _blender: http://www.blender.org/
 
@@ -852,13 +1027,18 @@ boost_
 ------
 
 name: boost
+
 description: "portable C++ source libraries"
+
 version: 1.50
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['development', 'software libraries', 'library']
+
 url: http://www.boost.org/
-usage:
 
 .. _boost: http://www.boost.org/
 
@@ -876,13 +1056,18 @@ boost_
 ------
 
 name: boost
+
 description: "portable C++ source libraries"
+
 version: 1.51
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['development', 'software libraries', 'library']
+
 url: http://www.boost.org/
-usage:
 
 .. _boost: http://www.boost.org/
 
@@ -900,13 +1085,18 @@ boost_
 ------
 
 name: boost
+
 description: "portable C++ source libraries"
+
 version: 1.55+python-2.7-2014q1
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['development', 'software libraries', 'library']
+
 url: http://www.boost.org/
-usage:
 
 .. _boost: http://www.boost.org/
 
@@ -924,13 +1114,18 @@ caffe_
 ------
 
 name: caffe
+
 description: "framework for deep learning"
+
 version: git
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://caffe.berkeleyvision.org/
-usage:
 
 .. _caffe: http://caffe.berkeleyvision.org/
 
@@ -948,13 +1143,18 @@ ccfits_
 -------
 
 name: ccfits
+
 description: "object oriented interface for cfitsio library"
+
 version: 2.4
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['software libraries', 'utilities']
+
 url: http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/index.html
-usage:
 
 .. _ccfits: http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/index.html
 
@@ -972,13 +1172,18 @@ cctools_
 --------
 
 name: cctools
+
 description: "collection of software for harnessing large scale distributed systems"
+
 version: 3.6
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://ccl.cse.nd.edu/
-usage:
 
 .. _cctools: http://ccl.cse.nd.edu/
 
@@ -996,13 +1201,18 @@ cdo_
 ----
 
 name: cdo
+
 description: "analysis of climate and NWP model data"
+
 version: 1.5
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['climate', 'geography', 'geophysics', 'geology']
+
 url: https://code.zmaw.de/projects/cdo
-usage:
 
 .. _cdo: https://code.zmaw.de/projects/cdo
 
@@ -1020,13 +1230,18 @@ cdo_
 ----
 
 name: cdo
+
 description: "analysis of climate and NWP model data"
+
 version: 1.6
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['climate', 'geography', 'geophysics', 'geology']
+
 url: https://code.zmaw.de/projects/cdo
-usage:
 
 .. _cdo: https://code.zmaw.de/projects/cdo
 
@@ -1044,13 +1259,18 @@ cernlib_
 --------
 
 name: cernlib
+
 description: "collection of software for various needs of a physics research laboratory"
+
 version: 2006b
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['high energy physics', 'physics', 'library']
+
 url: http://cernlib.web.cern.ch/cernlib/
-usage:
 
 .. _cernlib: http://cernlib.web.cern.ch/cernlib/
 
@@ -1068,13 +1288,18 @@ cfitsio_
 --------
 
 name: cfitsio
+
 description: "library for reading and writing data files in FITS data format"
+
 version: 3
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['visualization', 'software libraries', 'utilities', 'library']
+
 url: http://heasarc.gsfc.nasa.gov/fitsio/
-usage:
 
 .. _cfitsio: http://heasarc.gsfc.nasa.gov/fitsio/
 
@@ -1092,13 +1317,18 @@ cfitsio_
 --------
 
 name: cfitsio
+
 description: "library for reading and writing data files in FITS data format"
+
 version: 3+intel-12.1
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['visualization', 'software libraries', 'utilities', 'library']
+
 url: http://heasarc.gsfc.nasa.gov/fitsio/
-usage:
 
 .. _cfitsio: http://heasarc.gsfc.nasa.gov/fitsio/
 
@@ -1116,13 +1346,18 @@ cgal_
 -----
 
 name: cgal
+
 description: "C++ library for geometric computations"
+
 version: 4.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'library']
+
 url: https://www.cgal.org/
-usage:
 
 .. _cgal: https://www.cgal.org/
 
@@ -1140,13 +1375,18 @@ cgal_
 -----
 
 name: cgal
+
 description: "C++ library for geometric computations"
+
 version: 4.1+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'library']
+
 url: https://www.cgal.org/
-usage:
 
 .. _cgal: https://www.cgal.org/
 
@@ -1164,13 +1404,18 @@ clang_
 ------
 
 name: clang
+
 description: "LLVM compiler front-end for C/C++/Objective C/Objective C++"
+
 version: trunk
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: http://clang.llvm.org/
-usage:
 
 .. _clang: http://clang.llvm.org/
 
@@ -1188,13 +1433,18 @@ clhep_
 ------
 
 name: clhep
+
 description: "C++ mathematical library for high energy physics simulation and analysis"
+
 version: 2.2
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['high energy physics', 'numerical analysis', 'physics', 'library', 'simulation']
+
 url: http://proj-clhep.web.cern.ch/proj-clhep/
-usage:
 
 .. _clhep: http://proj-clhep.web.cern.ch/proj-clhep/
 
@@ -1212,13 +1462,18 @@ cluto_
 ------
 
 name: cluto
+
 description: "clustering low- and high-dimensional datasets and for analysis of various clusters"
+
 version: 2.1
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data']
+
 url: http://glaros.dtc.umn.edu/gkhome/cluto/cluto/overview
-usage:
 
 .. _cluto: http://glaros.dtc.umn.edu/gkhome/cluto/cluto/overview
 
@@ -1236,13 +1491,18 @@ cmake_
 ------
 
 name: cmake
+
 description: "build, test, and package software"
+
 version: 2.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: http://www.cmake.org/
-usage:
 
 .. _cmake: http://www.cmake.org/
 
@@ -1260,13 +1520,18 @@ cnvgrib_
 --------
 
 name: cnvgrib
+
 description: "encoder/decoder for GRIB edition 2 messages"
+
 version: 1.4
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'data', 'utilities', 'editors']
+
 url: http://www.nco.ncep.noaa.gov/pmb/docs/grib2/
-usage:
 
 .. _cnvgrib: http://www.nco.ncep.noaa.gov/pmb/docs/grib2/
 
@@ -1284,13 +1549,18 @@ comsol_
 -------
 
 name: comsol
+
 description: "physics simulations"
+
 version: 44
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.comsol.com/
-usage:
 
 .. _comsol: http://www.comsol.com/
 
@@ -1308,13 +1578,18 @@ coreutils_
 ----------
 
 name: coreutils
+
 description: "basic file, shell and text manipulation utilities of the GNU OS"
+
 version: 8.20
+
 license: opensource
+
 categories: ['util']
+
 tags: ['development', 'browsers', 'utilities', 'editors']
+
 url: http://www.gnu.org/software/coreutils/
-usage:
 
 .. _coreutils: http://www.gnu.org/software/coreutils/
 
@@ -1332,13 +1607,18 @@ cp2k_
 -----
 
 name: cp2k
+
 description: "simulations of solid state, liquid, molecular, and biological systems"
+
 version: 2.4
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', 'biology', 'proteins', 'simulation', 'chemistry', 'molecular dynamics']
+
 url: http://www.cp2k.org/
-usage:
 
 .. _cp2k: http://www.cp2k.org/
 
@@ -1356,13 +1636,18 @@ cp2k_
 -----
 
 name: cp2k
+
 description: "simulations of solid state, liquid, molecular, and biological systems"
+
 version: svn
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', 'biology', 'proteins', 'simulation', 'chemistry', 'molecular dynamics']
+
 url: http://www.cp2k.org/
-usage:
 
 .. _cp2k: http://www.cp2k.org/
 
@@ -1380,13 +1665,18 @@ cpmd_
 -----
 
 name: cpmd
+
 description: "parallelized plane wave/pseudopotential implementation of Density Functional Theory"
+
 version: 3.15
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'chemistry', 'proteins', 'molecular dynamics']
+
 url: http://www.cpmd.org/
-usage:
 
 .. _cpmd: http://www.cpmd.org/
 
@@ -1404,13 +1694,18 @@ cuda_
 -----
 
 name: cuda
+
 description: "parallel computing platform and programming model"
+
 version: 4.2
+
 license: opensource
+
 categories: ['hpc']
+
 tags: ['development', 'general programming', 'high performance computing']
+
 url: http://www.nvidia.com/object/cuda_home_new.html
-usage:
 
 .. _cuda: http://www.nvidia.com/object/cuda_home_new.html
 
@@ -1428,13 +1723,18 @@ cuda_
 -----
 
 name: cuda
+
 description: "parallel computing platform and programming model"
+
 version: 5.0
+
 license: opensource
+
 categories: ['hpc']
+
 tags: ['development', 'general programming', 'high performance computing']
+
 url: http://www.nvidia.com/object/cuda_home_new.html
-usage:
 
 .. _cuda: http://www.nvidia.com/object/cuda_home_new.html
 
@@ -1452,13 +1752,18 @@ cuda_
 -----
 
 name: cuda
+
 description: "parallel computing platform and programming model"
+
 version: 5.5
+
 license: opensource
+
 categories: ['hpc']
+
 tags: ['development', 'general programming', 'high performance computing']
+
 url: http://www.nvidia.com/object/cuda_home_new.html
-usage:
 
 .. _cuda: http://www.nvidia.com/object/cuda_home_new.html
 
@@ -1476,13 +1781,18 @@ cytoscape_
 ----------
 
 name: cytoscape
+
 description: "network visualization library "
+
 version: 2.8
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://cytoscapeweb.cytoscape.org/
-usage:
 
 .. _cytoscape: http://cytoscapeweb.cytoscape.org/
 
@@ -1500,13 +1810,18 @@ ddd_
 ----
 
 name: ddd
+
 description: "graphical front-end for command-line debuggers"
+
 version: 3.3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'utilities', 'development tools']
+
 url: http://www.gnu.org/software/ddd/
-usage:
 
 .. _ddd: http://www.gnu.org/software/ddd/
 
@@ -1524,13 +1839,18 @@ ddt_
 ----
 
 name: ddt
+
 description: "debugger"
+
 version: 4.0
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.allinea.com/products/ddt/
-usage:
 
 .. _ddt: http://www.allinea.com/products/ddt/
 
@@ -1548,13 +1868,18 @@ dicom3tools_
 ------------
 
 name: dicom3tools
+
 description: "command line utilities for creating, modifying, dumping and validating files of DICOM attributes"
+
 version: 1
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://www.dclunie.com/dicom3tools.html
-usage:
 
 .. _dicom3tools: http://www.dclunie.com/dicom3tools.html
 
@@ -1572,13 +1897,18 @@ disper_
 -------
 
 name: disper
+
 description: "air pollution modeling"
+
 version: 0.3.0
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.canarina.com/airpollutiondispersion.htm
-usage:
 
 .. _disper: http://www.canarina.com/airpollutiondispersion.htm
 
@@ -1596,13 +1926,18 @@ doxygen_
 --------
 
 name: doxygen
+
 description: "documentation generation from annotated sources in various languages such as C, C++, Java, etc"
+
 version: 1.8
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'general programming', 'utilities', 'editors']
+
 url: http://www.stack.nl/~dimitri/doxygen/
-usage:
 
 .. _doxygen: http://www.stack.nl/~dimitri/doxygen/
 
@@ -1620,13 +1955,18 @@ emacs_
 ------
 
 name: emacs
+
 description: "text editor"
+
 version: 23.4
+
 license: opensource
+
 categories: []
+
 tags: ['text editor', 'utilities']
+
 url: http://www.gnu.org/software/emacs/
-usage:
 
 .. _emacs: http://www.gnu.org/software/emacs/
 
@@ -1644,13 +1984,18 @@ emacs_
 ------
 
 name: emacs
+
 description: "text editor"
+
 version: 24
+
 license: opensource
+
 categories: []
+
 tags: ['text editor', 'utilities']
+
 url: http://www.gnu.org/software/emacs/
-usage:
 
 .. _emacs: http://www.gnu.org/software/emacs/
 
@@ -1668,13 +2013,18 @@ exabayes_
 ---------
 
 name: exabayes
+
 description: "Bayesian tree inference"
+
 version: 1.3
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'genetics', 'biological and life sciences']
+
 url: http://sco.h-its.org/exelixis/web/software/exabayes/
-usage:
 
 .. _exabayes: http://sco.h-its.org/exelixis/web/software/exabayes/
 
@@ -1692,13 +2042,18 @@ examl_
 ------
 
 name: examl
+
 description: "phylogenetic inference"
+
 version: git
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'genetics', 'biological and life sciences']
+
 url: https://github.com/stamatak/ExaML
-usage:
 
 .. _examl: https://github.com/stamatak/ExaML
 
@@ -1716,13 +2071,18 @@ fermi-fssc_
 -----------
 
 name: fermi-fssc
+
 description: "analysis of both LAT and GBM data"
+
 version: v9r31p1
+
 license: opensource
+
 categories: ['phys']
+
 tags: ['astrophysics', 'data', 'physics', 'high energy physics']
+
 url: http://fermi.gsfc.nasa.gov/ssc/data/analysis/
-usage:
 
 .. _fermi-fssc: http://fermi.gsfc.nasa.gov/ssc/data/analysis/
 
@@ -1740,13 +2100,18 @@ ffmpeg_
 -------
 
 name: ffmpeg
+
 description: "record, convert, and stream audio and video"
+
 version: 0.11
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'browsers', 'utilities', 'editors']
+
 url: https://www.ffmpeg.org/
-usage:
 
 .. _ffmpeg: https://www.ffmpeg.org/
 
@@ -1764,13 +2129,18 @@ ffmpeg_
 -------
 
 name: ffmpeg
+
 description: "record, convert, and stream audio and video"
+
 version: 1.1
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'browsers', 'utilities', 'editors']
+
 url: https://www.ffmpeg.org/
-usage:
 
 .. _ffmpeg: https://www.ffmpeg.org/
 
@@ -1788,13 +2158,18 @@ ffmpeg_
 -------
 
 name: ffmpeg
+
 description: "record, convert, and stream audio and video"
+
 version: 2.1
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'browsers', 'utilities', 'editors']
+
 url: https://www.ffmpeg.org/
-usage:
 
 .. _ffmpeg: https://www.ffmpeg.org/
 
@@ -1812,13 +2187,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1836,13 +2216,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1860,13 +2245,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+intelmpi-4.0
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1884,13 +2274,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+intelmpi-4.0+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1908,13 +2303,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+mvapich2-1.9
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1932,13 +2332,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+openmpi-1.6
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1956,13 +2361,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+openmpi-1.6+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -1980,13 +2390,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+openmpi-1.6+pgi-2012
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -2004,13 +2419,18 @@ fftw2_
 ------
 
 name: fftw2
+
 description: "computation of discrete Fourier transform"
+
 version: 2.1.5+pgi-2012
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw2: http://www.fftw.org/
 
@@ -2028,13 +2448,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2052,13 +2477,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2076,13 +2506,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+intel-13.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2100,13 +2535,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+intelmpi-4.0
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2124,13 +2564,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+intelmpi-4.0+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2148,13 +2593,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+intelmpi-4.1+intel-13.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2172,13 +2622,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+mvapich2-1.9
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2196,13 +2651,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+mvapich2-1.9+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2220,13 +2680,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+mvapich2-1.9+pgi-2012
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2244,13 +2709,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+openmpi-1.6
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2268,13 +2738,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+openmpi-1.6+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2292,13 +2767,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+openmpi-1.6+pgi-2012
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2316,13 +2796,18 @@ fftw3_
 ------
 
 name: fftw3
+
 description: "computation of discrete Fourier transform"
+
 version: 3.3+pgi-2012
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics']
+
 url: http://www.fftw.org/
-usage:
 
 .. _fftw3: http://www.fftw.org/
 
@@ -2340,13 +2825,18 @@ fiji_
 -----
 
 name: fiji
+
 description: "scientific image processing package for ImageJ"
+
 version: 1.47
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', 'image processing']
+
 url: http://fiji.sc/Documentation
-usage:
 
 .. _fiji: http://fiji.sc/Documentation
 
@@ -2364,13 +2854,18 @@ firefox_
 --------
 
 name: firefox
+
 description: "web browser"
+
 version: esr
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browser', 'browsers', 'utilities', 'editors']
+
 url: https://www.mozilla.org/
-usage:
 
 .. _firefox: https://www.mozilla.org/
 
@@ -2388,13 +2883,18 @@ freepascal_
 -----------
 
 name: freepascal
+
 description: "Pascal compiler"
+
 version: 2.6
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: http://www.freepascal.org/docs.var
-usage:
 
 .. _freepascal: http://www.freepascal.org/docs.var
 
@@ -2412,13 +2912,18 @@ freesurfer_
 -----------
 
 name: freesurfer
+
 description: "analysis and visualization of structural and functional brain imaging data"
+
 version: 5.3
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['neuroscience', 'biology', 'visualization', 'biological and life sciences']
+
 url: http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer
-usage:
 
 .. _freesurfer: http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer
 
@@ -2436,13 +2941,18 @@ fsl_
 ----
 
 name: fsl
+
 description: "analysis tools for FMRI, MRI and DTI brain imaging data"
+
 version: 5.0
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['neuroscience', 'biology', 'image processing', 'biological and life sciences']
+
 url: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
-usage:
 
 .. _fsl: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 
@@ -2460,13 +2970,18 @@ fsl_
 ----
 
 name: fsl
+
 description: "analysis tools for FMRI, MRI and DTI brain imaging data"
+
 version: 5.0.6
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['neuroscience', 'biology', 'image processing', 'biological and life sciences']
+
 url: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
-usage:
 
 .. _fsl: http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/
 
@@ -2484,13 +2999,18 @@ g_mmpbsa_
 ---------
 
 name: g_mmpbsa
+
 description: "calculation of components of binding energy using MM-PBSA method"
+
 version: 1.0.0
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'biological and life sciences', 'medicine', 'chemistry', 'molecular dynamics']
+
 url: http://rashmikumari.github.io/g_mmpbsa/
-usage:
 
 .. _g_mmpbsa: http://rashmikumari.github.io/g_mmpbsa/
 
@@ -2508,13 +3028,18 @@ gamess_
 -------
 
 name: gamess
+
 description: "molecular quantum chemistry computation"
+
 version: 1May2012R1
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['chemistry']
+
 url: http://www.msg.ameslab.gov/gamess/documentation.html
-usage:
 
 .. _gamess: http://www.msg.ameslab.gov/gamess/documentation.html
 
@@ -2532,13 +3057,18 @@ gaussian_
 ---------
 
 name: gaussian
+
 description: "computational chemistry"
+
 version: 09RevA.02
+
 license: commercial
+
 categories: []
+
 tags: ['molecular dynamics']
+
 url: http://www.gaussian.com/
-usage:
 
 .. _gaussian: http://www.gaussian.com/
 
@@ -2556,13 +3086,18 @@ gaussian_
 ---------
 
 name: gaussian
+
 description: "computational chemistry"
+
 version: 09RevB.01
+
 license: commercial
+
 categories: []
+
 tags: ['molecular dynamics']
+
 url: http://www.gaussian.com/
-usage:
 
 .. _gaussian: http://www.gaussian.com/
 
@@ -2580,13 +3115,18 @@ gcc_
 ----
 
 name: gcc
+
 description: "C/C++/Fortran compiler suite"
+
 version: 4.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: https://gcc.gnu.org/
-usage:
 
 .. _gcc: https://gcc.gnu.org/
 
@@ -2604,13 +3144,18 @@ gdal_
 -----
 
 name: gdal
+
 description: "translator library for raster and vector geospatial data"
+
 version: 1.10
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['geography', 'geophysics', 'geoscience', 'library', 'geology']
+
 url: http://www.gdal.org/
-usage:
 
 .. _gdal: http://www.gdal.org/
 
@@ -2628,13 +3173,18 @@ gdal_
 -----
 
 name: gdal
+
 description: "translator library for raster and vector geospatial data"
+
 version: 1.11
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['geography', 'geophysics', 'geoscience', 'library', 'geology']
+
 url: http://www.gdal.org/
-usage:
 
 .. _gdal: http://www.gdal.org/
 
@@ -2652,13 +3202,18 @@ gdal_
 -----
 
 name: gdal
+
 description: "translator library for raster and vector geospatial data"
+
 version: 1.9
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['geography', 'geophysics', 'geoscience', 'library', 'geology']
+
 url: http://www.gdal.org/
-usage:
 
 .. _gdal: http://www.gdal.org/
 
@@ -2676,13 +3231,18 @@ gdbm_
 -----
 
 name: gdbm
+
 description: "create and manipulate hashed database"
+
 version: 1.8
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'library', 'database']
+
 url: http://www.gnu.org.ua/software/gdbm/manual.html
-usage:
 
 .. _gdbm: http://www.gnu.org.ua/software/gdbm/manual.html
 
@@ -2700,13 +3260,18 @@ gedit_
 ------
 
 name: gedit
+
 description: "text editor"
+
 version: 2.28
+
 license: opensource
+
 categories: ['util']
+
 tags: ['text editor', 'browsers', 'utilities', 'editors']
+
 url: https://wiki.gnome.org/Apps/Gedit
-usage:
 
 .. _gedit: https://wiki.gnome.org/Apps/Gedit
 
@@ -2724,13 +3289,18 @@ geos_
 -----
 
 name: geos
+
 description: "spatial predicates and functions for processing geometry"
+
 version: 3.4
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['geography', 'geophysics', 'geoscience', 'geology']
+
 url: http://trac.osgeo.org/geos/
-usage:
 
 .. _geos: http://trac.osgeo.org/geos/
 
@@ -2748,13 +3318,18 @@ gephi_
 ------
 
 name: gephi
+
 description: "visualization and exploration platform for networks, complex systems, dynamic and hierarchical graphs"
+
 version: 0.8
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://gephi.github.io/
-usage:
 
 .. _gephi: http://gephi.github.io/
 
@@ -2772,13 +3347,18 @@ gflags_
 -------
 
 name: gflags
+
 description: "commandline flags processing"
+
 version: git
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'library', 'development tools']
+
 url: https://github.com/schuhschuh/gflags
-usage:
 
 .. _gflags: https://github.com/schuhschuh/gflags
 
@@ -2796,13 +3376,18 @@ ghc_
 ----
 
 name: ghc
+
 description: "optimizing Haskell compiler"
+
 version: 6.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: http://www.haskell.org/haskellwiki/GHC
-usage:
 
 .. _ghc: http://www.haskell.org/haskellwiki/GHC
 
@@ -2820,13 +3405,18 @@ ghc_
 ----
 
 name: ghc
+
 description: "optimizing Haskell compiler"
+
 version: 7.4
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'development tools', 'compilers']
+
 url: http://www.haskell.org/haskellwiki/GHC
-usage:
 
 .. _ghc: http://www.haskell.org/haskellwiki/GHC
 
@@ -2844,13 +3434,18 @@ git_
 ----
 
 name: git
+
 description: "distributed version control system"
+
 version: 1.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: https://github.com/git/git/tree/master/Documentation
-usage:
 
 .. _git: https://github.com/git/git/tree/master/Documentation
 
@@ -2868,13 +3463,18 @@ git_
 ----
 
 name: git
+
 description: "distributed version control system"
+
 version: 1.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: https://github.com/git/git/tree/master/Documentation
-usage:
 
 .. _git: https://github.com/git/git/tree/master/Documentation
 
@@ -2892,13 +3492,18 @@ globus_
 -------
 
 name: globus
+
 description: "for transferring data"
+
 version: 5.2
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: https://www.globus.org/
-usage:
 
 .. _globus: https://www.globus.org/
 
@@ -2916,13 +3521,18 @@ glog_
 -----
 
 name: glog
+
 description: "application-level logging"
+
 version: 0.3
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['software libraries', 'utilities', 'library']
+
 url: http://google-glog.googlecode.com/svn/trunk/doc/glog.html
-usage:
 
 .. _glog: http://google-glog.googlecode.com/svn/trunk/doc/glog.html
 
@@ -2940,13 +3550,18 @@ gnuplot_
 --------
 
 name: gnuplot
+
 description: "portable command-line driven graphing utility"
+
 version: 4.4
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.gnuplot.info/documentation.html
-usage:
 
 .. _gnuplot: http://www.gnuplot.info/documentation.html
 
@@ -2964,13 +3579,18 @@ gnuplot_
 --------
 
 name: gnuplot
+
 description: "portable command-line driven graphing utility"
+
 version: 4.6
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.gnuplot.info/documentation.html
-usage:
 
 .. _gnuplot: http://www.gnuplot.info/documentation.html
 
@@ -2988,13 +3608,18 @@ grace_
 ------
 
 name: grace
+
 description: "plotting 2D data"
+
 version: 5.1
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html
-usage:
 
 .. _grace: http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html
 
@@ -3012,13 +3637,18 @@ grads_
 ------
 
 name: grads
+
 description: "manipulation and visualization of earth science data"
+
 version: 1.8
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['visualization', 'geography', 'geophysics', 'geoscience', 'geology']
+
 url: http://cola.gmu.edu/grads/gadoc/index.html
-usage:
 
 .. _grads: http://cola.gmu.edu/grads/gadoc/index.html
 
@@ -3036,13 +3666,18 @@ grads_
 ------
 
 name: grads
+
 description: "manipulation and visualization of earth science data"
+
 version: 1.9
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['visualization', 'geography', 'geophysics', 'geoscience', 'geology']
+
 url: http://cola.gmu.edu/grads/gadoc/index.html
-usage:
 
 .. _grads: http://cola.gmu.edu/grads/gadoc/index.html
 
@@ -3060,13 +3695,18 @@ grads_
 ------
 
 name: grads
+
 description: "manipulation and visualization of earth science data"
+
 version: 2.0
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['visualization', 'geography', 'geophysics', 'geoscience', 'geology']
+
 url: http://cola.gmu.edu/grads/gadoc/index.html
-usage:
 
 .. _grads: http://cola.gmu.edu/grads/gadoc/index.html
 
@@ -3084,13 +3724,18 @@ graph-tool_
 -----------
 
 name: graph-tool
+
 description: "manipulation and statistical analysis of networks"
+
 version: 2.2
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'statistics', 'numerical analysis', 'visualization']
+
 url: http://graph-tool.skewed.de/static/doc/index.html
-usage:
 
 .. _graph-tool: http://graph-tool.skewed.de/static/doc/index.html
 
@@ -3108,13 +3753,18 @@ graphviz_
 ---------
 
 name: graphviz
+
 description: "graph visualization software"
+
 version: 2.28
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.graphviz.org/
-usage:
 
 .. _graphviz: http://www.graphviz.org/
 
@@ -3132,13 +3782,18 @@ grass_
 ------
 
 name: grass
+
 description: "geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization"
+
 version: 6.4
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['visualization', 'numerical analysis', 'statistics', 'geology', 'image processing', 'geophysics', 'data', 'geoscience', 'geography']
+
 url: http://grass.osgeo.org/documentation/
-usage:
 
 .. _grass: http://grass.osgeo.org/documentation/
 
@@ -3156,13 +3811,18 @@ grib_api_
 ---------
 
 name: grib_api
+
 description: "encoding and decoding WMO FM-92 GRIB edition 1 and edition 2 messages"
+
 version: 1.9
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'data', 'utilities', 'editors']
+
 url: https://software.ecmwf.int/wiki/display/GRIB/Documentation
-usage:
 
 .. _grib_api: https://software.ecmwf.int/wiki/display/GRIB/Documentation
 
@@ -3180,13 +3840,18 @@ gromacs_
 --------
 
 name: gromacs
+
 description: "molecular dynamics simulation"
+
 version: 4.5.5
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'simulation', 'chemistry', 'biological and life sciences', 'molecular dynamics']
+
 url: http://www.gromacs.org/Documentation
-usage:
 
 .. _gromacs: http://www.gromacs.org/Documentation
 
@@ -3204,13 +3869,18 @@ gromacs_
 --------
 
 name: gromacs
+
 description: "molecular dynamics simulation"
+
 version: 4.6-cuda+intel-12.1
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'simulation', 'chemistry', 'biological and life sciences', 'molecular dynamics']
+
 url: http://www.gromacs.org/Documentation
-usage:
 
 .. _gromacs: http://www.gromacs.org/Documentation
 
@@ -3228,13 +3898,18 @@ gromacs_
 --------
 
 name: gromacs
+
 description: "molecular dynamics simulation"
+
 version: 4.6+intel-12.1
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'simulation', 'chemistry', 'biological and life sciences', 'molecular dynamics']
+
 url: http://www.gromacs.org/Documentation
-usage:
 
 .. _gromacs: http://www.gromacs.org/Documentation
 
@@ -3252,13 +3927,18 @@ gromacs-plumed_
 ---------------
 
 name: gromacs-plumed
+
 description: "free energy calculations in molecular systems"
+
 version: 1.3+intelmpi-4.0+intel-12.1
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'chemistry', 'molecular dynamics', 'biological and life sciences']
+
 url: http://www.plumed-code.org/documentation
-usage:
 
 .. _gromacs-plumed: http://www.plumed-code.org/documentation
 
@@ -3276,13 +3956,18 @@ gromacs-plumed_
 ---------------
 
 name: gromacs-plumed
+
 description: "free energy calculations in molecular systems"
+
 version: 1.3+openmpi-1.6
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'chemistry', 'molecular dynamics', 'biological and life sciences']
+
 url: http://www.plumed-code.org/documentation
-usage:
 
 .. _gromacs-plumed: http://www.plumed-code.org/documentation
 
@@ -3300,13 +3985,18 @@ gsl_
 ----
 
 name: gsl
+
 description: "numerical C/C++ numerical library"
+
 version: 1.15
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'library']
+
 url: http://www.gnu.org/software/gsl/
-usage:
 
 .. _gsl: http://www.gnu.org/software/gsl/
 
@@ -3324,13 +4014,18 @@ hadoop_
 -------
 
 name: hadoop
+
 description: "distributed processing of data sets across clusters using simple programming models"
+
 version: 1.1.2
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'library', 'database']
+
 url: http://hadoop.apache.org/
-usage:
 
 .. _hadoop: http://hadoop.apache.org/
 
@@ -3348,13 +4043,18 @@ hadoop_
 -------
 
 name: hadoop
+
 description: "distributed processing of data sets across clusters using simple programming models"
+
 version: 2.4
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'library', 'database']
+
 url: http://hadoop.apache.org/
-usage:
 
 .. _hadoop: http://hadoop.apache.org/
 
@@ -3372,13 +4072,18 @@ hadoop-rdma_
 ------------
 
 name: hadoop-rdma
+
 description: "exploit performance on modern clusters with RDMA-enabled interconnects for Big Data applications"
+
 version: 0.9
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'database']
+
 url: http://hibd.cse.ohio-state.edu/userguide/
-usage:
 
 .. _hadoop-rdma: http://hibd.cse.ohio-state.edu/userguide/
 
@@ -3396,13 +4101,18 @@ hdf5_
 -----
 
 name: hdf5
+
 description: "data model, library, and file format for storing and managing data"
+
 version: 1.8
+
 license: opensource
+
 categories: ['data', 'lib']
+
 tags: ['I/O and data processing tools', 'database', 'software libraries', 'data']
+
 url: http://www.hdfgroup.org/HDF5/doc/index.html
-usage:
 
 .. _hdf5: http://www.hdfgroup.org/HDF5/doc/index.html
 
@@ -3420,13 +4130,18 @@ healpix_
 --------
 
 name: healpix
+
 description: "pixelization of subdivision of spherical surface in which each pixel covers the same surface area as every other pixel"
+
 version: 2.20
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'data', 'visualization']
+
 url: http://healpix.jpl.nasa.gov/
-usage:
 
 .. _healpix: http://healpix.jpl.nasa.gov/
 
@@ -3444,13 +4159,18 @@ healpix_
 --------
 
 name: healpix
+
 description: "pixelization of subdivision of spherical surface in which each pixel covers the same surface area as every other pixel"
+
 version: 3.11
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'data', 'visualization']
+
 url: http://healpix.jpl.nasa.gov/
-usage:
 
 .. _healpix: http://healpix.jpl.nasa.gov/
 
@@ -3468,13 +4188,18 @@ hoomd_
 ------
 
 name: hoomd
+
 description: "general-purpose particle simulation toolkit"
+
 version: 0.11
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'proteins', 'simulation', 'high energy physics', 'chemistry', 'molecular dynamics']
+
 url: https://codeblue.umich.edu/hoomd-blue/doc/index.html
-usage:
 
 .. _hoomd: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 
@@ -3492,13 +4217,18 @@ hoomd_
 ------
 
 name: hoomd
+
 description: "general-purpose particle simulation toolkit"
+
 version: 0.11.0
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'proteins', 'simulation', 'high energy physics', 'chemistry', 'molecular dynamics']
+
 url: https://codeblue.umich.edu/hoomd-blue/doc/index.html
-usage:
 
 .. _hoomd: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 
@@ -3516,13 +4246,18 @@ hoomd_
 ------
 
 name: hoomd
+
 description: "general-purpose particle simulation toolkit"
+
 version: 1.0
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'proteins', 'simulation', 'high energy physics', 'chemistry', 'molecular dynamics']
+
 url: https://codeblue.umich.edu/hoomd-blue/doc/index.html
-usage:
 
 .. _hoomd: https://codeblue.umich.edu/hoomd-blue/doc/index.html
 
@@ -3540,13 +4275,18 @@ hpctoolkit_
 -----------
 
 name: hpctoolkit
+
 description: "measurement and analysis of program performance on computers"
+
 version: 5.3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://hpctoolkit.org/documentation.html
-usage:
 
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
@@ -3564,13 +4304,18 @@ hpctoolkit_
 -----------
 
 name: hpctoolkit
+
 description: "measurement and analysis of program performance on computers"
+
 version: 5.3+intel-12.1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://hpctoolkit.org/documentation.html
-usage:
 
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
@@ -3588,13 +4333,18 @@ hpctoolkit_
 -----------
 
 name: hpctoolkit
+
 description: "measurement and analysis of program performance on computers"
+
 version: 5.3+intelmpi-4.0
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://hpctoolkit.org/documentation.html
-usage:
 
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
@@ -3612,13 +4362,18 @@ hpctoolkit_
 -----------
 
 name: hpctoolkit
+
 description: "measurement and analysis of program performance on computers"
+
 version: 5.3+mvapich2-1.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://hpctoolkit.org/documentation.html
-usage:
 
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
@@ -3636,13 +4391,18 @@ hpctoolkit_
 -----------
 
 name: hpctoolkit
+
 description: "measurement and analysis of program performance on computers"
+
 version: 5.3+openmpi-1.6
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://hpctoolkit.org/documentation.html
-usage:
 
 .. _hpctoolkit: http://hpctoolkit.org/documentation.html
 
@@ -3660,13 +4420,18 @@ hpcviewer_
 ----------
 
 name: hpcviewer
+
 description: "graphical user interface that interactively presents performance data from hpctoolkit"
+
 version: 5.3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'utilities', 'visualization', 'development tools']
+
 url: http://hpctoolkit.org/man/hpcviewer.html
-usage:
 
 .. _hpcviewer: http://hpctoolkit.org/man/hpcviewer.html
 
@@ -3684,13 +4449,18 @@ idl_
 ----
 
 name: idl
+
 description: "scientific programming language for visualization"
+
 version: 8.2
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.exelisvis.com/ProductsServices/IDL.aspx
-usage:
 
 .. _idl: http://www.exelisvis.com/ProductsServices/IDL.aspx
 
@@ -3708,13 +4478,18 @@ ifrit_
 ------
 
 name: ifrit
+
 description: "3D visualization software focused on cosmological simulations"
+
 version: 3.4
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: https://sites.google.com/site/ifrithome/Home/documentation
-usage:
 
 .. _ifrit: https://sites.google.com/site/ifrithome/Home/documentation
 
@@ -3732,13 +4507,18 @@ intel_
 ------
 
 name: intel
+
 description: "C/C++/Fortran compiler suite, includes Intel TBB"
+
 version: 11.1
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: https://software.intel.com/en-us/intel-parallel-studio-xe
-usage:
 
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
@@ -3756,13 +4536,18 @@ intel_
 ------
 
 name: intel
+
 description: "C/C++/Fortran compiler suite, includes Intel TBB"
+
 version: 12.1
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: https://software.intel.com/en-us/intel-parallel-studio-xe
-usage:
 
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
@@ -3780,13 +4565,18 @@ intel_
 ------
 
 name: intel
+
 description: "C/C++/Fortran compiler suite, includes Intel TBB"
+
 version: 13.1
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: https://software.intel.com/en-us/intel-parallel-studio-xe
-usage:
 
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
@@ -3804,13 +4594,18 @@ intel_
 ------
 
 name: intel
+
 description: "C/C++/Fortran compiler suite, includes Intel TBB"
+
 version: 14.0
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: https://software.intel.com/en-us/intel-parallel-studio-xe
-usage:
 
 .. _intel: https://software.intel.com/en-us/intel-parallel-studio-xe
 
@@ -3828,13 +4623,18 @@ intelmpi_
 ---------
 
 name: intelmpi
+
 description: "MPI library`"
+
 version: 4.0
+
 license: commercial
+
 categories: ['hpc']
+
 tags: ['high performance computing']
+
 url: https://software.intel.com/en-us/intel-mpi-library
-usage:
 
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
@@ -3852,13 +4652,18 @@ intelmpi_
 ---------
 
 name: intelmpi
+
 description: "MPI library`"
+
 version: 4.0+intel-12.1
+
 license: commercial
+
 categories: ['hpc']
+
 tags: ['high performance computing']
+
 url: https://software.intel.com/en-us/intel-mpi-library
-usage:
 
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
@@ -3876,13 +4681,18 @@ intelmpi_
 ---------
 
 name: intelmpi
+
 description: "MPI library`"
+
 version: 4.1
+
 license: commercial
+
 categories: ['hpc']
+
 tags: ['high performance computing']
+
 url: https://software.intel.com/en-us/intel-mpi-library
-usage:
 
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
@@ -3900,13 +4710,18 @@ intelmpi_
 ---------
 
 name: intelmpi
+
 description: "MPI library`"
+
 version: 4.1+intel-12.1
+
 license: commercial
+
 categories: ['hpc']
+
 tags: ['high performance computing']
+
 url: https://software.intel.com/en-us/intel-mpi-library
-usage:
 
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
@@ -3924,13 +4739,18 @@ intelmpi_
 ---------
 
 name: intelmpi
+
 description: "MPI library`"
+
 version: 4.1+intel-13.1
+
 license: commercial
+
 categories: ['hpc']
+
 tags: ['high performance computing']
+
 url: https://software.intel.com/en-us/intel-mpi-library
-usage:
 
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
@@ -3948,13 +4768,18 @@ intelmpi_
 ---------
 
 name: intelmpi
+
 description: "MPI library`"
+
 version: 4.1+intel-14.0
+
 license: commercial
+
 categories: ['hpc']
+
 tags: ['high performance computing']
+
 url: https://software.intel.com/en-us/intel-mpi-library
-usage:
 
 .. _intelmpi: https://software.intel.com/en-us/intel-mpi-library
 
@@ -3972,13 +4797,18 @@ ipopt_
 ------
 
 name: ipopt
+
 description: "large-scale non-linear optimization"
+
 version: 3.11
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis']
+
 url: https://projects.coin-or.org/Ipopt
-usage:
 
 .. _ipopt: https://projects.coin-or.org/Ipopt
 
@@ -3996,13 +4826,18 @@ j3d_
 ----
 
 name: j3d
+
 description: "3D API for Java"
+
 version: 1.5
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['development', 'visualization']
+
 url: https://java3d.java.net/
-usage:
 
 .. _j3d: https://java3d.java.net/
 
@@ -4020,13 +4855,18 @@ jasper_
 -------
 
 name: jasper
+
 description: "reference implementation of the codec specified in the JPEG-2000 Part-1 standard"
+
 version: 1.900
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'library', 'image processing']
+
 url: http://www.ece.uvic.ca/~frodo/jasper/
-usage:
 
 .. _jasper: http://www.ece.uvic.ca/~frodo/jasper/
 
@@ -4044,13 +4884,18 @@ java_
 -----
 
 name: java
+
 description: "programming language"
+
 version: 1.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'development tools']
+
 url: https://www.oracle.com/java/index.html
-usage:
 
 .. _java: https://www.oracle.com/java/index.html
 
@@ -4068,13 +4913,18 @@ jruby_
 ------
 
 name: jruby
+
 description: "implementation of Ruby programming language atop the Java Virtual Machine"
+
 version: 1.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'development tools']
+
 url: http://jruby.org/documentation
-usage:
 
 .. _jruby: http://jruby.org/documentation
 
@@ -4092,13 +4942,18 @@ knitro_
 -------
 
 name: knitro
+
 description: "for large-scale optimization"
+
 version: 9.0.1-z
+
 license: commercial
+
 categories: ['num']
+
 tags: ['numerical or mathematical']
+
 url: http://www.ziena.com/knitro.htm
-usage:
 
 .. _knitro: http://www.ziena.com/knitro.htm
 
@@ -4116,13 +4971,18 @@ lammps_
 -------
 
 name: lammps
+
 description: "molecular dynamics simulation"
+
 version: trunk
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'chemistry', 'proteins', 'molecular dynamics', 'simulation']
+
 url: http://lammps.sandia.gov/doc/Manual.html
-usage:
 
 .. _lammps: http://lammps.sandia.gov/doc/Manual.html
 
@@ -4140,13 +5000,18 @@ leveldb_
 --------
 
 name: leveldb
+
 description: "key-value storage library"
+
 version: 1
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'utilities', 'library', 'database']
+
 url: https://github.com/rvagg/node-levelup/blob/master/README.md
-usage:
 
 .. _leveldb: https://github.com/rvagg/node-levelup/blob/master/README.md
 
@@ -4164,13 +5029,18 @@ libassp_
 --------
 
 name: libassp
+
 description: "handling and analysis for speech signal files"
+
 version: 1
+
 license: opensource
+
 categories: ['nlp']
+
 tags: ['library', 'natural language processing']
+
 url: http://libassp.sourceforge.net/toc.html
-usage:
 
 .. _libassp: http://libassp.sourceforge.net/toc.html
 
@@ -4188,13 +5058,18 @@ libint_
 -------
 
 name: libint
+
 description: "evaluation of two-body molecular integrals over Gaussian functions and optimizing compiler to generate Libint library"
+
 version: 1.1
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'statistics', 'numerical analysis', 'library', 'chemistry', 'compilers']
+
 url: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%20of%20quantum%20mechanical%20matrix%20elements%20over%20Gaussian%20basis%20sets/
-usage:
 
 .. _libint: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%20of%20quantum%20mechanical%20matrix%20elements%20over%20Gaussian%20basis%20sets/
 
@@ -4212,13 +5087,18 @@ libint_
 -------
 
 name: libint
+
 description: "evaluation of two-body molecular integrals over Gaussian functions and optimizing compiler to generate Libint library"
+
 version: 2.0
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['biology', 'statistics', 'numerical analysis', 'library', 'chemistry', 'compilers']
+
 url: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%20of%20quantum%20mechanical%20matrix%20elements%20over%20Gaussian%20basis%20sets/
-usage:
 
 .. _libint: http://sourceforge.net/p/libint/home/Libint%20--%20efficient%20computation%20of%20quantum%20mechanical%20matrix%20elements%20over%20Gaussian%20basis%20sets/
 
@@ -4236,13 +5116,18 @@ libspatialite_
 --------------
 
 name: libspatialite
+
 description: "extension of SQLite core with Spatial SQL capabilities"
+
 version: 4.0
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'library', 'database']
+
 url: https://www.gaia-gis.it/fossil/libspatialite/index
-usage:
 
 .. _libspatialite: https://www.gaia-gis.it/fossil/libspatialite/index
 
@@ -4260,13 +5145,18 @@ libtool_
 --------
 
 name: libtool
+
 description: "generic library support script"
+
 version: 2.4
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['software libraries', 'library', 'database']
+
 url: https://www.gnu.org/software/libtool/manual/html_node/index.html
-usage:
 
 .. _libtool: https://www.gnu.org/software/libtool/manual/html_node/index.html
 
@@ -4284,13 +5174,18 @@ mallet_
 -------
 
 name: mallet
+
 description: "machine learning applications to text"
+
 version: 2.0
+
 license: opensource
+
 categories: ['nlp']
+
 tags: ['statistics', 'machine learning', 'natural language processing']
+
 url: http://mallet.cs.umass.edu/
-usage:
 
 .. _mallet: http://mallet.cs.umass.edu/
 
@@ -4308,13 +5203,18 @@ mathematica_
 ------------
 
 name: mathematica
+
 description: "symbolic mathematical software"
+
 version: 8.0
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.wolfram.com/mathematica/
-usage:
 
 .. _mathematica: http://www.wolfram.com/mathematica/
 
@@ -4332,13 +5232,18 @@ mathematica_
 ------------
 
 name: mathematica
+
 description: "symbolic mathematical software"
+
 version: 9.0
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.wolfram.com/mathematica/
-usage:
 
 .. _mathematica: http://www.wolfram.com/mathematica/
 
@@ -4356,13 +5261,18 @@ matlab_
 -------
 
 name: matlab
+
 description: "high level language and interactive environment for numerical computation, visualization, and programming"
+
 version: 2011b
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.mathworks.com/products/matlab/
-usage:
 
 .. _matlab: http://www.mathworks.com/products/matlab/
 
@@ -4380,13 +5290,18 @@ matlab_
 -------
 
 name: matlab
+
 description: "high level language and interactive environment for numerical computation, visualization, and programming"
+
 version: 2012a
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.mathworks.com/products/matlab/
-usage:
 
 .. _matlab: http://www.mathworks.com/products/matlab/
 
@@ -4404,13 +5319,18 @@ matlab_
 -------
 
 name: matlab
+
 description: "high level language and interactive environment for numerical computation, visualization, and programming"
+
 version: 2012b
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.mathworks.com/products/matlab/
-usage:
 
 .. _matlab: http://www.mathworks.com/products/matlab/
 
@@ -4428,13 +5348,18 @@ matlab_
 -------
 
 name: matlab
+
 description: "high level language and interactive environment for numerical computation, visualization, and programming"
+
 version: 2013b
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.mathworks.com/products/matlab/
-usage:
 
 .. _matlab: http://www.mathworks.com/products/matlab/
 
@@ -4452,13 +5377,18 @@ matlab_
 -------
 
 name: matlab
+
 description: "high level language and interactive environment for numerical computation, visualization, and programming"
+
 version: 2014b
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.mathworks.com/products/matlab/
-usage:
 
 .. _matlab: http://www.mathworks.com/products/matlab/
 
@@ -4476,13 +5406,18 @@ maven_
 ------
 
 name: maven
+
 description: "software project management and comprehension tool"
+
 version: 3.1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://maven.apache.org/guides/index.html
-usage:
 
 .. _maven: http://maven.apache.org/guides/index.html
 
@@ -4500,13 +5435,18 @@ mercurial_
 ----------
 
 name: mercurial
+
 description: "distributed version control system"
+
 version: 2.5
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://mercurial.selenic.com/guide
-usage:
 
 .. _mercurial: http://mercurial.selenic.com/guide
 
@@ -4524,13 +5464,18 @@ mercurial_
 ----------
 
 name: mercurial
+
 description: "distributed version control system"
+
 version: 2.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://mercurial.selenic.com/guide
-usage:
 
 .. _mercurial: http://mercurial.selenic.com/guide
 
@@ -4548,13 +5493,18 @@ mercurial_
 ----------
 
 name: mercurial
+
 description: "distributed version control system"
+
 version: 3.1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'utilities', 'development tools']
+
 url: http://mercurial.selenic.com/guide
-usage:
 
 .. _mercurial: http://mercurial.selenic.com/guide
 
@@ -4572,13 +5522,18 @@ migrate-n_
 ----------
 
 name: migrate-n
+
 description: "estimation of population size and gene flow"
+
 version: 3.6
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'population', 'biological and life sciences']
+
 url: http://popgen.sc.fsu.edu/Migrate/Migrate-n.html
-usage:
 
 .. _migrate-n: http://popgen.sc.fsu.edu/Migrate/Migrate-n.html
 
@@ -4596,13 +5551,18 @@ mkl_
 ----
 
 name: mkl
+
 description: "library of optimized numerical routines"
+
 version: 10.2
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: https://software.intel.com/en-us/intel-mkl
-usage:
 
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
@@ -4620,13 +5580,18 @@ mkl_
 ----
 
 name: mkl
+
 description: "library of optimized numerical routines"
+
 version: 10.3
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: https://software.intel.com/en-us/intel-mkl
-usage:
 
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
@@ -4644,13 +5609,18 @@ mkl_
 ----
 
 name: mkl
+
 description: "library of optimized numerical routines"
+
 version: 11.0
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: https://software.intel.com/en-us/intel-mkl
-usage:
 
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
@@ -4668,13 +5638,18 @@ mkl_
 ----
 
 name: mkl
+
 description: "library of optimized numerical routines"
+
 version: 11.1
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: https://software.intel.com/en-us/intel-mkl
-usage:
 
 .. _mkl: https://software.intel.com/en-us/intel-mkl
 
@@ -4692,13 +5667,18 @@ mono_
 -----
 
 name: mono
+
 description: "open source implementation of Microsoft's .NET Framework"
+
 version: 2.10
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.mono-project.com/docs/
-usage:
 
 .. _mono: http://www.mono-project.com/docs/
 
@@ -4716,13 +5696,18 @@ mosh_
 -----
 
 name: mosh
+
 description: "connect to server from client to run remote terminal (like SSH)"
+
 version: 1.2
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: https://mosh.mit.edu/
-usage:
 
 .. _mosh: https://mosh.mit.edu/
 
@@ -4740,13 +5725,18 @@ mpg123_
 -------
 
 name: mpg123
+
 description: "MPEG audio player and decoder"
+
 version: 1.13
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'natural language processing', 'browsers', 'utilities', 'editors']
+
 url: http://www.mpg123.de/
-usage:
 
 .. _mpg123: http://www.mpg123.de/
 
@@ -4764,13 +5754,18 @@ mpg123_
 -------
 
 name: mpg123
+
 description: "MPEG audio player and decoder"
+
 version: 1.14
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'natural language processing', 'browsers', 'utilities', 'editors']
+
 url: http://www.mpg123.de/
-usage:
 
 .. _mpg123: http://www.mpg123.de/
 
@@ -4788,13 +5783,18 @@ mpi4py_
 -------
 
 name: mpi4py
+
 description: "Python bindings for the Message Passing Interface (MPI) standard"
+
 version: 1.3-2014q1+intelmpi-4.0
+
 license: opensource
+
 categories: ['data']
+
 tags: ['development', 'I/O and data processing tools']
+
 url: https://bitbucket.org/mpi4py/mpi4py
-usage:
 
 .. _mpi4py: https://bitbucket.org/mpi4py/mpi4py
 
@@ -4812,13 +5812,18 @@ mpi4py_
 -------
 
 name: mpi4py
+
 description: "Python bindings for the Message Passing Interface (MPI) standard"
+
 version: 1.3-2014q3+intelmpi-4.0
+
 license: opensource
+
 categories: ['data']
+
 tags: ['development', 'I/O and data processing tools']
+
 url: https://bitbucket.org/mpi4py/mpi4py
-usage:
 
 .. _mpi4py: https://bitbucket.org/mpi4py/mpi4py
 
@@ -4836,13 +5841,18 @@ mpi4py_
 -------
 
 name: mpi4py
+
 description: "Python bindings for the Message Passing Interface (MPI) standard"
+
 version: 1.3+intelmpi-4.0
+
 license: opensource
+
 categories: ['data']
+
 tags: ['development', 'I/O and data processing tools']
+
 url: https://bitbucket.org/mpi4py/mpi4py
-usage:
 
 .. _mpi4py: https://bitbucket.org/mpi4py/mpi4py
 
@@ -4860,13 +5870,18 @@ mpiblast_
 ---------
 
 name: mpiblast
+
 description: "improved implementation of NCBI BLAST, find homology in biological sequences"
+
 version: trunk
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'genetics', 'database', 'proteins', 'library', 'biological and life sciences', 'medicine']
+
 url: http://www.mpiblast.org/
-usage:
 
 .. _mpiblast: http://www.mpiblast.org/
 
@@ -4884,13 +5899,18 @@ mplayer_
 --------
 
 name: mplayer
+
 description: "media player"
+
 version: trunk
+
 license: opensource
+
 categories: ['util']
+
 tags: ['video/audio', 'browsers', 'utilities', 'editors']
+
 url: http://www.mplayerhq.hu/design7/documentation.html
-usage:
 
 .. _mplayer: http://www.mplayerhq.hu/design7/documentation.html
 
@@ -4908,13 +5928,18 @@ mrbayes_
 --------
 
 name: mrbayes
+
 description: "Bayesian inference and model choice for phylogenetic and evolutionary models"
+
 version: release
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'genetics', 'biological and life sciences']
+
 url: http://mrbayes.sourceforge.net/manual.php
-usage:
 
 .. _mrbayes: http://mrbayes.sourceforge.net/manual.php
 
@@ -4932,13 +5957,18 @@ mumps_
 ------
 
 name: mumps
+
 description: "parallel sparse direct solver"
+
 version: 4.10
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis']
+
 url: http://mumps.enseeiht.fr/index.php?page=doc
-usage:
 
 .. _mumps: http://mumps.enseeiht.fr/index.php?page=doc
 
@@ -4956,13 +5986,18 @@ mvapich2_
 ---------
 
 name: mvapich2
+
 description: "MPI library"
+
 version: 1.8+pgi-2012
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://mvapich.cse.ohio-state.edu/userguide/
-usage:
 
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
@@ -4980,13 +6015,18 @@ mvapich2_
 ---------
 
 name: mvapich2
+
 description: "MPI library"
+
 version: 1.9
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://mvapich.cse.ohio-state.edu/userguide/
-usage:
 
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
@@ -5004,13 +6044,18 @@ mvapich2_
 ---------
 
 name: mvapich2
+
 description: "MPI library"
+
 version: 1.9+intel-12.1
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://mvapich.cse.ohio-state.edu/userguide/
-usage:
 
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
@@ -5028,13 +6073,18 @@ mvapich2_
 ---------
 
 name: mvapich2
+
 description: "MPI library"
+
 version: 1.9+pgi-2012
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://mvapich.cse.ohio-state.edu/userguide/
-usage:
 
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
@@ -5052,13 +6102,18 @@ mvapich2_
 ---------
 
 name: mvapich2
+
 description: "MPI library"
+
 version: 2.0
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://mvapich.cse.ohio-state.edu/userguide/
-usage:
 
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
@@ -5076,13 +6131,18 @@ mvapich2_
 ---------
 
 name: mvapich2
+
 description: "MPI library"
+
 version: 2.0+intel-12.1
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://mvapich.cse.ohio-state.edu/userguide/
-usage:
 
 .. _mvapich2: http://mvapich.cse.ohio-state.edu/userguide/
 
@@ -5100,13 +6160,18 @@ namd_
 -----
 
 name: namd
+
 description: "parallel molecular dynamics code for biomolecular system simulation"
+
 version: 2.10b1
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'simulation', 'chemistry', 'biological and life sciences', 'molecular dynamics']
+
 url: http://www.ks.uiuc.edu/Research/namd/
-usage:
 
 .. _namd: http://www.ks.uiuc.edu/Research/namd/
 
@@ -5124,13 +6189,18 @@ namd_
 -----
 
 name: namd
+
 description: "parallel molecular dynamics code for biomolecular system simulation"
+
 version: 2.9
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'simulation', 'chemistry', 'biological and life sciences', 'molecular dynamics']
+
 url: http://www.ks.uiuc.edu/Research/namd/
-usage:
 
 .. _namd: http://www.ks.uiuc.edu/Research/namd/
 
@@ -5148,13 +6218,18 @@ namd_
 -----
 
 name: namd
+
 description: "parallel molecular dynamics code for biomolecular system simulation"
+
 version: 2.9-cuda
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'simulation', 'chemistry', 'biological and life sciences', 'molecular dynamics']
+
 url: http://www.ks.uiuc.edu/Research/namd/
-usage:
 
 .. _namd: http://www.ks.uiuc.edu/Research/namd/
 
@@ -5172,13 +6247,18 @@ ncl_ncarg_
 ----------
 
 name: ncl_ncarg
+
 description: "interpreted language designed for data analysis and visualization"
+
 version: 6.1
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', 'data']
+
 url: https://www.ncl.ucar.edu/index.shtml
-usage:
 
 .. _ncl_ncarg: https://www.ncl.ucar.edu/index.shtml
 
@@ -5196,13 +6276,18 @@ nco_
 ----
 
 name: nco
+
 description: "command-line programs for manipulation and analysis of netCDF-accessible formatted data"
+
 version: 4.2
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'utilities', 'data', 'development tools']
+
 url: http://nco.sourceforge.net/
-usage:
 
 .. _nco: http://nco.sourceforge.net/
 
@@ -5220,13 +6305,18 @@ nco_
 ----
 
 name: nco
+
 description: "command-line programs for manipulation and analysis of netCDF-accessible formatted data"
+
 version: 4.3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'utilities', 'data', 'development tools']
+
 url: http://nco.sourceforge.net/
-usage:
 
 .. _nco: http://nco.sourceforge.net/
 
@@ -5244,13 +6334,18 @@ nco_
 ----
 
 name: nco
+
 description: "command-line programs for manipulation and analysis of netCDF-accessible formatted data"
+
 version: 4.4
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'utilities', 'data', 'development tools']
+
 url: http://nco.sourceforge.net/
-usage:
 
 .. _nco: http://nco.sourceforge.net/
 
@@ -5268,13 +6363,18 @@ ncview_
 -------
 
 name: ncview
+
 description: "visual browser netCDF format files"
+
 version: 2.1.1
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://meteora.ucsd.edu/~pierce/ncview_home_page.html
-usage:
 
 .. _ncview: http://meteora.ucsd.edu/~pierce/ncview_home_page.html
 
@@ -5292,13 +6392,18 @@ netcdf_
 -------
 
 name: netcdf
+
 description: "software libraries and self-describing, machine-independent data formats"
+
 version: 3.6.3
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['data', 'software libraries', 'utilities', 'library']
+
 url: http://www.unidata.ucar.edu/software/netcdf/docs/
-usage:
 
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
@@ -5316,13 +6421,18 @@ netcdf_
 -------
 
 name: netcdf
+
 description: "software libraries and self-describing, machine-independent data formats"
+
 version: 3.6.3+intel-12.1
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['data', 'software libraries', 'utilities', 'library']
+
 url: http://www.unidata.ucar.edu/software/netcdf/docs/
-usage:
 
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
@@ -5340,13 +6450,18 @@ netcdf_
 -------
 
 name: netcdf
+
 description: "software libraries and self-describing, machine-independent data formats"
+
 version: 4.2
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['data', 'software libraries', 'utilities', 'library']
+
 url: http://www.unidata.ucar.edu/software/netcdf/docs/
-usage:
 
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
@@ -5364,13 +6479,18 @@ netcdf_
 -------
 
 name: netcdf
+
 description: "software libraries and self-describing, machine-independent data formats"
+
 version: 4.2+intel-12.1
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['data', 'software libraries', 'utilities', 'library']
+
 url: http://www.unidata.ucar.edu/software/netcdf/docs/
-usage:
 
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
@@ -5388,13 +6508,18 @@ netcdf_
 -------
 
 name: netcdf
+
 description: "software libraries and self-describing, machine-independent data formats"
+
 version: 4.3
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['data', 'software libraries', 'utilities', 'library']
+
 url: http://www.unidata.ucar.edu/software/netcdf/docs/
-usage:
 
 .. _netcdf: http://www.unidata.ucar.edu/software/netcdf/docs/
 
@@ -5412,13 +6537,18 @@ node_
 -----
 
 name: node
+
 description: "framework for building network applications"
+
 version: 0.10.29
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'development tools']
+
 url: http://nodejs.org/api/
-usage:
 
 .. _node: http://nodejs.org/api/
 
@@ -5436,13 +6566,18 @@ octave_
 -------
 
 name: octave
+
 description: "high-level language for numerical computations"
+
 version: 3.6
+
 license: opensource
+
 categories: ['num', 'dev']
+
 tags: ['debugging', 'numerical analysis', 'programming/scripting languages', 'optimization stuff', 'numerical or mathematical', 'general programming', 'visualization', 'mathematics', 'development tools']
+
 url: https://www.gnu.org/software/octave/doc/interpreter/index.html
-usage:
 
 .. _octave: https://www.gnu.org/software/octave/doc/interpreter/index.html
 
@@ -5460,13 +6595,18 @@ openbabel_
 ----------
 
 name: openbabel
+
 description: "toolbox for using chemical data"
+
 version: 2.3.1
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['proteins', 'biology', 'chemistry', 'data', 'molecular dynamics']
+
 url: http://openbabel.org/docs/current/
-usage:
 
 .. _openbabel: http://openbabel.org/docs/current/
 
@@ -5484,13 +6624,18 @@ openblas_
 ---------
 
 name: openblas
+
 description: "optimized BLAS library"
+
 version: 0.2.6
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis', 'library']
+
 url: https://github.com/xianyi/OpenBLAS/wiki/Document
-usage:
 
 .. _openblas: https://github.com/xianyi/OpenBLAS/wiki/Document
 
@@ -5508,13 +6653,18 @@ opencv_
 -------
 
 name: opencv
+
 description: "computer vision and machine learning software library"
+
 version: 2.4
+
 license: opensource
+
 categories: ['eng']
+
 tags: ['engineering', 'library']
+
 url: http://docs.opencv.org/
-usage:
 
 .. _opencv: http://docs.opencv.org/
 
@@ -5532,13 +6682,18 @@ openfoam_
 ---------
 
 name: openfoam
+
 description: "C++ toolbox for developing customized numerical solvers, and pre-/post-processing utilities for solving continuum mechanics problems"
+
 version: 2.1
+
 license: opensource
+
 categories: ['eng']
+
 tags: ['high energy physics', 'engineering', 'chemistry', 'fluid dynamics']
+
 url: http://www.openfoam.org/docs/
-usage:
 
 .. _openfoam: http://www.openfoam.org/docs/
 
@@ -5556,13 +6711,18 @@ openfoam_
 ---------
 
 name: openfoam
+
 description: "C++ toolbox for developing customized numerical solvers, and pre-/post-processing utilities for solving continuum mechanics problems"
+
 version: pegged+openmpi-1.6
+
 license: opensource
+
 categories: ['eng']
+
 tags: ['high energy physics', 'engineering', 'chemistry', 'fluid dynamics']
+
 url: http://www.openfoam.org/docs/
-usage:
 
 .. _openfoam: http://www.openfoam.org/docs/
 
@@ -5580,13 +6740,18 @@ openmm_
 -------
 
 name: openmm
+
 description: "molecular simulation"
+
 version: 6.0
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['chemistry', 'molecular dynamics', 'simulation']
+
 url: https://simtk.org/docman/?group_id=161
-usage:
 
 .. _openmm: https://simtk.org/docman/?group_id=161
 
@@ -5604,13 +6769,18 @@ openmm_
 -------
 
 name: openmm
+
 description: "molecular simulation"
+
 version: 6.1
+
 license: opensource
+
 categories: ['chem']
+
 tags: ['chemistry', 'molecular dynamics', 'simulation']
+
 url: https://simtk.org/docman/?group_id=161
-usage:
 
 .. _openmm: https://simtk.org/docman/?group_id=161
 
@@ -5628,13 +6798,18 @@ openmpi_
 --------
 
 name: openmpi
+
 description: "MPI library"
+
 version: 1.6
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://www.open-mpi.org/doc/
-usage:
 
 .. _openmpi: http://www.open-mpi.org/doc/
 
@@ -5652,13 +6827,18 @@ openmpi_
 --------
 
 name: openmpi
+
 description: "MPI library"
+
 version: 1.6+intel-12.1
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://www.open-mpi.org/doc/
-usage:
 
 .. _openmpi: http://www.open-mpi.org/doc/
 
@@ -5676,13 +6856,18 @@ openmpi_
 --------
 
 name: openmpi
+
 description: "MPI library"
+
 version: 1.6+pgi-2012
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://www.open-mpi.org/doc/
-usage:
 
 .. _openmpi: http://www.open-mpi.org/doc/
 
@@ -5700,13 +6885,18 @@ openmpi_
 --------
 
 name: openmpi
+
 description: "MPI library"
+
 version: 1.8
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://www.open-mpi.org/doc/
-usage:
 
 .. _openmpi: http://www.open-mpi.org/doc/
 
@@ -5724,13 +6914,18 @@ openmpi_
 --------
 
 name: openmpi
+
 description: "MPI library"
+
 version: 1.8+intel-12.1
+
 license: opensource
+
 categories: ['hpc', 'data']
+
 tags: ['development', 'I/O and data processing tools', 'library', 'high performance computing']
+
 url: http://www.open-mpi.org/doc/
-usage:
 
 .. _openmpi: http://www.open-mpi.org/doc/
 
@@ -5748,13 +6943,18 @@ papi_
 -----
 
 name: papi
+
 description: "standard API for accessing hardware performance counters"
+
 version: 5.1
+
 license: opensource
+
 categories: ['eng']
+
 tags: ['engineering', 'utilities']
+
 url: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
-usage:
 
 .. _papi: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
 
@@ -5772,13 +6972,18 @@ papi_
 -----
 
 name: papi
+
 description: "standard API for accessing hardware performance counters"
+
 version: 5.3
+
 license: opensource
+
 categories: ['eng']
+
 tags: ['engineering', 'utilities']
+
 url: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
-usage:
 
 .. _papi: http://icl.cs.utk.edu/projects/papi/wiki/Main_Page
 
@@ -5796,13 +7001,18 @@ parallel_
 ---------
 
 name: parallel
+
 description: "shell tool for executing jobs in parallel"
+
 version: latest
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'interactive', 'utilities', 'editors']
+
 url: http://www.gnu.org/software/parallel/
-usage:
 
 .. _parallel: http://www.gnu.org/software/parallel/
 
@@ -5820,13 +7030,18 @@ paraview_
 ---------
 
 name: paraview
+
 description: "data analysis and scientific visualization"
+
 version: 3.14
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.paraview.org/documentation/
-usage:
 
 .. _paraview: http://www.paraview.org/documentation/
 
@@ -5844,13 +7059,18 @@ pdtoolkit_
 ----------
 
 name: pdtoolkit
+
 description: "framework for analyzing source code"
+
 version: 3.18
+
 license: opensource
+
 categories: ['data']
+
 tags: ['development', 'I/O and data processing tools']
+
 url: http://www.cs.uoregon.edu/research/pdt/docs.php
-usage:
 
 .. _pdtoolkit: http://www.cs.uoregon.edu/research/pdt/docs.php
 
@@ -5868,13 +7088,18 @@ perl_
 -----
 
 name: perl
+
 description: "programming language"
+
 version: 5.18
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.perl.org/docs.html
-usage:
 
 .. _perl: https://www.perl.org/docs.html
 
@@ -5892,13 +7117,18 @@ petsc_
 ------
 
 name: petsc
+
 description: "data analysis for scientific applications of partial differential equation models"
+
 version: 3.4+openmpi-1.6
+
 license: opensource
+
 categories: ['num']
+
 tags: ['numerical or mathematical', 'numerical analysis']
+
 url: http://www.mcs.anl.gov/petsc/documentation/index.html
-usage:
 
 .. _petsc: http://www.mcs.anl.gov/petsc/documentation/index.html
 
@@ -5916,13 +7146,18 @@ pgi_
 ----
 
 name: pgi
+
 description: "C/C++/Fortran compiler suite"
+
 version: 2012
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.pgroup.com/
-usage:
 
 .. _pgi: http://www.pgroup.com/
 
@@ -5940,13 +7175,18 @@ pgi_
 ----
 
 name: pgi
+
 description: "C/C++/Fortran compiler suite"
+
 version: 2013
+
 license: commercial
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://www.pgroup.com/
-usage:
 
 .. _pgi: http://www.pgroup.com/
 
@@ -5964,13 +7204,18 @@ picrust_
 --------
 
 name: picrust
+
 description: "bioinformatics software package designed to predict metagenome functional content"
+
 version: 1.0
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'genetics', 'biological and life sciences']
+
 url: http://picrust.github.io/picrust/
-usage:
 
 .. _picrust: http://picrust.github.io/picrust/
 
@@ -5988,13 +7233,18 @@ pism_
 -----
 
 name: pism
+
 description: "ice sheet model"
+
 version: 0.6
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['visualization', 'geology', 'simulation', 'geophysics', 'geoscience', 'geography']
+
 url: http://www.pism-docs.org/wiki/doku.php
-usage:
 
 .. _pism: http://www.pism-docs.org/wiki/doku.php
 
@@ -6012,13 +7262,18 @@ postgresql_
 -----------
 
 name: postgresql
+
 description: "client for postgres database server"
+
 version: 9.2
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'database']
+
 url: http://www.postgresql.org/docs/
-usage:
 
 .. _postgresql: http://www.postgresql.org/docs/
 
@@ -6036,13 +7291,18 @@ postgresql_
 -----------
 
 name: postgresql
+
 description: "client for postgres database server"
+
 version: 9.3
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'database']
+
 url: http://www.postgresql.org/docs/
-usage:
 
 .. _postgresql: http://www.postgresql.org/docs/
 
@@ -6060,13 +7320,18 @@ povray_
 -------
 
 name: povray
+
 description: "ray tracing program which generates images from text-based scene"
+
 version: 3.6.1
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', '3D modeling']
+
 url: http://www.povray.org/documentation/3.7.0/
-usage:
 
 .. _povray: http://www.povray.org/documentation/3.7.0/
 
@@ -6084,13 +7349,18 @@ praat_
 ------
 
 name: praat
+
 description: "speech analysis/synthesis/manipulation"
+
 version: 5.3
+
 license: opensource
+
 categories: ['nlp']
+
 tags: ['natural language processing']
+
 url: http://www.fon.hum.uva.nl/praat/
-usage:
 
 .. _praat: http://www.fon.hum.uva.nl/praat/
 
@@ -6108,13 +7378,18 @@ prism_
 ------
 
 name: prism
+
 description: "probabilistic model checker"
+
 version: 4.0
+
 license: opensource
+
 categories: ['stat']
+
 tags: ['statistics']
+
 url: http://www.prismmodelchecker.org/doc/
-usage:
 
 .. _prism: http://www.prismmodelchecker.org/doc/
 
@@ -6132,13 +7407,18 @@ proj_
 -----
 
 name: proj
+
 description: "cartographic projections library"
+
 version: 4.8
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['geography', 'geophysics', 'geoscience', 'library', 'geology']
+
 url: trac.osgeo.org/proj/
-usage:
 
 .. _proj: trac.osgeo.org/proj/
 
@@ -6156,13 +7436,18 @@ proot_
 ------
 
 name: proot
+
 description: "implement chroot functionality"
+
 version: current
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'interactive']
+
 url: http://proot.me/
-usage:
 
 .. _proot: http://proot.me/
 
@@ -6180,13 +7465,18 @@ protobuf_
 ---------
 
 name: protobuf
+
 description: "serialize structured data"
+
 version: 2.5
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data']
+
 url: https://developers.google.com/protocol-buffers/docs/overview
-usage:
 
 .. _protobuf: https://developers.google.com/protocol-buffers/docs/overview
 
@@ -6204,13 +7494,18 @@ pymol_
 ------
 
 name: pymol
+
 description: "molecular visualization"
+
 version: svn
+
 license: commercial
+
 categories: []
+
 tags: []
+
 url: http://www.pymol.org/
-usage:
 
 .. _pymol: http://www.pymol.org/
 
@@ -6228,13 +7523,18 @@ pypy_
 -----
 
 name: pypy
+
 description: "fast Python implementation"
+
 version: 1.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: http://doc.pypy.org/en/latest/
-usage:
 
 .. _pypy: http://doc.pypy.org/en/latest/
 
@@ -6252,13 +7552,18 @@ python_
 -------
 
 name: python
+
 description: "programming language"
+
 version: 2.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.python.org/doc/
-usage:
 
 .. _python: https://www.python.org/doc/
 
@@ -6276,13 +7581,18 @@ python_
 -------
 
 name: python
+
 description: "programming language"
+
 version: 2.7-2013q4
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.python.org/doc/
-usage:
 
 .. _python: https://www.python.org/doc/
 
@@ -6300,13 +7610,18 @@ python_
 -------
 
 name: python
+
 description: "programming language"
+
 version: 2.7-2014q1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.python.org/doc/
-usage:
 
 .. _python: https://www.python.org/doc/
 
@@ -6324,13 +7639,18 @@ python_
 -------
 
 name: python
+
 description: "programming language"
+
 version: 2.7-2014q2
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.python.org/doc/
-usage:
 
 .. _python: https://www.python.org/doc/
 
@@ -6348,13 +7668,18 @@ python_
 -------
 
 name: python
+
 description: "programming language"
+
 version: 2.7-2014q3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.python.org/doc/
-usage:
 
 .. _python: https://www.python.org/doc/
 
@@ -6372,13 +7697,18 @@ python_
 -------
 
 name: python
+
 description: "programming language"
+
 version: 3.3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://www.python.org/doc/
-usage:
 
 .. _python: https://www.python.org/doc/
 
@@ -6396,13 +7726,18 @@ qd_
 ---
 
 name: qd
+
 description: "computational library"
+
 version: 2.3.14
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'library']
+
 url: http://crd-legacy.lbl.gov/~dhbailey/mpdist/
-usage:
 
 .. _qd: http://crd-legacy.lbl.gov/~dhbailey/mpdist/
 
@@ -6420,13 +7755,18 @@ qgis_
 -----
 
 name: qgis
+
 description: "geographic information system"
+
 version: 1.8
+
 license: opensource
+
 categories: ['geo']
+
 tags: ['geography', 'geophysics', 'geoscience', 'geology']
+
 url: http://www.qgis.org/en/docs/index.html
-usage:
 
 .. _qgis: http://www.qgis.org/en/docs/index.html
 
@@ -6444,13 +7784,18 @@ qiime_
 ------
 
 name: qiime
+
 description: "microbial community analysis"
+
 version: 1.6
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'microbiology', 'biological and life sciences']
+
 url: http://qiime.org/documentation_index.html
-usage:
 
 .. _qiime: http://qiime.org/documentation_index.html
 
@@ -6468,13 +7813,18 @@ qiime_
 ------
 
 name: qiime
+
 description: "microbial community analysis"
+
 version: 1.7
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'microbiology', 'biological and life sciences']
+
 url: http://qiime.org/documentation_index.html
-usage:
 
 .. _qiime: http://qiime.org/documentation_index.html
 
@@ -6492,13 +7842,18 @@ qiime_
 ------
 
 name: qiime
+
 description: "microbial community analysis"
+
 version: 1.8
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'microbiology', 'biological and life sciences']
+
 url: http://qiime.org/documentation_index.html
-usage:
 
 .. _qiime: http://qiime.org/documentation_index.html
 
@@ -6516,13 +7871,18 @@ qt_
 ---
 
 name: qt
+
 description: "cross-platform application framework"
+
 version: 3.3
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://qt-project.org/doc/
-usage:
 
 .. _qt: http://qt-project.org/doc/
 
@@ -6540,13 +7900,18 @@ qt_
 ---
 
 name: qt
+
 description: "cross-platform application framework"
+
 version: 4.7
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://qt-project.org/doc/
-usage:
 
 .. _qt: http://qt-project.org/doc/
 
@@ -6564,13 +7929,18 @@ qt_
 ---
 
 name: qt
+
 description: "cross-platform application framework"
+
 version: 4.8
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://qt-project.org/doc/
-usage:
 
 .. _qt: http://qt-project.org/doc/
 
@@ -6588,13 +7958,18 @@ qwt_
 ----
 
 name: qwt
+
 description: "Qt widgets for technical applications"
+
 version: 6.0
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools']
+
 url: http://qwt.sourceforge.net/
-usage:
 
 .. _qwt: http://qwt.sourceforge.net/
 
@@ -6612,13 +7987,18 @@ rapsearch_
 ----------
 
 name: rapsearch
+
 description: "Reduced Alphabet based Protein similarity Search"
+
 version: 2
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'proteins', 'biological and life sciences']
+
 url: https://github.com/zhaoyanswill/RAPSearch2
-usage:
 
 .. _rapsearch: https://github.com/zhaoyanswill/RAPSearch2
 
@@ -6636,13 +8016,18 @@ raxml_
 ------
 
 name: raxml
+
 description: "sequential and parallel Maximum Likelihood based inference of large phylogenetic trees"
+
 version: trunk
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['genomics', 'biology', 'statistics', 'genetics', 'biological and life sciences']
+
 url: http://sco.h-its.org/exelixis/web/software/raxml/index.html
-usage:
 
 .. _raxml: http://sco.h-its.org/exelixis/web/software/raxml/index.html
 
@@ -6660,13 +8045,18 @@ rstudio_
 --------
 
 name: rstudio
+
 description: "IDE for R"
+
 version: 0.97
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
-usage:
 
 .. _rstudio: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 
@@ -6684,13 +8074,18 @@ rstudio_
 --------
 
 name: rstudio
+
 description: "IDE for R"
+
 version: 0.98
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'general programming', 'development tools']
+
 url: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
-usage:
 
 .. _rstudio: https://support.rstudio.com/hc/en-us/categories/200035113-Documentation
 
@@ -6708,13 +8103,18 @@ ruby_
 -----
 
 name: ruby
+
 description: "programming language"
+
 version: 2.1
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'development tools']
+
 url: https://www.ruby-lang.org/en/documentation/
-usage:
 
 .. _ruby: https://www.ruby-lang.org/en/documentation/
 
@@ -6732,13 +8132,18 @@ sdpa_
 -----
 
 name: sdpa
+
 description: "optimization algorithm"
+
 version: 7.3.8+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis']
+
 url: http://sdpa.sourceforge.net/index.html
-usage:
 
 .. _sdpa: http://sdpa.sourceforge.net/index.html
 
@@ -6756,13 +8161,18 @@ sdpa-dd_
 --------
 
 name: sdpa-dd
+
 description: "semidefinite programming algorithm"
+
 version: 7.1.2+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis']
+
 url: http://sdpa.sourceforge.net/index.html
-usage:
 
 .. _sdpa-dd: http://sdpa.sourceforge.net/index.html
 
@@ -6780,13 +8190,18 @@ sdpa-gmp_
 ---------
 
 name: sdpa-gmp
+
 description: "semidefinite programming algorithm"
+
 version: 7.1.2+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis']
+
 url: http://sdpa.sourceforge.net/index.html
-usage:
 
 .. _sdpa-gmp: http://sdpa.sourceforge.net/index.html
 
@@ -6804,13 +8219,18 @@ sdpa-qd_
 --------
 
 name: sdpa-qd
+
 description: "semidefinite programming algorithm"
+
 version: 7.1.2+intel-12.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical', 'numerical analysis']
+
 url: http://sdpa.sourceforge.net/index.html
-usage:
 
 .. _sdpa-qd: http://sdpa.sourceforge.net/index.html
 
@@ -6828,13 +8248,18 @@ smlnj_
 ------
 
 name: smlnj
+
 description: "compiler for Standard ML '97"
+
 version: 110.74
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'compilers', 'development tools']
+
 url: http://www.smlnj.org/
-usage:
 
 .. _smlnj: http://www.smlnj.org/
 
@@ -6852,13 +8277,18 @@ smlnj_
 ------
 
 name: smlnj
+
 description: "compiler for Standard ML '97"
+
 version: 110.76
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['debugging', 'optimization stuff', 'programming/scripting languages', 'compilers', 'development tools']
+
 url: http://www.smlnj.org/
-usage:
 
 .. _smlnj: http://www.smlnj.org/
 
@@ -6876,13 +8306,18 @@ snack_
 ------
 
 name: snack
+
 description: "create audio applications with a scripting language"
+
 version: 2.2
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'development tools']
+
 url: http://www.speech.kth.se/snack/man/snack2.2/tcl-man.html
-usage:
 
 .. _snack: http://www.speech.kth.se/snack/man/snack2.2/tcl-man.html
 
@@ -6900,13 +8335,18 @@ sparsehash_
 -----------
 
 name: sparsehash
+
 description: "hash-map library implementation"
+
 version: 2.0
+
 license: opensource
+
 categories: ['data']
+
 tags: ['development', 'I/O and data processing tools', 'data', 'library', 'database']
+
 url: http://google-sparsehash.googlecode.com/svn/trunk/doc/index.html
-usage:
 
 .. _sparsehash: http://google-sparsehash.googlecode.com/svn/trunk/doc/index.html
 
@@ -6924,13 +8364,18 @@ spatialindex_
 -------------
 
 name: spatialindex
+
 description: "library for spatial indexing and queries"
+
 version: 1.8
+
 license: opensource
+
 categories: ['lib']
+
 tags: ['data', 'software libraries', 'library']
+
 url: http://libspatialindex.github.io/
-usage:
 
 .. _spatialindex: http://libspatialindex.github.io/
 
@@ -6948,13 +8393,18 @@ spm_
 ----
 
 name: spm
+
 description: "statistical parametric mapping"
+
 version: 12
+
 license: opensource
+
 categories: ['stat']
+
 tags: ['neuroscience', 'statistics', 'image processing']
+
 url: http://www.fil.ion.ucl.ac.uk/spm/doc/
-usage:
 
 .. _spm: http://www.fil.ion.ucl.ac.uk/spm/doc/
 
@@ -6972,13 +8422,18 @@ spm_
 ----
 
 name: spm
+
 description: "statistical parametric mapping"
+
 version: 8
+
 license: opensource
+
 categories: ['stat']
+
 tags: ['neuroscience', 'statistics', 'image processing']
+
 url: http://www.fil.ion.ucl.ac.uk/spm/doc/
-usage:
 
 .. _spm: http://www.fil.ion.ucl.ac.uk/spm/doc/
 
@@ -6996,13 +8451,18 @@ stanford-nlp_
 -------------
 
 name: stanford-nlp
+
 description: "natural language processing"
+
 version: 3.3
+
 license: opensource
+
 categories: ['nlp']
+
 tags: ['natural language processing']
+
 url: http://nlp.stanford.edu/software/corenlp.shtml
-usage:
 
 .. _stanford-nlp: http://nlp.stanford.edu/software/corenlp.shtml
 
@@ -7020,13 +8480,18 @@ stata_
 ------
 
 name: stata
+
 description: "data analysis and statistical software"
+
 version: 13
+
 license: commercial
+
 categories: ['stat']
+
 tags: ['statistics']
+
 url: http://www.stata.com/
-usage:
 
 .. _stata: http://www.stata.com/
 
@@ -7044,13 +8509,18 @@ stata_
 ------
 
 name: stata
+
 description: "data analysis and statistical software"
+
 version: 13-64
+
 license: commercial
+
 categories: ['stat']
+
 tags: ['statistics']
+
 url: http://www.stata.com/
-usage:
 
 .. _stata: http://www.stata.com/
 
@@ -7068,13 +8538,18 @@ subversion_
 -----------
 
 name: subversion
+
 description: "version control system"
+
 version: 1.6
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: https://subversion.apache.org/docs/
-usage:
 
 .. _subversion: https://subversion.apache.org/docs/
 
@@ -7092,13 +8567,18 @@ subversion_
 -----------
 
 name: subversion
+
 description: "version control system"
+
 version: 1.7
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: https://subversion.apache.org/docs/
-usage:
 
 .. _subversion: https://subversion.apache.org/docs/
 
@@ -7116,13 +8596,18 @@ subversion_
 -----------
 
 name: subversion
+
 description: "version control system"
+
 version: 1.8
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: https://subversion.apache.org/docs/
-usage:
 
 .. _subversion: https://subversion.apache.org/docs/
 
@@ -7140,13 +8625,18 @@ subversion_
 -----------
 
 name: subversion
+
 description: "version control system"
+
 version: keyring
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: https://subversion.apache.org/docs/
-usage:
 
 .. _subversion: https://subversion.apache.org/docs/
 
@@ -7164,13 +8654,18 @@ swift_
 ------
 
 name: swift
+
 description: "programming language"
+
 version: 0.94
+
 license: opensource
+
 categories: ['hpc', 'dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'high performance computing', 'development tools']
+
 url: https://developer.apple.com/swift/resources/
-usage:
 
 .. _swift: https://developer.apple.com/swift/resources/
 
@@ -7188,13 +8683,18 @@ swift_
 ------
 
 name: swift
+
 description: "programming language"
+
 version: 0.94.1
+
 license: opensource
+
 categories: ['hpc', 'dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'high performance computing', 'development tools']
+
 url: https://developer.apple.com/swift/resources/
-usage:
 
 .. _swift: https://developer.apple.com/swift/resources/
 
@@ -7212,13 +8712,18 @@ swift_
 ------
 
 name: swift
+
 description: "programming language"
+
 version: 0.95-RC1
+
 license: opensource
+
 categories: ['hpc', 'dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'high performance computing', 'development tools']
+
 url: https://developer.apple.com/swift/resources/
-usage:
 
 .. _swift: https://developer.apple.com/swift/resources/
 
@@ -7236,13 +8741,18 @@ swift_
 ------
 
 name: swift
+
 description: "programming language"
+
 version: 0.95-RC5
+
 license: opensource
+
 categories: ['hpc', 'dev']
+
 tags: ['debugging', 'programming/scripting languages', 'optimization stuff', 'general programming', 'high performance computing', 'development tools']
+
 url: https://developer.apple.com/swift/resources/
-usage:
 
 .. _swift: https://developer.apple.com/swift/resources/
 
@@ -7260,13 +8770,18 @@ tcllib_
 -------
 
 name: tcllib
+
 description: "Tcl-only library of standard routines for Tcl"
+
 version: 1.15
+
 license: opensource
+
 categories: ['dev']
+
 tags: ['development', 'debugging', 'optimization stuff', 'programming/scripting languages', 'development tools']
+
 url: http://core.tcl.tk/tcllib/doc/trunk/embedded/www/toc.html
-usage:
 
 .. _tcllib: http://core.tcl.tk/tcllib/doc/trunk/embedded/www/toc.html
 
@@ -7284,13 +8799,18 @@ teem_
 -----
 
 name: teem
+
 description: "scientific raster data visualization"
+
 version: trunk
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization', 'data']
+
 url: http://teem.sourceforge.net/
-usage:
 
 .. _teem: http://teem.sourceforge.net/
 
@@ -7308,13 +8828,18 @@ texinfo_
 --------
 
 name: texinfo
+
 description: "official GNU documentation format"
+
 version: 4.13a
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://www.gnu.org/software/texinfo/
-usage:
 
 .. _texinfo: http://www.gnu.org/software/texinfo/
 
@@ -7332,13 +8857,18 @@ texlive_
 --------
 
 name: texlive
+
 description: "TeX system starter pack"
+
 version: 2012
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: https://www.tug.org/texlive/doc.html
-usage:
 
 .. _texlive: https://www.tug.org/texlive/doc.html
 
@@ -7356,13 +8886,18 @@ tklib_
 ------
 
 name: tklib
+
 description: "utility modules for Tk"
+
 version: 0.5
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://core.tcl.tk/tklib/doc/trunk/embedded/www/toc.html
-usage:
 
 .. _tklib: http://core.tcl.tk/tklib/doc/trunk/embedded/www/toc.html
 
@@ -7380,13 +8915,18 @@ tree_
 -----
 
 name: tree
+
 description: "recursive directory listing command"
+
 version: 1.6.0
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://mama.indstate.edu/users/ice/tree/tree.1.html
-usage:
 
 .. _tree: http://mama.indstate.edu/users/ice/tree/tree.1.html
 
@@ -7404,13 +8944,18 @@ treepl_
 -------
 
 name: treepl
+
 description: "phylogenetic penalized likelihood program"
+
 version: git
+
 license: opensource
+
 categories: ['bio']
+
 tags: ['biology', 'data', 'biological and life sciences']
+
 url: http://blackrim.org/programs/treepl/
-usage:
 
 .. _treepl: http://blackrim.org/programs/treepl/
 
@@ -7428,13 +8973,18 @@ uclust_
 -------
 
 name: uclust
+
 description: "clustering algorithm"
+
 version: 1.2.22q
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://drive5.com/usearch/manual/uclust_algo.html
-usage:
 
 .. _uclust: http://drive5.com/usearch/manual/uclust_algo.html
 
@@ -7452,13 +9002,18 @@ udunits_
 --------
 
 name: udunits
+
 description: "support package for units of physical quantities"
+
 version: 2.1
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://www.unidata.ucar.edu/software/udunits/
-usage:
 
 .. _udunits: http://www.unidata.ucar.edu/software/udunits/
 
@@ -7476,13 +9031,18 @@ unrar_
 ------
 
 name: unrar
+
 description: ".rar extraction"
+
 version: 5.0
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://www.rarlab.com/rar_add.htm
-usage:
 
 .. _unrar: http://www.rarlab.com/rar_add.htm
 
@@ -7500,13 +9060,18 @@ usearch_
 --------
 
 name: usearch
+
 description: "sequence analysis tool"
+
 version: 6.1
+
 license: opensource
+
 categories: ['num']
+
 tags: ['mathematics', 'numerical or mathematical']
+
 url: http://www.drive5.com/usearch/manual/
-usage:
 
 .. _usearch: http://www.drive5.com/usearch/manual/
 
@@ -7524,13 +9089,18 @@ valgrind_
 ---------
 
 name: valgrind
+
 description: "debugging and profiling tools, most commonly used to locate memory errors, including leaks, but also can be used to debug threaded codes and profile cache efficiency."
+
 version: 3.7
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://valgrind.org/docs/manual/
-usage:
 
 .. _valgrind: http://valgrind.org/docs/manual/
 
@@ -7548,13 +9118,18 @@ valgrind_
 ---------
 
 name: valgrind
+
 description: "debugging and profiling tools, most commonly used to locate memory errors, including leaks, but also can be used to debug threaded codes and profile cache efficiency."
+
 version: 3.8
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://valgrind.org/docs/manual/
-usage:
 
 .. _valgrind: http://valgrind.org/docs/manual/
 
@@ -7572,13 +9147,18 @@ valgrind_
 ---------
 
 name: valgrind
+
 description: "debugging and profiling tools, most commonly used to locate memory errors, including leaks, but also can be used to debug threaded codes and profile cache efficiency."
+
 version: 3.9
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://valgrind.org/docs/manual/
-usage:
 
 .. _valgrind: http://valgrind.org/docs/manual/
 
@@ -7596,13 +9176,18 @@ valkyrie_
 ---------
 
 name: valkyrie
+
 description: "GUI for Valgrind"
+
 version: 2.0
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://valgrind.org/downloads/guis.html
-usage:
 
 .. _valkyrie: http://valgrind.org/downloads/guis.html
 
@@ -7620,13 +9205,18 @@ vim_
 ----
 
 name: vim
+
 description: "text editor"
+
 version: 7.3
+
 license: opensource
+
 categories: ['util']
+
 tags: ['text editor', 'browsers', 'utilities', 'editors']
+
 url: http://www.vim.org/docs.php
-usage:
 
 .. _vim: http://www.vim.org/docs.php
 
@@ -7644,13 +9234,18 @@ vim_
 ----
 
 name: vim
+
 description: "text editor"
+
 version: 7.4
+
 license: opensource
+
 categories: ['util']
+
 tags: ['text editor', 'browsers', 'utilities', 'editors']
+
 url: http://www.vim.org/docs.php
-usage:
 
 .. _vim: http://www.vim.org/docs.php
 
@@ -7668,13 +9263,18 @@ visit_
 ------
 
 name: visit
+
 description: "data visualization, animation, and analysis"
+
 version: 2.6
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: https://wci.llnl.gov/simulation/computer-codes/visit/faqs
-usage:
 
 .. _visit: https://wci.llnl.gov/simulation/computer-codes/visit/faqs
 
@@ -7692,13 +9292,18 @@ vmd_
 ----
 
 name: vmd
+
 description: "molecular visualization program"
+
 version: 1.9
+
 license: opensource
+
 categories: ['viz', 'bio']
+
 tags: ['visualization', 'biology', 'biological and life sciences']
+
 url: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
-usage:
 
 .. _vmd: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 
@@ -7716,13 +9321,18 @@ vmd_
 ----
 
 name: vmd
+
 description: "molecular visualization program"
+
 version: 1.9.1
+
 license: opensource
+
 categories: ['viz', 'bio']
+
 tags: ['visualization', 'biology', 'biological and life sciences']
+
 url: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
-usage:
 
 .. _vmd: http://www.ks.uiuc.edu/Research/vmd/current/docs.html
 
@@ -7740,13 +9350,18 @@ vtk_
 ----
 
 name: vtk
+
 description: "3D computer graphics, image processing, and visualization"
+
 version: 5.10
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.vtk.org/VTK/resources/resources.html
-usage:
 
 .. _vtk: http://www.vtk.org/VTK/resources/resources.html
 
@@ -7764,13 +9379,18 @@ vtk_
 ----
 
 name: vtk
+
 description: "3D computer graphics, image processing, and visualization"
+
 version: 5.10+python-2.7-2014q1
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.vtk.org/VTK/resources/resources.html
-usage:
 
 .. _vtk: http://www.vtk.org/VTK/resources/resources.html
 
@@ -7788,13 +9408,18 @@ vtk_
 ----
 
 name: vtk
+
 description: "3D computer graphics, image processing, and visualization"
+
 version: 5.8
+
 license: opensource
+
 categories: ['viz']
+
 tags: ['visualization']
+
 url: http://www.vtk.org/VTK/resources/resources.html
-usage:
 
 .. _vtk: http://www.vtk.org/VTK/resources/resources.html
 
@@ -7812,13 +9437,18 @@ weka_
 -----
 
 name: weka
+
 description: "machine learning algorithms"
+
 version: 3.6
+
 license: opensource
+
 categories: ['data']
+
 tags: ['I/O and data processing tools', 'data', 'machine learning']
+
 url: http://www.cs.waikato.ac.nz/ml/weka/documentation.html
-usage:
 
 .. _weka: http://www.cs.waikato.ac.nz/ml/weka/documentation.html
 
@@ -7836,13 +9466,18 @@ wgrib2_
 -------
 
 name: wgrib2
+
 description: "read and write grib2 files"
+
 version: 0.1
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://www.cpc.noaa.gov/products/wesley/wgrib2/
-usage:
 
 .. _wgrib2: http://www.cpc.noaa.gov/products/wesley/wgrib2/
 
@@ -7860,13 +9495,18 @@ word2vec_
 ---------
 
 name: word2vec
+
 description: "computing vector representations of words"
+
 version: trunk
+
 license: opensource
+
 categories: ['nlp']
+
 tags: ['natural language processing']
+
 url: https://code.google.com/p/word2vec/
-usage:
 
 .. _word2vec: https://code.google.com/p/word2vec/
 
@@ -7884,13 +9524,18 @@ wxwidgets_
 ----------
 
 name: wxwidgets
+
 description: "C++ GUI library"
+
 version: 2.8
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: https://www.wxwidgets.org/docs/
-usage:
 
 .. _wxwidgets: https://www.wxwidgets.org/docs/
 
@@ -7908,13 +9553,18 @@ x264_
 -----
 
 name: x264
+
 description: "application for encoding video streams into H.264/MPEG-4 AVC"
+
 version: stable
+
 license: opensource
+
 categories: []
+
 tags: ['video/audio']
+
 url: http://www.videolan.org/developers/x264.html
-usage:
 
 .. _x264: http://www.videolan.org/developers/x264.html
 
@@ -7932,13 +9582,18 @@ yasm_
 -----
 
 name: yasm
+
 description: "rewrite of NASM asembler"
+
 version: 1.2
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://yasm.tortall.net/Guide.html
-usage:
 
 .. _yasm: http://yasm.tortall.net/Guide.html
 
@@ -7956,13 +9611,18 @@ yaz_
 ----
 
 name: yaz
+
 description: "Z39.50/SRW/SRU client and server development toolkit"
+
 version: 5.4
+
 license: opensource
+
 categories: ['util']
+
 tags: ['browsers', 'utilities', 'editors']
+
 url: http://www.indexdata.com/yaz/doc/
-usage:
 
 .. _yaz: http://www.indexdata.com/yaz/doc/
 
@@ -7980,13 +9640,18 @@ yt_
 ---
 
 name: yt
+
 description: "visualization and analysis tool for cosmological data"
+
 version: 3.0
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://yt-project.org
-usage:
 
 .. _yt: http://yt-project.org
 
@@ -8004,13 +9669,18 @@ zlib_
 -----
 
 name: zlib
+
 description: "compression library"
+
 version: 1.2
+
 license: opensource
+
 categories: []
+
 tags: []
+
 url: http://www.zlib.net/manual.html
-usage:
 
 .. _zlib: http://www.zlib.net/manual.html
 

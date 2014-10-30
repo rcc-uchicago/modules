@@ -44,41 +44,39 @@ for row in open('versions.tsv'):
     versions[name] = vers.split(', ')
 
 
-template = '''
-name: {}
-description: "{}"
-version: {}
-license: {}
-categories: {}
-tags: {}
-url: {}
+yaml = '''
+name: {name}
+description: "{description}"
+version: {version}
+license: {license}
+categories: {categories}
+tags: {tags}
+url: {url}
 usage:
 '''
 
 
-def print_yaml(name, version, info):
-    fpath = "`{}/{}/info.yaml`".format(name, version)
+def print_yaml(module):
+    (name, vers) = module['name'], module['version']
+    fpath = "`{}/{}/info.yaml`".format(name, vers)
     # with open(fpath, 'w') as file:
     print "####", fpath
-    print info
+    print yaml.format(**module)
 
-def print_rst(name, version, info, url):
-    rst = rst_template.render(name, info, url)
-    fpath = "`pubsw/userguide/docs/modules/{}-{}`".format(name, version)
+def print_rst(module):
+    rst = rst_template.render(module)
+    (name, vers) = module['name'], module['version']
+    fpath = "`pubsw/userguide/docs/modules/{}-{}`".format(name, vers)
     line = '*' * len(fpath)
     print line
     print fpath
     print line
     print rst
 
-for name, m in sorted(data.items()):
+for name, module in sorted(data.items()):
     for version in versions.get(name, ''):
-        info = template.format(m['name'], 
-                               m['description'], 
-                               version,
-                               m['license'],
-                               list(m['categories']),
-                               list(m['tags']),
-                               m['url'])
-        # print_yaml(name, version, info)
-        print_rst(name, version, info, m['url'])
+        module['version'] = version
+        module['categories'] = list(module['categories'])
+        module['tags'] = list(module['tags'])
+        # print_yaml(module)
+        print_rst(module)

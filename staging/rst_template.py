@@ -6,11 +6,27 @@ template = '''
 .. _mdoc_{name}:
 
 {header}
-{content}
+
+name: {name}
+
+description: "{description}"
+
+version: {version}
+
+license: {license}
+
+categories: {categories}
+
+tags: {tags}
+
+url: {url}
+
 .. _{name}: {url}
 '''
 
-def render(name, content, url):
+def render(module):
+    name = module['name']
     line = '-' * (len(name) + 1)
     header = "{line}\n{name}_\n{line}".format(line=line, name=name)
-    return template.format(name=name, header=header, content=content, url=url)
+    module['header'] = header
+    return template.format(**module)
