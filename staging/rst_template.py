@@ -1,32 +1,50 @@
+from copy import deepcopy
+
 # interpolate in the following string
 template = '''
-.. index::
-  single: {name}
-
-.. _mdoc_{name}:
+.. index:: {name}/{version}, module, {categories}, {tags}
 
 {header}
 
-name: {name}
+name
+    {name}
 
-description: "{description}"
+description
+    {description}
 
-version: {version}
+version
+    {version}
 
-license: {license}
+compiler
+    {compiler}
 
-categories: {categories}
+license
+    {license}
 
-tags: {tags}
+categories
+    {categories}
 
-url: {url}
+tags
+    {tags}
+
+url
+    {url}
+
+usage 
+    {usage}
+
 
 .. _{name}: {url}
 '''
 
-def render(module):
+def render(mod):
+    module = deepcopy(mod)
     name = module['name']
     line = '-' * (len(name) + 1)
     header = "{line}\n{name}_\n{line}".format(line=line, name=name)
     module['header'] = header
+    module['categories'] = ", ".join(module['categories'])
+    module['tags'] = ", ".join(module['tags'])
+    if not 'usage' in module:
+        module['usage'] =  '``module load {name}/{version}``'.format(**module)
     return template.format(**module)

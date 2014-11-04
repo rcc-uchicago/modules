@@ -1,3 +1,4 @@
+import os
 import rst_template
 
 data = dict()
@@ -48,17 +49,25 @@ yaml = '''
 name: {name}
 description: "{description}"
 version: {version}
+compiler: {compiler}
 license: {license}
 categories: {categories}
 tags: {tags}
 url: {url}
-usage:
+usage: >
+    Use the `module system
+    <https://rcc.uchicago.edu/docs/software/index.html#using-software-modules>`_
+    to load this version of {name}::
+    
+        module load {name}/{version}
+    
 '''
 
 
 def print_yaml(module):
     (name, vers) = module['name'], module['version']
-    fpath = "`{}/{}/info.yaml`".format(name, vers)
+    fpath = os.path.join('modules', name, vers, 'info.yaml')
+    # fpath = "`{}/{}/info.yaml`".format(name, vers)
     # with open(fpath, 'w') as file:
     print "####", fpath
     print yaml.format(**module)
@@ -66,17 +75,25 @@ def print_yaml(module):
 def print_rst(module):
     rst = rst_template.render(module)
     (name, vers) = module['name'], module['version']
-    fpath = "pubsw/userguide/docs/modules/{}/{}".format(name, vers)
+    fpath = os.path.join('modules', name, vers, 'info.rst')
+    # fpath = "pubsw/userguide/docs/modules/{}/{}".format(name, vers)
     line = '*' * len(fpath)
     print line
     print fpath
     print line
     print rst
 
-for name, module in sorted(data.items()):
-    for version in versions.get(name, ''):
-        module['version'] = version
-        module['categories'] = list(module['categories'])
-        module['tags'] = list(module['tags'])
-        print_yaml(module)
-        # print_rst(module)
+def print_versioned_info(data, versions):
+    for name, module in sorted(data.items()):
+        for version in versions.get(name, ''):
+            module['version'] = version
+            module['categories'] = list(module['categories'])
+            module['tags'] = list(module['tags'])
+            module['compiler'] = ''
+            if '+' in version:
+                (v, compiler) = version.split('+', 1)
+                module['compiler'] = compiler
+            # print_yaml(module)
+            print_rst(module)
+
+print_versioned_info(data, versions)

@@ -1,14 +1,16 @@
-biological and life sciences	afni, artisynth, beagle, beast, blastplus, exabayes, examl, freesurfer, fsl, g_mmpbsa, gromacs, gromacs-plumed, qiime, migrate-n, mpiblast, mrbayes, namd, picrust, qiime, rapsearch, raxml, treepl, vmd
-chemistry	apbs, cpmd, gamess, hoomd, lammps, libint, openbabel, openmm
-I/O and data processing tools	cluto, gdbm, hadoop, hadoop-rdma, hdf5, jasper, leveldb, libspatialite, postgresql, openmpi, mvapich2, mpi4py, pdtoolkit, proot, protobuf, qd, qwt, sparsehash, weka
-development tools, programming/scripting languages, debugging, optimization stuff	intel, gcc, cmake, pgi, java, maven, python, ruby, freepascal, cctools, matlab, octave, R, mathematica, amdappsdk, ant, antlr, autoconf, automake, bats, caffe, cmake, ddd, freepascal, gcc, ghc, gflags, java, jruby, maven, clang, hpctoolkit, hpcviewer, git, mercurial, mono, nco, node, perl, pypy, python, qt, R, rstudio, ruby, smlnj, snack, swift, tcllib
-engineering	opencv, openfoam, papi
+biology, biological sciences, life sciences	afni, artisynth, beagle, beast, blastplus, exabayes, examl, freesurfer, fsl, g_mmpbsa, gromacs, gromacs-plumed, qiime, migrate-n, mpiblast, mrbayes, namd, picrust, qiime, rapsearch, raxml, treepl, vmd, amira, disper, gaussian
+chemistry	apbs, cpmd, gamess, hoomd, lammps, libint, openbabel, openmm, amber, pymol
+I/O, data processing tools	cluto, gdbm, hadoop, hadoop-rdma, hdf5, jasper, leveldb, libspatialite, postgresql, openmpi, mvapich2, mpi4py, pdtoolkit, proot, protobuf, qd, qwt, sparsehash, weka
+development tools	intel, cmake, pgi, java, maven, python, ruby, cctools, matlab, octave, R, mathematica, amdappsdk, ant, antlr, autoconf, automake, bats, caffe, cmake, ddd, freepascal, gcc, ghc, gflags, java, jruby, maven, clang, hpctoolkit, hpcviewer, git, mercurial, mono, nco, node, perl, pypy, python, qt, rstudio, ruby, smlnj, snack, swift, tcllib, ddt, yasm
+engineering	opencv, openfoam, papi, abaqus
 geology, geography, geophysics	cdo, gdal, geos, grads, grass, pism, proj, qgis
 high performance computing	swift, cuda, openmpi, mvapich2, intelmpi
-software libraries	boost, cfitsio, libtool, ccfits, glog, hdf5, netcdf, spatialindex
-natural language processing	libassp, mallet, praat, stanford-nlp, word2vec
-numerical or mathematical	fftw2, fftw3, knitro, ipopt, armadillo, cgal, graph-tool, gsl, ipopt, healpix, mumps, octave, openblas, petsc, sdpa, sdpa-dd, sdpa-gmp, sdpa-qd, SuiteSparse, usearch
-physics	cernlib, clhep, fermi-fssc, Minuit2, ROOT
+software libraries	boost, cfitsio, libtool, ccfits, glog, hdf5, netcdf, spatialindex, cernlib, zlib, wxwidgets
+natural language processing	libassp, mallet, praat, stanford-nlp, word2vec, emu
+numerical, mathematical	fftw2, fftw3, knitro, ipopt, armadillo, cgal, graph-tool, gsl, ipopt, healpix, mumps, octave, openblas, petsc, sdpa, sdpa-dd, sdpa-gmp, sdpa-qd, SuiteSparse, usearch, mkl
+physics	cernlib, clhep, fermi-fssc, Minuit2, ROOT, comsol
 statistics	stata, prism, spm
-utilities, editors, browsers	firefox, bino, cnvgrib, coreutils, dicom3tools, doxygen, gedit, grib_api, mosh, mplayer, mpg123, ffmpeg, parallel, subversion, texinfo, texlive, tree, udunits, unrar, vim, wgrib2, yaz
-visualization	paraview, vmd, gnuplot, blender, cp2k, cytoscape, fiji, gephi, grace, graphviz, ifrit, j3d, ncl_ncarg, ncview, paraview, povray, teem, visit, vtk
+utilities	bino, cnvgrib, coreutils, dicom3tools, doxygen, gedit, grib_api, mosh, mplayer, mpg123, ffmpeg, parallel, subversion, texinfo, texlive, tree, udunits, unrar, vim, wgrib2, yaz, globus, emacs, x264, wxwidgets
+browsers	firefox
+editors	gedit, vim, emacs
+visualization	paraview, vmd, gnuplot, blender, cp2k, cytoscape, fiji, gephi, grace, graphviz, ifrit, j3d, ncl_ncarg, ncview, paraview, povray, teem, visit, vtk, idl, pymol, diderot, yt

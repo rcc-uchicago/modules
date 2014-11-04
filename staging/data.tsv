@@ -51,8 +51,10 @@ cuda	http://www.nvidia.com/object/cuda_home_new.html	parallel computing platform
 cytoscape	http://cytoscapeweb.cytoscape.org/	network visualization library 	opensource
 ddd	http://www.gnu.org/software/ddd/	graphical front-end for command-line debuggers	opensource
 dicom3tools	http://www.dclunie.com/dicom3tools.html	command line utilities for creating, modifying, dumping and validating files of DICOM attributes	opensource
+diderot	http://diderot-language.cs.uchicago.edu/documentation.html	parallel domain-specific language for image analysis and visualization	opensource
 doxygen	http://www.stack.nl/~dimitri/doxygen/	documentation generation from annotated sources in various languages such as C, C++, Java, etc	opensource
 emacs	http://www.gnu.org/software/emacs/	text editor	opensource
+emu	http://emu.sourceforge.net/	speech database tools	opensource
 exabayes	http://sco.h-its.org/exelixis/web/software/exabayes/	Bayesian tree inference	opensource
 examl	https://github.com/stamatak/ExaML	phylogenetic inference	opensource
 fermi-fssc	http://fermi.gsfc.nasa.gov/ssc/data/analysis/	analysis of both LAT and GBM data	opensource
