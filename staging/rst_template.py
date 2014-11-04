@@ -4,6 +4,7 @@ from copy import deepcopy
 template = '''
 .. index:: {name}/{version}, module, {categories}, {tags}
 
+
 {header}
 
 name
@@ -32,6 +33,16 @@ url
 
 usage 
     {usage}
+
+
+.. seealso::
+
+    `Software Module List <https://rcc.uchicago.edu/docs/software/modulelist.html#software-module-list>`_
+        Full list of available software modules available on Midway.
+
+    `Using Software Modules <https://rcc.uchicago.edu/docs/software/index.html#using-software-modules>`_
+        Section of the RCC user guide with additional info on using 
+        the module system.
 
 
 .. _{name}: {url}

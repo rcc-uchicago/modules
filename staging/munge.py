@@ -64,36 +64,44 @@ usage: >
 '''
 
 
-def print_yaml(module):
+def render_module(module, doc='rst', write=False):
     (name, vers) = module['name'], module['version']
-    fpath = os.path.join('modules', name, vers, 'info.yaml')
-    # fpath = "`{}/{}/info.yaml`".format(name, vers)
-    # with open(fpath, 'w') as file:
-    print "####", fpath
-    print yaml.format(**module)
+    (fname, info) = '', ''
+    path = os.path.join('modules', name, vers)
+    if not os.path.exists(path):
+            os.makedirs(path)
+    if doc == 'rst':
+        fname = 'index.rst'
+        info = rst_template.render(module)
+    elif doc == 'yaml':
+        fname = 'info.yaml'
+        info = yaml.format(**module)
+    fpath = os.path.join(path, fname)
+    if write:
+        with open(fpath, 'w') as file:
+            try:
+                file.write(info)
+            except:
+                print "problem writing", file
+            finally:
+                file.close()
+    else:
+        line = '*' * len(fpath)
+        print line
+        print fpath
+        print line
+        print info
 
-def print_rst(module):
-    rst = rst_template.render(module)
-    (name, vers) = module['name'], module['version']
-    fpath = os.path.join('modules', name, vers, 'info.rst')
-    # fpath = "pubsw/userguide/docs/modules/{}/{}".format(name, vers)
-    line = '*' * len(fpath)
-    print line
-    print fpath
-    print line
-    print rst
-
-def print_versioned_info(data, versions):
+def render(data, versions):
     for name, module in sorted(data.items()):
         for version in versions.get(name, ''):
             module['version'] = version
             module['categories'] = list(module['categories'])
             module['tags'] = list(module['tags'])
-            module['compiler'] = ''
+            module['compiler'] = 'none specified'
             if '+' in version:
                 (v, compiler) = version.split('+', 1)
                 module['compiler'] = compiler
-            # print_yaml(module)
-            print_rst(module)
+            render_module(module, doc='yaml', write=True)
 
-print_versioned_info(data, versions)
+render(data, versions)
