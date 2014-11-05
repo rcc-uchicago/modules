@@ -1,8 +1,10 @@
 import os
-import rst_template
 from copy import deepcopy
+from collections import defaultdict
+from templates import *
 
 data = dict()
+cats = defaultdict(set)    # modules by category
 
 def module(name, url, desc, license):
     return dict(name=name, url=url, description=desc, license=license)
@@ -19,6 +21,7 @@ for row in open('categories.tsv'):
     for m in modules.split(', '):
         try:
             data[m]['categories'].add(cat)
+            cats[cat].add(m)
         except KeyError:
             print m, "<<<<<<<< CAT"
 
@@ -46,51 +49,7 @@ for row in open('versions.tsv'):
     versions[name] = vers.split(', ')
 
 
-yaml = '''
-name: {name}
-description: "{description}"
-version: {version}
-compiler: {compiler}
-license: {license}
-categories: {categories}
-tags: {tags}
-url: {url}
-usage: >
-    Use the `module system
-    <https://rcc.uchicago.edu/docs/software/index.html#using-software-modules>`_
-    to load this version of {name}::
-    
-        module load {name}/{version}
-    
-'''
-
-
-rst = '''
-.. index::
-   single: module; {name}
-{cat_idx}
-{tag_idx}
-
-.. _module_{name}:
-
-{header}
-
-.. toctree::
-   :glob:
-
-   */index
-
-.. seealso::
-
-    :ref:`software_module_list`
-        Full list of available software modules available on Midway.
-
-    `Using Software Modules <../../index.html#using-software-modules>`_
-        Section of the RCC user guide with additional info on using 
-        the module system.
-
-.. _{name}: {url}
-'''
+# rendering functions follow
 
 
 def make_cat_idx(name, items):
@@ -117,7 +76,7 @@ def render_module(module, write=False):
     # generate index entries for categories and tags
     mod['cat_idx'] = make_cat_idx(name, mod['categories'])
     mod['tag_idx'] = make_tag_idx(name, mod['tags'])
-    info = rst.format(**mod)
+    info = module_rst.format(**mod)
 
     if write:
         path = os.path.join('modules', name)
@@ -142,10 +101,20 @@ def render_module_version(module, doc='rst', write=False):
     (fname, info) = '', ''
     if doc == 'rst':
         fname = 'index.rst'
-        info = rst_template.render(module)
+        mod = deepcopy(module)
+        (name, vers) = mod['name'], mod['version']
+        line = '-' * (len(name) + len(vers) + 1)
+        header = "{line}\n{name}/{vers}\n{line}".format(line=line, 
+                                                        name=name,
+                                                        vers=vers)
+        mod['header'] = header
+        # convert lists to comma-separated string values
+        if not 'usage' in mod:
+            mod['usage'] =  '``module load {name}/{version}``'.format(**mod)
+        info = module_version_rst.format(**mod)
     elif doc == 'yaml':
         fname = 'info.yaml'
-        info = yaml.format(**module)
+        info = module_version_yaml.format(**module)
     if write:
         (name, vers) = module['name'], module['version']
         path = os.path.join('modules', name, vers)
@@ -164,16 +133,28 @@ def render_module_version(module, doc='rst', write=False):
         print info
 
 
-def render(data, versions):
+def render_modules(data, versions, write=False):
     for name, module in sorted(data.items()):
-        render_module(module, write=True)
+        render_module(module, write=write)
         for version in versions.get(name, ''):
             module['version'] = version
             module['compiler'] = 'none specified'
             if '+' in version:
                 (v, compiler) = version.split('+', 1)
                 module['compiler'] = compiler
-            render_module_version(module, doc='rst', write=True)
+            render_module_version(module, doc='rst', write=write)
 
 
-render(data, versions)
+def render_module_list(modules, categories):
+    for cat in sorted(categories):
+        line = '=' * len(cat)
+        section = '{line}\n{cat}\n{line}\n'.format(line=line, cat=cat)
+        print section
+        for mod in sorted(categories[cat]):
+            desc = modules[mod]['description']
+            print '* :ref:`module_{}` - {}'.format(mod, desc)
+        print
+
+
+# render_modules(data, versions, write=False)
+# render_module_list(data, cats)

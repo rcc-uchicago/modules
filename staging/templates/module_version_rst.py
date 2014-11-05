@@ -1,6 +1,4 @@
-from copy import deepcopy
-
-# interpolate in the following string
+# rst template for a versioned module
 template = '''
 .. index:: 
    single: {name}; {version}
@@ -43,16 +41,3 @@ usage
         the module system.
 
 '''
-
-def render(module):
-    mod = deepcopy(module)
-    (name, vers) = mod['name'], mod['version']
-    line = '-' * (len(name) + len(vers) + 1)
-    header = "{line}\n{name}/{vers}\n{line}".format(line=line, 
-                                                    name=name,
-                                                    vers=vers)
-    mod['header'] = header
-    # convert lists to comma-separated string values
-    if not 'usage' in mod:
-        mod['usage'] =  '``module load {name}/{version}``'.format(**mod)
-    return template.format(**mod)
