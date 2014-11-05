@@ -125,7 +125,7 @@ def render_module_version(module, doc='rst', write=False):
             try:
                 file.write(info)
             except:
-                print "problem writing", file
+                print "problem writing", fpath
             finally:
                 file.close()
     else:
@@ -145,16 +145,28 @@ def render_modules(data, versions, write=False):
             render_module_version(module, doc='rst', write=write)
 
 
-def render_module_list(modules, categories):
+def render_module_list(modules, categories, write=False):
+    content = ''
     for cat in sorted(categories):
         line = '=' * len(cat)
-        section = '{line}\n{cat}\n{line}\n'.format(line=line, cat=cat)
-        print section
+        content += '{line}\n{cat}\n{line}\n\n'.format(line=line, cat=cat)
         for mod in sorted(categories[cat]):
             desc = modules[mod]['description']
-            print '* :ref:`module_{}` - {}'.format(mod, desc)
-        print
+            content += '* :ref:`module_{}` - {}\n'.format(mod, desc)
+        content += '\n'
+    doc = module_list_rst.format(content=content)
+    if write:
+        fpath = 'modules/index.rst'
+        with open(fpath, 'w') as file:
+            try:
+                file.write(doc)
+            except:
+                print "problem writing", fpath
+            finally:
+                file.close()
+    else:
+        print doc
 
 
 # render_modules(data, versions, write=False)
-# render_module_list(data, cats)
+render_module_list(data, cats, write=True)
