@@ -2,31 +2,26 @@ from copy import deepcopy
 
 # interpolate in the following string
 template = '''
-.. index:: {name}/{version}, module, {categories}, {tags}
-
+.. index:: 
+   single: {name}; {version}
+   single: module; {name}/{version}
 
 {header}
 
 name
     {name}
 
-description
-    {description}
-
 version
     {version}
+
+description
+    {description}
 
 compiler
     {compiler}
 
 license
     {license}
-
-categories
-    {categories}
-
-tags
-    {tags}
 
 url
     {url}
@@ -37,25 +32,27 @@ usage
 
 .. seealso::
 
-    `Software Module List <https://rcc.uchicago.edu/docs/software/modulelist.html#software-module-list>`_
+    :ref:`module_{name}`
+        List of all available versions of this module.
+
+    :ref:`software_module_list`
         Full list of available software modules available on Midway.
 
-    `Using Software Modules <https://rcc.uchicago.edu/docs/software/index.html#using-software-modules>`_
+    `Using Software Modules <../../index.html#using-software-modules>`_
         Section of the RCC user guide with additional info on using 
         the module system.
 
-
-.. _{name}: {url}
 '''
 
-def render(mod):
-    module = deepcopy(mod)
-    name = module['name']
-    line = '-' * (len(name) + 1)
-    header = "{line}\n{name}_\n{line}".format(line=line, name=name)
-    module['header'] = header
-    module['categories'] = ", ".join(module['categories'])
-    module['tags'] = ", ".join(module['tags'])
-    if not 'usage' in module:
-        module['usage'] =  '``module load {name}/{version}``'.format(**module)
-    return template.format(**module)
+def render(module):
+    mod = deepcopy(module)
+    (name, vers) = mod['name'], mod['version']
+    line = '-' * (len(name) + len(vers) + 1)
+    header = "{line}\n{name}/{vers}\n{line}".format(line=line, 
+                                                    name=name,
+                                                    vers=vers)
+    mod['header'] = header
+    # convert lists to comma-separated string values
+    if not 'usage' in mod:
+        mod['usage'] =  '``module load {name}/{version}``'.format(**mod)
+    return template.format(**mod)

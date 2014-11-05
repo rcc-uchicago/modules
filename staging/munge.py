@@ -1,5 +1,6 @@
 import os
 import rst_template
+from copy import deepcopy
 
 data = dict()
 
@@ -64,20 +65,65 @@ usage: >
 '''
 
 
-def render_module(module, doc='rst', write=False):
-    (name, vers) = module['name'], module['version']
-    (fname, info) = '', ''
-    path = os.path.join('modules', name, vers)
-    if not os.path.exists(path):
-            os.makedirs(path)
-    if doc == 'rst':
-        fname = 'index.rst'
-        info = rst_template.render(module)
-    elif doc == 'yaml':
-        fname = 'info.yaml'
-        info = yaml.format(**module)
-    fpath = os.path.join(path, fname)
+rst = '''
+.. index::
+   single: module; {name}
+{cat_idx}
+{tag_idx}
+
+.. _module_{name}:
+
+{header}
+
+.. toctree::
+   :glob:
+
+   */index
+
+.. seealso::
+
+    :ref:`software_module_list`
+        Full list of available software modules available on Midway.
+
+    `Using Software Modules <../../index.html#using-software-modules>`_
+        Section of the RCC user guide with additional info on using 
+        the module system.
+
+.. _{name}: {url}
+'''
+
+
+def make_cat_idx(name, items):
+    entry = '   single: category/{}; {}\n'
+    result = ''
+    for i in items:
+        result += entry.format(i, name)
+    return result.rstrip()
+
+
+def make_tag_idx(name, items):
+    entry = '   single: {}; {}\n'
+    result = ''
+    for i in items:
+        result += entry.format(i, name)
+    return result.rstrip()
+
+
+def render_module(module, write=False):
+    mod = deepcopy(module)
+    name = mod['name']
+    line = '-' * (len(name) + 1)
+    mod['header'] = "{line}\n{name}_\n{line}".format(line=line, name=name)
+    # generate index entries for categories and tags
+    mod['cat_idx'] = make_cat_idx(name, mod['categories'])
+    mod['tag_idx'] = make_tag_idx(name, mod['tags'])
+    info = rst.format(**mod)
+
     if write:
+        path = os.path.join('modules', name)
+        if not os.path.exists(path):
+            os.makedirs(path)
+        fpath = os.path.join('modules', name, 'index.rst')
         with open(fpath, 'w') as file:
             try:
                 file.write(info)
@@ -86,22 +132,48 @@ def render_module(module, doc='rst', write=False):
             finally:
                 file.close()
     else:
-        line = '*' * len(fpath)
-        print line
-        print fpath
-        print line
+        print '*' * 79
         print info
+        print '*' * 79
+        print
+
+
+def render_module_version(module, doc='rst', write=False):
+    (fname, info) = '', ''
+    if doc == 'rst':
+        fname = 'index.rst'
+        info = rst_template.render(module)
+    elif doc == 'yaml':
+        fname = 'info.yaml'
+        info = yaml.format(**module)
+    if write:
+        (name, vers) = module['name'], module['version']
+        path = os.path.join('modules', name, vers)
+        if not os.path.exists(path):
+                os.makedirs(path)
+        fpath = os.path.join(path, fname)
+        with open(fpath, 'w') as file:
+            try:
+                file.write(info)
+            except:
+                print "problem writing", file
+            finally:
+                file.close()
+    else:
+        print '~' * 79
+        print info
+
 
 def render(data, versions):
     for name, module in sorted(data.items()):
+        render_module(module, write=True)
         for version in versions.get(name, ''):
             module['version'] = version
-            module['categories'] = list(module['categories'])
-            module['tags'] = list(module['tags'])
             module['compiler'] = 'none specified'
             if '+' in version:
                 (v, compiler) = version.split('+', 1)
                 module['compiler'] = compiler
-            render_module(module, doc='yaml', write=True)
+            render_module_version(module, doc='rst', write=True)
+
 
 render(data, versions)
