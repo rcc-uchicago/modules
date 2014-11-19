@@ -1,4 +1,4 @@
-astrophysics	fermi-fssc, Minuit2, ROOT
+astrophysics	fermi-fssc, ifrit, yt
 biology	beagle, mrbayes, raxml, beast, blastplus, qiime, migrate-n, afni, artisynth, blastplus, cp2k, cpmd, exabayes, examl, freesurfer, fsl, g_mmpbsa, gromacs, gromacs-plumed, hoomd, lammps, libint, migrate-n, mpiblast, namd, openbabel, picrust, qiime, rapsearch, raxml, treepl, vmd, amira
 browser	firefox
 chemistry	apbs, artisynth, cp2k, cpmd, g_mmpbsa, gamess, gromacs, gromacs-plumed, hoomd, lammps, libint, namd, openbabel, openfoam, openmm, gaussian
@@ -12,8 +12,8 @@ general programming	cuda, doxygen, java, jruby, node, octave, perl, pypy, python
 genetics	beagle, beast, blastplus, exabayes, examl, mpiblast, mrbayes, picrust, raxml
 genomics	blastplus, exabayes, examl, migrate-n, mpiblast, mrbayes, picrust, raxml
 geoscience	grass, gdal, geos, grads, pism, proj, qgis
-high energy physics	hoomd, ROOT, cernlib, clhep, fermi-fssc, Minuit2, openfoam, ROOT
-interactive	parallel, proot
+high energy physics	hoomd, ROOT, cernlib, clhep, fermi-fssc, openfoam, ROOT
+interactive	parallel
 image processing	afni, fiji, fsl, grass, jasper, spm, diderot
 library	beagle, boost, cernlib, cfitsio, cgal, clhep, gdal, gdbm, glog, gflags, gsl, hadoop, jasper, leveldb, libassp, libint, libspatialite, libtool, mpiblast, mvapich2, netcdf, openblas, opencv, openmpi, proj, qd, sparsehash, spatialindex, knitro, mkl, ccfits, zlib, wxwidgets
 machine learning	mallet, weka
@@ -23,13 +23,13 @@ microbiology	qiime
 molecular dynamics	amber, cp2k, cpmd, gaussian, gromacs, lammps, namd, apbs, artisynth, cp2k, g_mmpbsa, gromacs, gromacs-plumed, hoomd, lammps, namd, openbabel, openmm, pymol
 natural language processing	libassp, mallet, mpg123, praat, stanford-nlp, word2vec, emu
 neuroscience	spm, freesurfer, fsl, afni, freesurfer
-numerical analysis	armadillo, clhep, graph-tool, grass, ipopt, libint, mumps, octave, openblas, petsc, ROOT, sdpa, sdpa-dd, sdpa-gmp, sdpa-qd, mkl
+numerical analysis	armadillo, clhep, graph-tool, grass, ipopt, libint, mumps, octave, openblas, petsc, ROOT, sdpa, sdpa-dd, sdpa-gmp, sdpa-qd, mkl, Minuit2
 population	migrate-n
 proteins	artisynth, cp2k, cpmd, g_mmpbsa, gromacs, hoomd, lammps, mpiblast, namd, openbabel, rapsearch
 simulation	clhep, cp2k, gromacs, hoomd, lammps, namd, openmm, pism, abaqus, amber, comsol
 statistics	beagle, fftw2, fftw3, graph-tool, grass, libint, mallet, prism, R, raxml, stata
 text editor	emacs, gedit, vim
-utilities	ccfits, cctools, cfitsio, coreutils, ddd, dicom3tools, doxygen, gedit, emacs, glog, hpctoolkit, hpcviewer, leveldb, git, mercurial, mosh, mplayer, nco, netcdf, papi, subversion, texinfo, texlive, tree, udunits, unrar, wgrib2, yaz, globus, x264, wxwidgets
+utilities	ccfits, cctools, coreutils, ddd, dicom3tools, doxygen, gedit, emacs, glog, hpctoolkit, hpcviewer, leveldb, git, mercurial, mosh, mplayer, nco, netcdf, papi, subversion, texinfo, texlive, tree, udunits, unrar, wgrib2, yaz, globus, x264, wxwidgets
 video/audio	bino, ffmpeg, mpg123, mplayer, x264
-visualization	paraview, vmd, cfitsio, gnuplot, blender, cp2k, cytoscape, fiji, freesurfer, gephi, gnuplot, grace, grads, graph-tool, graphviz, grass, healpix, hpcviewer, ifrit, j3d, ncl_ncarg, ncview, octave, paraview, pism, R, ROOT, teem, visit, vmd, vtk, amira, idl, pymol, diderot, yt
+visualization	paraview, vmd, gnuplot, blender, cp2k, cytoscape, fiji, freesurfer, gephi, gnuplot, grace, grads, graph-tool, graphviz, grass, healpix, ifrit, j3d, ncl_ncarg, ncview, octave, paraview, pism, R, ROOT, teem, visit, vmd, vtk, amira, idl, pymol, diderot, yt
 3D modeling	artisynth, blender, povray, disper
