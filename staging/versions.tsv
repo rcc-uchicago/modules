@@ -154,7 +154,7 @@ praat	5.3
 prism	4.0
 proj	4.8
 proot	current
-protobuff	2.4, 2.5
+protobuf	2.5
 pycelegans	0.4, 0.5, 0.61
 pymol	svn
 pypy	1.8
