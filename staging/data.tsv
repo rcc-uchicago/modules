@@ -1,213 +1,223 @@
-abaqus	http://www.3ds.com/products-services/simulia/portfolio/abaqus/overview/	engineering simulations	commercial
-amber	http://ambermd.org/	molecular simulations	commercial
-amira	http://www.vsg3d.com/amira/overview	biomedical visualization	commercial
-comsol	http://www.comsol.com/	physics simulations	commercial
-ddt	http://www.allinea.com/products/ddt/	debugger	commercial
-disper	http://www.canarina.com/airpollutiondispersion.htm	air pollution modeling	commercial
-gaussian	http://www.gaussian.com/	computational chemistry	commercial
-globus	https://www.globus.org/	for transferring data	commercial
-idl	http://www.exelisvis.com/ProductsServices/IDL.aspx	scientific programming language for visualization	commercial
-intel	https://software.intel.com/en-us/intel-parallel-studio-xe	C/C++/Fortran compiler suite, includes Intel TBB	commercial
-intelmpi	https://software.intel.com/en-us/intel-mpi-library	MPI library`	commercial
-knitro	http://www.ziena.com/knitro.htm	for large-scale optimization	commercial
-mathematica	http://www.wolfram.com/mathematica/	symbolic mathematical software	commercial
-matlab	http://www.mathworks.com/products/matlab/	high level language and interactive environment for numerical computation, visualization, and programming	commercial
-mkl	https://software.intel.com/en-us/intel-mkl	library of optimized numerical routines	commercial
-pgi	http://www.pgroup.com/	C/C++/Fortran compiler suite	commercial
-pymol	http://www.pymol.org/	molecular visualization	commercial
-stata	http://www.stata.com/	data analysis and statistical software	commercial
-afni	http://afni.nimh.nih.gov/afni/	neuroimaging data analysis	opensource
-amdappsdk	http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/	development platform for accelerating applications	opensource
-ant	http://ant.apache.org/	Java library and command-line tool, often for building Java applications	opensource
-antlr	http://www.antlr.org/	parser generator for computer-based language recognition	opensource
-apbs	http://www.poissonboltzmann.org/docs/home/	analysis of solvation properties of molecules	opensource
-armadillo	http://arma.sourceforge.net/	linear algebra software library for C++	opensource
-artisynth	http://www.magic.ubc.ca/artisynth/pmwiki.php	3-D biomechanical modeling	opensource
-autoconf	http://www.gnu.org/software/autoconf/	configures software source code packages	opensource
-automake	https://www.gnu.org/software/automake/	automatically generates makefile	opensource
-bats	https://github.com/sstephenson/bats	for testing	opensource
-beagle	http://code.google.com/p/beagle-lib/	library for core calculations with phylogenetics packages	opensource
-beast	http://beast.bio.ed.ac.uk/	Bayesian analysis of molecular sequences	opensource
-bino	http://bino3d.org/	3D video player	opensource
-blastplus	http://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs	biological search alignment tool	opensource
-blender	http://www.blender.org/	3D creation pipeline (includes modeling, animation, simulation, etc)	opensource
-boost	http://www.boost.org/	portable C++ source libraries	opensource
-caffe	http://caffe.berkeleyvision.org/	framework for deep learning	opensource
-ccfits	http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/index.html	object oriented interface for cfitsio library	opensource
-cctools	http://ccl.cse.nd.edu/	collection of software for harnessing large scale distributed systems	opensource
-cdo	https://code.zmaw.de/projects/cdo	analysis of climate and NWP model data	opensource
-cernlib	http://cernlib.web.cern.ch/cernlib/	collection of software for various needs of a physics research laboratory	opensource
-cfitsio	http://heasarc.gsfc.nasa.gov/fitsio/	library for reading and writing data files in FITS data format	opensource
-cgal	https://www.cgal.org/	C++ library for geometric computations	opensource
-clang	http://clang.llvm.org/	LLVM compiler front-end for C/C++/Objective C/Objective C++	opensource
-clhep	http://proj-clhep.web.cern.ch/proj-clhep/	C++ mathematical library for high energy physics analysis	opensource
-cluto	http://glaros.dtc.umn.edu/gkhome/cluto/cluto/overview	clustering low- and high-dimensional datasets and for analysis of various clusters	opensource
-cmake	http://www.cmake.org/	build, test, and package software	opensource
-cnvgrib	http://www.nco.ncep.noaa.gov/pmb/docs/grib2/	encoder/decoder for GRIB edition 2 messages	opensource
-coreutils	http://www.gnu.org/software/coreutils/	basic file, shell and text manipulation utilities of the GNU OS	opensource
-connect	http://ci-connect.uchicago.edu/	Distributed High-Throughput Computing	opensource
-cp2k	http://www.cp2k.org/	simulations of solid state, liquid, molecular, and biological systems	opensource
-cpmd	http://www.cpmd.org/	parallelized plane wave/pseudopotential implementation of Density Functional Theory	opensource
-cuda	http://www.nvidia.com/object/cuda_home_new.html	parallel computing platform and programming model	opensource
-cytoscape	http://cytoscapeweb.cytoscape.org/	network visualization library 	opensource
-ddd	http://www.gnu.org/software/ddd/	graphical front-end for command-line debuggers	opensource
-dicom3tools	http://www.dclunie.com/dicom3tools.html	command line utilities for creating, modifying, dumping and validating files of DICOM attributes	opensource
-diderot	http://diderot-language.cs.uchicago.edu/documentation.html	parallel domain-specific language for image analysis and visualization	opensource
-doxygen	http://www.stack.nl/~dimitri/doxygen/	documentation generation from annotated sources in various languages such as C, C++, Java, etc	opensource
-eigen	http://eigen.tuxfamily.org/	C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.	opensource
-emacs	http://www.gnu.org/software/emacs/	text editor	opensource
-emu	http://emu.sourceforge.net/	speech database tools	opensource
-exabayes	http://sco.h-its.org/exelixis/web/software/exabayes/	Bayesian tree inference	opensource
-examl	https://github.com/stamatak/ExaML	phylogenetic inference	opensource
-fermi-fssc	http://fermi.gsfc.nasa.gov/ssc/data/analysis/	analysis of both LAT and GBM data	opensource
-ffmpeg	https://www.ffmpeg.org/	record, convert, and stream audio and video	opensource
-fftw2	http://www.fftw.org/	computation of discrete Fourier transform	opensource
-fftw3	http://www.fftw.org/	computation of discrete Fourier transform	opensource
-fiji	http://fiji.sc/Documentation	scientific image processing package for ImageJ	opensource
-firefox	https://www.mozilla.org/	web browser	opensource
-freepascal	http://www.freepascal.org/docs.var	Pascal compiler	opensource
-freesurfer	http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer	analysis and visualization of structural and functional brain imaging data	opensource
-fsl	http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/	analysis tools for FMRI, MRI and DTI brain imaging data	opensource
-g_mmpbsa	http://rashmikumari.github.io/g_mmpbsa/	calculation of components of binding energy using MM-PBSA method	opensource
-gamess	http://www.msg.ameslab.gov/gamess/documentation.html	molecular quantum chemistry computation	opensource
-gcc	https://gcc.gnu.org/	C/C++/Fortran compiler suite	opensource
-gdal	http://www.gdal.org/	translator library for raster and vector geospatial data	opensource
-gdbm	http://www.gnu.org.ua/software/gdbm/manual.html	create and manipulate hashed database	opensource
-gedit	https://wiki.gnome.org/Apps/Gedit	text editor	opensource
-geos	http://trac.osgeo.org/geos/	spatial predicates and functions for processing geometry	opensource
-gephi	http://gephi.github.io/	visualization and exploration platform for networks, complex systems, dynamic and hierarchical graphs	opensource
-gflags	https://github.com/schuhschuh/gflags	commandline flags processing	opensource
-ghc	http://www.haskell.org/haskellwiki/GHC	optimizing Haskell compiler	opensource
-git	https://github.com/git/git/tree/master/Documentation	distributed version control system	opensource
-glog	http://google-glog.googlecode.com/svn/trunk/doc/glog.html	application-level logging	opensource
-gnuplot	http://www.gnuplot.info/documentation.html	portable command-line driven graphing utility	opensource
-go	https://golang.org/doc	programming language	opensource
-grace	http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html	plotting 2D data	opensource
-grads	http://cola.gmu.edu/grads/gadoc/index.html	manipulation and visualization of earth science data	opensource
-graph-tool	http://graph-tool.skewed.de/static/doc/index.html	manipulation and statistical analysis of networks	opensource
-graphviz	http://www.graphviz.org/	graph visualization software	opensource
+abaqus	Abaqus	http://www.3ds.com/products-services/simulia/portfolio/abaqus/overview/	engineering simulations	commercial
+amber	Amber	http://ambermd.org/	molecular simulations	commercial
+amira	Amira	http://www.vsg3d.com/amira/overview	biomedical visualization	commercial
+comsol	COMSOL	http://www.comsol.com/	physics simulations	commercial
+ddt	Allinea DDT	http://www.allinea.com/products/ddt/	debugger	commercial
+disper	DISPER	http://www.canarina.com/airpollutiondispersion.htm	air pollution modeling	commercial
+gaussian	Gaussian	http://www.gaussian.com/	computational chemistry	commercial
+globus	Globus	https://www.globus.org/	data transfer utility	commercial
+idl	IDL	http://www.exelisvis.com/ProductsServices/IDL.aspx	scientific programming language for visualization	commercial
+intel	Intel Parallel Studio	https://software.intel.com/en-us/intel-parallel-studio-xe	C/C++/Fortran compiler suite, including Intel Threaded-Building-Blocks	commercial
+intelmpi	Intel MPI Library	https://software.intel.com/en-us/intel-mpi-library	MPI library	commercial
+knitro	KNITRO	http://www.ziena.com/knitro.htm	for large-scale optimization	commercial
+mathematica	Mathematica	http://www.wolfram.com/mathematica/	symbolic mathematical software	commercial
+matlab	Matlab	http://www.mathworks.com/products/matlab/	high level language and interactive environment for numerical computation, visualization, and programming	commercial
+mkl	Intel Math Kernel Library (MKL)	https://software.intel.com/en-us/intel-mkl	library of optimized numerical routines	commercial
+pgi	PGI Compiler Suite	http://www.pgroup.com/	C/C++/Fortran compiler suite	commercial
+pymol	PyMol	http://www.pymol.org/	molecular visualization	commercial
+stata	Stata	http://www.stata.com/	data analysis and statistical software	commercial
+afni	AFNI	http://afni.nimh.nih.gov/afni/	neuroimaging data analysis	opensource
+amdappsdk	AMD Accelerated Parallel Processing SDK	http://developer.amd.com/tools-and-sdks/opencl-zone/amd-accelerated-parallel-processing-app-sdk/	development platform for accelerating applications	opensource
+ant	Ant	http://ant.apache.org/	Java library and command-line tool for building Java applications	opensource
+antlr	ANother Tool for Language Recognition (ANTLR)	http://www.antlr.org/	parser generator for computer-based language recognition	opensource
+apbs	Adaptive Poisson-Boltzmann Software (APBS)	http://www.poissonboltzmann.org/docs/home/	analysis of solvation properties of molecules	opensource
+armadillo	Armadillo	http://arma.sourceforge.net/	linear algebra software library for C++	opensource
+artisynth	ArtiSynth	http://www.magic.ubc.ca/artisynth/pmwiki.php	3-D biomechanical modeling	opensource
+autoconf	Autoconf	http://www.gnu.org/software/autoconf/	configures software source code packages	opensource
+automake	Automake	https://www.gnu.org/software/automake/	automatically generates makefile	opensource
+bats	Bash Automated Testing System (BATS)	https://github.com/sstephenson/bats	for testing	opensource
+beagle	BEAGLE	http://code.google.com/p/beagle-lib/	library for core calculations with phylogenetics packages	opensource
+beast	BEAST	http://beast.bio.ed.ac.uk/	Bayesian analysis of molecular sequences	opensource
+bino	Bino	http://bino3d.org/	3D video player	opensource
+blastplus	Basic Local Alignment Search Tool (BLAST)	http://blast.ncbi.nlm.nih.gov/	biological search alignment tool	opensource
+blender	Blender	http://www.blender.org/	3D animation suite	opensource
+boost	Boost	http://www.boost.org/	portable C++ source libraries	opensource
+caffe	Caffe	http://caffe.berkeleyvision.org/	framework for deep learning	opensource
+ccfits	CCfits	http://heasarc.gsfc.nasa.gov/docs/software/fitsio/ccfits/index.html	object oriented interface to the cfitsio library	opensource
+cctools	CCTools	http://ccl.cse.nd.edu/	collection of software for harnessing large scale distributed systems	opensource
+cdo	Climate Data Operators (CDO)	https://code.zmaw.de/projects/cdo	analysis of climate and NWP model data	opensource
+cernlib	CERN Program Library (CERNLIB)	http://cernlib.web.cern.ch/cernlib/	collection of software for various needs of a physics research laboratory	opensource
+cfitsio	CFITSIO	http://heasarc.gsfc.nasa.gov/fitsio/	library for reading and writing data files in FITS data format	opensource
+cgal	Computational Geometry Algorithms Library (CGAL)	https://www.cgal.org/	C++ library for geometric computations	opensource
+clang	clang	http://clang.llvm.org/	C/C++ frontend to LLVM compiler	opensource
+clhep	Class Library for High Energy Physics (CLHEP)	http://proj-clhep.web.cern.ch/proj-clhep/	C++ mathematical library for high energy physics analysis	opensource
+cluto	CLUTO	http://glaros.dtc.umn.edu/gkhome/cluto/cluto/overview	clustering low- and high-dimensional datasets and for analysis of various clusters	opensource
+cmake	CMake	http://www.cmake.org/	cross-platform build system	opensource
+cnvgrib	NCEP cnvgrib http://www.nco.ncep.noaa.gov/pmb/docs/grib2/	encoder/decoder for GRIB2 meteorological data	opensource
+coreutils	GNU Core utilities	http://www.gnu.org/software/coreutils/	basic file, shell and text manipulation utilities of the GNU operating system	opensource
+connect	UChicago CI Connect	http://ci-connect.uchicago.edu/	Distributed High-Throughput Computing	opensource
+cp2k	CP2K	http://www.cp2k.org/	simulations of solid state, liquid, molecular, and biological systems	opensource
+cpmd	CPMD	http://www.cpmd.org/	parallelized plane wave/pseudopotential implementation of Density Functional Theory	opensourcea
+csdp	CSDP	https://projects.coin-or.org/Csdp	a C library for semidefinite programming	opensource
+cuda	NVIDIA CUDA Toolkit	http://www.nvidia.com/object/cuda_home_new.html	parallel computing platform and programming model	opensource
+cytoscape	Cytoscape Web	http://cytoscapeweb.cytoscape.org/	network visualization library 	opensource
+ddd	GNU Data Display Debugger (DDD)	http://www.gnu.org/software/ddd/	graphical front-end for command-line debuggers	opensource
+dicom3tools	dicom3tools	http://www.dclunie.com/dicom3tools.html	command line utilities for creating, modifying, dumping and validating files of DICOM attributes	opensource
+diderot	Diderot	http://diderot-language.cs.uchicago.edu/documentation.html	parallel domain-specific language for image analysis and visualization	opensource
+doxygen	Doxygen	http://www.stack.nl/~dimitri/doxygen/	documentation generation from annotated sources in various languages such as C, C++, Java, etc	opensource
+eigen	Eigen	http://eigen.tuxfamily.org/	C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms.	opensource
+emacs	GNU Emacs	http://www.gnu.org/software/emacs/	text editor	opensource
+emu	EMU Speech Database System	http://emu.sourceforge.net/	collection of tools for the creation, manipulation and analysis of speech databases	opensource
+espresso	Quantum ESPRESSO	http://www.quantum-espresso.org/	suite of codes for electronic-structure calculations and nanoscale materials modeling	opensource
+exabayes	ExaBays	http://sco.h-its.org/exelixis/web/software/exabayes/	Bayesian tree inference	opensource
+examl	ExaML	https://github.com/stamatak/ExaML	phylogenetic inference	opensource
+fermi-fssc	Fermi Science Tools	http://fermi.gsfc.nasa.gov/ssc/data/analysis/	suite of tools for the analysis of both LAT and GBM data	opensource
+ffmpeg	FFmpeg	https://www.ffmpeg.org/	record, convert, and stream audio and video	opensource
+fftw2	Fastest Fourier Transform in the West (FFTW v2)	http://www.fftw.org/	computation of discrete Fourier transform	opensource
+fftw3	Fastest Fourier Transform in the West (FFTW v3)	http://www.fftw.org/	computation of discrete Fourier transform	opensource
+fiji	Fiji	http://fiji.sc/Documentation	scientific image processing package for ImageJ	opensource
+firefox	Firefox	https://www.mozilla.org/	web browser	opensource
+freepascal	free pascal	http://www.freepascal.org/docs.var	Pascal compiler	opensource
+freesurfer	FreeSurfer	http://surfer.nmr.mgh.harvard.edu/fswiki/FreeSurfer	analysis and visualization of structural and functional brain imaging data	opensource
+fsl	FMRIB Software Library	http://fsl.fmrib.ox.ac.uk/fsl/fslwiki/	analysis tools for FMRI, MRI and DTI brain imaging data	opensource
+g_mmpbsa	MM/PBSA method for GROMACS	http://rashmikumari.github.io/g_mmpbsa/	calculation of components of binding energy using MM-PBSA method	opensource
+gamess	General Atomic and Molecular Electronic Structure System (GAMESS)	http://www.msg.ameslab.gov/gamess/documentation.html	molecular quantum chemistry computation	opensource
+gcc	GNU Compiler Collection (GCC)	https://gcc.gnu.org/	C/C++/Fortran compiler suite	opensource
+gdal	Geospatial Data Abstraction Library (GDAL)	http://www.gdal.org/	translator library for raster and vector geospatial data	opensource
+gdbm	GNU dbm (GDBM)	http://www.gnu.org.ua/software/gdbm/manual.html	create and manipulate hashed database	opensource
+geant4	Geant4	http://geant4.web.cern.ch/geant4/	a toolkit for the simulation of particles through matter	opensource
+gedit	GNOME text editor (gedit)	https://wiki.gnome.org/Apps/Gedit	text editor	opensource
+geos	Geometry Engine - Open Source (GEOS)	http://trac.osgeo.org/geos/	spatial predicates and functions for processing geometry	opensource
+gephi	Gephi	http://gephi.github.io/	visualization and exploration platform for networks, complex systems, dynamic and hierarchical graphs	opensource
+gflags	gflags	https://github.com/schuhschuh/gflags	commandline flags processing	opensource
+ghc	Glasgow Haskell Compiler (GHC)	http://www.haskell.org/haskellwiki/GHC	optimizing Haskell compiler	opensource
+git	git	https://github.com/git/git/tree/master/Documentation	distributed version control system	opensource
+glew	OpenGL Extension Wrangler Library (GLEW)	http://glew.sourceforge.net/	cross-platform C/C++ OpenGL extension loading library	opensource
+glog	Google Logging Library (glog)	http://google-glog.googlecode.com/svn/trunk/doc/glog.html	application-level logging	opensource
+gnuplot	gnuplot	http://www.gnuplot.info/documentation.html	portable command-line driven graphing utility	opensource
+go	Go	https://golang.org/doc	programming language	opensource
+grace	Grace	http://plasma-gate.weizmann.ac.il/Grace/doc/UsersGuide.html	plotting 2D data	opensource
+grads	GrADS	http://cola.gmu.edu/grads/gadoc/index.html	manipulation and visualization of earth science data	opensource
+graph-tool	graph-tool	http://graph-tool.skewed.de/static/doc/index.html	manipulation and statistical analysis of networks	opensource
+graphviz	Graph Visualization Software (Graphviz)	http://www.graphviz.org/	graph visualization software	opensource
 grass	http://grass.osgeo.org/documentation/	geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization	opensource
-grib_api	https://software.ecmwf.int/wiki/display/GRIB/Documentation	encoding and decoding WMO FM-92 GRIB edition 1 and edition 2 messages	opensource
-gromacs	http://www.gromacs.org/Documentation	molecular dynamics simulation	opensource
-gromacs-plumed	http://www.gromacs.org/Documentation	gromacs molecular dynamics simulation compiled with plumed free energy calculation	opensource
-gsl	http://www.gnu.org/software/gsl/	numerical C/C++ numerical library	opensource
-hadoop	http://hadoop.apache.org/	distributed processing of data sets across clusters using simple programming models	opensource
-hadoop-rdma	http://hibd.cse.ohio-state.edu/userguide/	exploit performance on modern clusters with RDMA-enabled interconnects for Big Data applications	opensource
-hdf5	http://www.hdfgroup.org/HDF5/doc/index.html	data model, library, and file format for storing and managing data	opensource
-healpix	http://healpix.jpl.nasa.gov/	pixelization of subdivision of spherical surface in which each pixel covers the same surface area as every other pixel	opensource
-hoomd	https://codeblue.umich.edu/hoomd-blue/doc/index.html	general-purpose particle simulation toolkit	opensource
-hpctoolkit	http://hpctoolkit.org/documentation.html	measurement and analysis of program performance on computers	opensource
-hpcviewer	http://hpctoolkit.org/man/hpcviewer.html	graphical user interface that interactively presents performance data from hpctoolkit	opensource
-ifrit	https://sites.google.com/site/ifrithome/Home/documentation	3D visualization software focused on cosmological simulations	opensource
-ipopt	https://projects.coin-or.org/Ipopt	large-scale non-linear optimization	opensource
-j3d	https://java3d.java.net/	3D API for Java	opensource
-jasper	http://www.ece.uvic.ca/~frodo/jasper/	reference implementation of the codec specified in the JPEG-2000 Part-1 standard	opensource
-java	https://www.oracle.com/java/index.html	programming language	opensource
-julia	http://julialang.org/	programming language	opensource
-jruby	http://jruby.org/documentation	implementation of Ruby programming language atop the Java Virtual Machine	opensource
-lammps	http://lammps.sandia.gov/doc/Manual.html	molecular dynamics simulation	opensource
-lammps-plumed	http://lammps.sandia.gov/doc/Manual.html	lammps molecular dynamics simulation compiled with plumed free energy calculation	opensource
-leveldb	https://github.com/rvagg/node-levelup/blob/master/README.md	key-value storage library	opensource
-libassp	http://libassp.sourceforge.net/toc.html	handling and analysis for speech signal files	opensource
-libint	https://github.com/evaleev/libint	evaluation of two-body molecular integrals over Gaussian functions and optimizing compiler	opensource 
-libspatialite	https://www.gaia-gis.it/fossil/libspatialite/index	extension of SQLite core with Spatial SQL capabilities	opensource
-libtool	https://www.gnu.org/software/libtool/manual/html_node/index.html	generic library support script	opensource
-mallet	http://mallet.cs.umass.edu/	machine learning applications to text	opensource
-maven	http://maven.apache.org/guides/index.html	software project management and comprehension tool	opensource
-mercurial	http://mercurial.selenic.com/guide	distributed version control system	opensource
-midway-hadoop	http://hadoop.apache.org/	create temporary hadoop cluster instance using midway compute nodes	opensource
-migrate-n	http://popgen.sc.fsu.edu/Migrate/Migrate-n.html	estimation of population size and gene flow	opensource
-Minuit2	http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/	tool for function minimization	opensource
-mono	http://www.mono-project.com/docs/	open source implementation of Microsoft's .NET Framework	opensource
-mosh	https://mosh.mit.edu/	connect to server from client to run remote terminal (like SSH)	opensource
-mpg123	http://www.mpg123.de/	MPEG audio player and decoder	opensource
-mpi4py	https://bitbucket.org/mpi4py/mpi4py	Python bindings for the Message Passing Interface (MPI) standard	opensource
-mpiblast	http://www.mpiblast.org/	improved implementation of NCBI BLAST, find homology in biological sequences	opensource
-mplayer	http://www.mplayerhq.hu/design7/documentation.html	media player	opensource
-mrbayes	http://mrbayes.sourceforge.net/manual.php	Bayesian inference and model choice for phylogenetic and evolutionary models	opensource
-mumps	http://mumps.enseeiht.fr/index.php?page=doc	parallel sparse direct solver	opensource
-mvapich2	http://mvapich.cse.ohio-state.edu/userguide/	MPI library	opensource
-namd	http://www.ks.uiuc.edu/Research/namd/	parallel molecular dynamics code for biomolecular system simulation	opensource
-ncl_ncarg	https://www.ncl.ucar.edu/index.shtml	interpreted language designed for data analysis and visualization	opensource
-nco	http://nco.sourceforge.net/	command-line programs for manipulation and analysis of netCDF-accessible formatted data	opensource
-ncview	http://meteora.ucsd.edu/~pierce/ncview_home_page.html	visual browser netCDF format files	opensource
-netcdf	http://www.unidata.ucar.edu/software/netcdf/docs/	software libraries and self-describing, machine-independent data formats	opensource
-node	http://nodejs.org/api/	framework for building network applications	opensource
-octave	https://www.gnu.org/software/octave/doc/interpreter/index.html	high-level language for numerical computations	opensource
-openbabel	http://openbabel.org/docs/current/	toolbox for using chemical data	opensource
-openblas	https://github.com/xianyi/OpenBLAS/wiki/Document	optimized BLAS library	opensource
-opencv	http://docs.opencv.org/	computer vision and machine learning software library	opensource
-openfoam	http://www.openfoam.org/docs/	C++ toolbox for developing customized numerical solvers, and pre-/post-processing utilities for solving continuum mechanics problems	opensource
-openmm	https://simtk.org/docman/?group_id=161	molecular simulation	opensource
-openmpi	http://www.open-mpi.org/doc/	MPI library	opensource
-papi	http://icl.cs.utk.edu/projects/papi/wiki/Main_Page	standard API for accessing hardware performance counters	opensource
-parallel	http://www.gnu.org/software/parallel/	shell tool for executing jobs in parallel	opensource
-paraview	http://www.paraview.org/documentation/	data analysis and scientific visualization	opensource
-pdtoolkit	http://www.cs.uoregon.edu/research/pdt/docs.php	framework for analyzing source code	opensource
-perl	https://www.perl.org/docs.html	programming language	opensource
-petsc	http://www.mcs.anl.gov/petsc/documentation/index.html	data analysis for scientific applications of partial differential equation models	opensource
-picrust	http://picrust.github.io/picrust/	bioinformatics software package designed to predict metagenome functional content	opensource
-pism	http://www.pism-docs.org/wiki/doku.php	ice sheet model	opensource
-postgresql	http://www.postgresql.org/docs/	client for postgres database server	opensource
-povray	http://www.povray.org/documentation/3.7.0/	ray tracing program which generates images from text-based scene	opensource
-plumed	http://www.plumed-code.org/documentation	library for free energy calculations in molecular systems	opensource
-praat	http://www.fon.hum.uva.nl/praat/	speech analysis/synthesis/manipulation	opensource
-prism	http://www.prismmodelchecker.org/doc/	probabilistic model checker	opensource
-proj	trac.osgeo.org/proj/	cartographic projections library	opensource
-proot	http://proot.me/	implement chroot functionality	opensource
-protobuf	https://github.com/google/protobuf/	serialize structured data	opensource
-pycelegans	https://github.com/labello/pycelegans	Parallel image processing code that identifies C. elegans in images	opensource
-pypy	http://doc.pypy.org/en/latest/	fast Python implementation	opensource
-python	https://www.python.org/doc/	programming language	opensource
-pyfftw	http://hgomersall.github.io/pyFFTW/	A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms.	opensource
-qd	http://crd-legacy.lbl.gov/~dhbailey/mpdist/	computational library	opensource
-qgis	http://www.qgis.org/en/docs/index.html	geographic information system	opensource
-qiime	http://qiime.org/documentation_index.html	microbial community analysis	opensource
-qt	http://qt-project.org/doc/	cross-platform application framework	opensource
-qwt	http://qwt.sourceforge.net/	Qt widgets for technical applications	opensource
-R	http://www.r-project.org/	programming language/environment for statistical computation and graphics	opensource
-rapsearch	https://github.com/zhaoyanswill/RAPSearch2	Reduced Alphabet based Protein similarity Search	opensource
-raxml	http://sco.h-its.org/exelixis/web/software/raxml/index.html	sequential and parallel Maximum Likelihood based inference of large phylogenetic trees	opensource
-ROOT	http://root.cern.ch/drupal/content/documentation	program library for particle physics data analysis	opensource
-rstudio	https://support.rstudio.com/hc/en-us/categories/200035113-Documentation	IDE for R	opensource
-ruby	https://www.ruby-lang.org/en/documentation/	programming language	opensource
-sdpa	http://sdpa.sourceforge.net/index.html	optimization algorithm	opensource
-sdpa-dd	http://sdpa.sourceforge.net/index.html	semidefinite programming algorithm	opensource
-sdpa-gmp	http://sdpa.sourceforge.net/index.html	semidefinite programming algorithm	opensource
-sdpa-qd	http://sdpa.sourceforge.net/index.html	semidefinite programming algorithm	opensource
-smlnj	http://www.smlnj.org/	compiler for Standard ML '97	opensource
-snack	http://www.speech.kth.se/snack/man/snack2.2/tcl-man.html	create audio applications with a scripting language	opensource
-sparsehash	http://google-sparsehash.googlecode.com/svn/trunk/doc/index.html	hash-map library implementation	opensource
-spatialindex	http://libspatialindex.github.io/	library for spatial indexing and queries	opensource
-spm	http://www.fil.ion.ucl.ac.uk/spm/doc/	statistical parametric mapping	opensource
-stanford-nlp	http://nlp.stanford.edu/software/corenlp.shtml	natural language processing	opensource
-subversion	https://subversion.apache.org/docs/	version control system	opensource
-SuiteSparse	http://faculty.cse.tamu.edu/davis/suitesparse.html	sparse matrix algorithms	opensource
-swift	http://swift-lang.org/main/	workflow scripting language	opensource
-swift-properties	http://swift-lang.org/main/	configuration for swift on Midway	opensource
-tcllib	http://core.tcl.tk/tcllib/doc/trunk/embedded/www/toc.html	Tcl-only library of standard routines for Tcl	opensource
-teem	http://teem.sourceforge.net/	scientific raster data visualization	opensource
-texinfo	http://www.gnu.org/software/texinfo/	official GNU documentation format	opensource
-texlive	https://www.tug.org/texlive/doc.html	TeX system starter pack	opensource
-tklib	http://core.tcl.tk/tklib/doc/trunk/embedded/www/toc.html	utility modules for Tk	opensource
-tree	http://mama.indstate.edu/users/ice/tree/tree.1.html	recursive directory listing command	opensource
-treepl	http://blackrim.org/programs/treepl/	phylogenetic penalized likelihood program	opensource
-uclust	http://drive5.com/usearch/manual/uclust_algo.html	clustering algorithm	opensource
-udunits	http://www.unidata.ucar.edu/software/udunits/	support package for units of physical quantities	opensource
-unrar	http://www.rarlab.com/rar_add.htm	.rar extraction	opensource
-usearch	http://www.drive5.com/usearch/manual/	sequence analysis tool	opensource
-valgrind	http://valgrind.org/docs/manual/	debugging and profiling tools, most commonly used to locate memory errors, including leaks, but also can be used to debug threaded codes and profile cache efficiency.	opensource
-valkyrie	http://valgrind.org/downloads/guis.html	GUI for Valgrind	opensource
-vim	http://www.vim.org/docs.php	text editor	opensource
-visit	https://wci.llnl.gov/simulation/computer-codes/visit/faqs	data visualization, animation, and analysis	opensource
-vmd	http://www.ks.uiuc.edu/Research/vmd/current/docs.html	molecular visualization program	opensource
-vtk	http://www.vtk.org/VTK/resources/resources.html	3D computer graphics, image processing, and visualization	opensource
-weka	http://www.cs.waikato.ac.nz/ml/weka/documentation.html	machine learning algorithms	opensource
-wgrib2	http://www.cpc.noaa.gov/products/wesley/wgrib2/	read and write grib2 files	opensource
-word2vec	https://code.google.com/p/word2vec/	computing vector representations of words	opensource
-wxwidgets	https://www.wxwidgets.org/docs/	C++ GUI library	opensource
-x264	http://www.videolan.org/developers/x264.html	application for encoding video streams into H.264/MPEG-4 AVC	opensource
-yasm	http://yasm.tortall.net/Guide.html	rewrite of NASM asembler	opensource
-yaz	http://www.indexdata.com/yaz/doc/	Z39.50/SRW/SRU client and server development toolkit	opensource
-yt	http://yt-project.org	visualization and analysis tool for cosmological data	opensource
-zlib	http://www.zlib.net/manual.html	compression library	opensource
+grib_api	GRIB-API	https://software.ecmwf.int/wiki/display/GRIB/Documentation	encoding and decoding WMO FM-92 GRIB edition 1 and edition 2 messages	opensource
+gromacs	Gromacs	http://www.gromacs.org/Documentation	molecular dynamics simulation	opensource
+gromacs-plumed	Gromacs compiled with PLUMED	http://www.gromacs.org/Documentation	gromacs molecular dynamics simulation compiled with plumed free energy calculation	opensource
+gsl	GNU Scientific Library (GSL)	http://www.gnu.org/software/gsl/	numerical C/C++ numerical library	opensource
+hadoop	Hadoop	http://hadoop.apache.org/	distributed processing of data sets across clusters using simple programming models	opensource
+hadoop-rdma	RDMA for Apache Hadoop	http://hibd.cse.ohio-state.edu/userguide/	exploit performance on modern clusters with RDMA-enabled interconnects for Big Data applications	opensource
+hdf5	HDF5	http://www.hdfgroup.org/HDF5/doc/index.html	data model, library, and file format for storing and managing data	opensource
+healpix	Hierarchical Equal Area isoLatitude Pixelization of a sphere (HEALPix)	http://healpix.jpl.nasa.gov/	pixelization of subdivision of spherical surface in which each pixel covers the same surface area as every other pixel	opensource
+hoomd	HOOMD-blue	https://codeblue.umich.edu/hoomd-blue/doc/index.html	general-purpose particle simulation toolkit	opensource
+hpctoolkit	HPCToolkit	http://hpctoolkit.org/documentation.html	measurement and analysis of program performance on computers	opensource
+hpcviewer	hpcviewer	http://hpctoolkit.org/man/hpcviewer.html	graphical user interface that interactively presents performance data from hpctoolkit	opensource
+ifrit	Ionization FRont Interactive Tool (IFrIT)	https://sites.google.com/site/ifrithome/Home/documentation	3D visualization software focused on cosmological simulations	opensource
+ipopt	Interior Point OPTimizer (Ipopt)	https://projects.coin-or.org/Ipopt	large-scale non-linear optimization	opensource
+j3d	Java 3D (j3d)	https://java3d.java.net/	3D API for Java	opensource
+jasper	JasPer	http://www.ece.uvic.ca/~frodo/jasper/	reference implementation of the codec specified in the JPEG-2000 Part-1 standard	opensource
+java	Java	https://www.oracle.com/java/index.html	programming language	opensource
+julia	Julia	http://julialang.org/	programming language	opensource
+jruby	JRuby	http://jruby.org/documentation	implementation of Ruby programming language atop the Java Virtual Machine	opensource
+lammps	Large-scale Atomic/Molecular Massively Parallel Simulator (LAMMPS)	http://lammps.sandia.gov/doc/Manual.html	molecular dynamics simulation	opensource
+lammps-plumed	LAMMPS compiled with PLUMED	http://lammps.sandia.gov/doc/Manual.html	lammps molecular dynamics simulation compiled with plumed free energy calculation	opensource
+leveldb	LevelDB	https://github.com/rvagg/node-levelup/blob/master/README.md	key-value storage library	opensource
+libassp	Advanced speech signal processor library (libassp)	http://libassp.sourceforge.net/toc.html	handling and analysis for speech signal files	opensource
+libint	Libint	https://github.com/evaleev/libint	evaluation of two-body molecular integrals over Gaussian functions and optimizing compiler	opensource 
+libspatialite	SpatiaLite	https://www.gaia-gis.it/fossil/libspatialite/index	extension of SQLite core with Spatial SQL capabilities	opensource
+libtool	GNU Libtool	https://www.gnu.org/software/libtool/manual/html_node/index.html	generic library support script	opensource
+mallet	MAchine Learning for LanguagE Toolkit (MALLET)	http://mallet.cs.umass.edu/	machine learning applications to text	opensource
+maven	Maven	http://maven.apache.org/guides/index.html	software project management and comprehension tool	opensource
+mercurial	Mercurial	http://mercurial.selenic.com/guide	distributed version control system	opensource
+midway-hadoop	Hadoop on Midway	http://hadoop.apache.org/	create temporary hadoop cluster instance using midway compute nodes	opensource
+migrate-n	Migrate-n	http://popgen.sc.fsu.edu/Migrate/Migrate-n.html	estimation of population size and gene flow	opensource
+Minuit2	MINUIT2	http://seal.web.cern.ch/seal/snapshot/work-packages/mathlibs/minuit/	tool for function minimization	opensource
+mono	Mono	http://www.mono-project.com/docs/	open source implementation of Microsoft's .NET Framework	opensource
+mosh	Mobile shell (Mosh)	https://mosh.mit.edu/	connect to server from client to run remote terminal (like SSH)	opensource
+mpfr	GNU MPFR Library (MPFR)	http://www.mpfr.org	A C library for multiple-precision floating-point computations	opensource
+mpg123	mpg123	http://www.mpg123.de/	MPEG audio player and decoder	opensource
+mpi4py	MPI for Python (mpi4py)	https://bitbucket.org/mpi4py/mpi4py	Python bindings for the Message Passing Interface (MPI) standard	opensource
+mpiblast	mpiBLAST	http://www.mpiblast.org/	improved implementation of NCBI BLAST, find homology in biological sequences	opensource
+mplayer	MPlayer	http://www.mplayerhq.hu/design7/documentation.html	media player	opensource
+mrbayes	MrBayes	http://mrbayes.sourceforge.net/manual.php	Bayesian inference and model choice for phylogenetic and evolutionary models	opensource
+mumps	MUltifrontal Massively Parallel sparse direct Solver (MUMPS)	http://mumps.enseeiht.fr/index.php?page=doc	parallel sparse direct solver	opensource
+mvapich2	MVAPICH2	http://mvapich.cse.ohio-state.edu/userguide/	MPI library	opensource
+namd	NAMD	http://www.ks.uiuc.edu/Research/namd/	parallel molecular dynamics code for biomolecular system simulation	opensource
+ncl_ncarg	NCAR Command Language (NCL)	https://www.ncl.ucar.edu/index.shtml	interpreted language designed for data analysis and visualization	opensource
+nco	netCDF Operator (NCO)	http://nco.sourceforge.net/	command-line programs for manipulation and analysis of netCDF-accessible formatted data	opensource
+ncview	Ncview	http://meteora.ucsd.edu/~pierce/ncview_home_page.html	visual browser netCDF format files	opensource
+netcdf	netCDF	http://www.unidata.ucar.edu/software/netcdf/docs/	software libraries and self-describing, machine-independent data formats	opensource
+node	Node.js	http://nodejs.org/api/	framework for building network applications	opensource
+nwchem	NWChem	http://www.nwchem-sw.org/	Software toolkit for computational chemistry	opensource
+octave	GNU Octave	https://www.gnu.org/software/octave/doc/interpreter/index.html	high-level language for numerical computations	opensource
+openbabel	Open Babel	http://openbabel.org/docs/current/	toolbox for using chemical data	opensource
+openblas	OpenBLAS	https://github.com/xianyi/OpenBLAS/wiki/Document	optimized BLAS library	opensource
+opencv	OpenCV	http://docs.opencv.org/	computer vision and machine learning software library	opensource
+openfoam	OpenFOAM	http://www.openfoam.org/docs/	C++ toolbox for developing customized numerical solvers, and pre-/post-processing utilities for solving continuum mechanics problems	opensource
+openmm	OpenMM	https://simtk.org/docman/?group_id=161	molecular simulation	opensource
+openmpi	OpenMPI	http://www.open-mpi.org/doc/	MPI library	opensource
+orca	ORCA	http://cec.mpg.de/forum/	a general purpose tool for quantum chemistry with emphasis on spectroscopic properties of open-shell molecules	non-commercial
+papi	PAPI	http://icl.cs.utk.edu/projects/papi/wiki/Main_Page	standard API for accessing hardware performance counters	opensource
+parallel	GNU Parallel	http://www.gnu.org/software/parallel/	shell tool for executing jobs in parallel	opensource
+paraview	ParaView	http://www.paraview.org/documentation/	data analysis and scientific visualization	opensource
+pdtoolkit	Program Database Toolkit (PDT)	http://www.cs.uoregon.edu/research/pdt/docs.php	framework for analyzing source code	opensource
+perl	Perl	https://www.perl.org/docs.html	programming language	opensource
+petsc	PETSc	http://www.mcs.anl.gov/petsc/documentation/index.html	data analysis for scientific applications of partial differential equation models	opensource
+picrust	PICRUSt	http://picrust.github.io/picrust/	bioinformatics software package designed to predict metagenome functional content	opensource
+pism	Parallel Ice Sheet Model (PISM)	http://www.pism-docs.org/wiki/doku.php	ice sheet model	opensource
+postgresql	PostgreSQL	http://www.postgresql.org/docs/	client for postgres database server	opensource
+povray	POV-Ray	http://www.povray.org/documentation/3.7.0/	ray tracing program which generates images from text-based scene	opensource
+plumed	PLUMED	http://www.plumed-code.org/documentation	library for free energy calculations in molecular systems	opensource
+praat	Praat	http://www.fon.hum.uva.nl/praat/	speech analysis/synthesis/manipulation	opensource
+prism	PRISM	http://www.prismmodelchecker.org/doc/	probabilistic model checker	opensource
+proj	PROJ.4	http://trac.osgeo.org/proj/	cartographic projections library	opensource
+proot	PRoot	http://proot.me/	implement chroot functionality	opensource
+protobuf	Google Protcol Buffers	https://developers.google.com/protocol-buffers/	serialize structured data	opensource
+psi	PSI4	http://www.psicode.org/	suite of ab initio quantum chemistry programs	opensource
+pycelegans	pycelegans	https://github.com/labello/pycelegans	Parallel image processing code that identifies C. elegans in images	opensource
+pypy	PyPy	http://doc.pypy.org/en/latest/	fast Python implementation	opensource
+python	Python	https://www.python.org/doc/	programming language	opensource
+pyfftw	pyFFTW	http://hgomersall.github.io/pyFFTW/	A pythonic wrapper around FFTW, the FFT library, presenting a unified interface for all the supported transforms.	opensource
+qd	QD	http://crd-legacy.lbl.gov/~dhbailey/mpdist/	computational library	opensource
+qgis	QGIS	http://www.qgis.org/en/docs/index.html	geographic information system	opensource
+qiime	QIIME	http://qiime.org/documentation_index.html	microbial community analysis	opensource
+qt	QT	http://qt-project.org/doc/	cross-platform application framework	opensource
+qwt	Qt Widgets for Technical Applications (QWT)	http://qwt.sourceforge.net/	Qt widgets for technical applications	opensource
+R	R	http://www.r-project.org/	programming language/environment for statistical computation and graphics	opensource
+rapsearch	RAPSearch	https://github.com/zhaoyanswill/RAPSearch2	Reduced Alphabet based Protein similarity Search	opensource
+raxml	Randomized Axelerated Maximum Likelihood (RAxML)	http://sco.h-its.org/exelixis/web/software/raxml/index.html	sequential and parallel Maximum Likelihood based inference of large phylogenetic trees	opensource
+ROOT	ROOT	http://root.cern.ch/drupal/content/documentation	program library for particle physics data analysis	opensource
+rstudio	RStudio	https://support.rstudio.com/hc/en-us/categories/200035113-Documentation	IDE for R	opensource
+ruby	Ruby	https://www.ruby-lang.org/en/documentation/	programming language	opensource
+sdpa	SemiDefinite Programming Algorithm (SDPA)	http://sdpa.sourceforge.net/index.html	optimization algorithm	opensource
+sdpa-dd	SemiDefinite Programming Algorithm Double-Double (SDPA-DD)	http://sdpa.sourceforge.net/index.html	semidefinite programming with pseudo double-double precision arithmetic	opensource
+sdpa-gmp	SemiDefinite Programming Algorithm (SDPA-GMP)	http://sdpa.sourceforge.net/index.html	semidefinite programming with arbitrary precision arithmetic	opensource
+sdpa-qd	SemiDefinite Programming Algorithm Quad-Double (SDPA-QD)	http://sdpa.sourceforge.net/index.html	semidefinite programming with pseudo quad-double precision arithmetic	opensource
+smlnj	Standard ML of New Jersey (SML/NJ)	http://www.smlnj.org/	compiler for Standard ML '97	opensource
+snack	Snack	http://www.speech.kth.se/snack/man/snack2.2/tcl-man.html	create audio applications with a scripting language	opensource
+sparsehash	Google Sparsehash	http://google-sparsehash.googlecode.com/svn/trunk/doc/index.html	hash-map library implementation	opensource
+spatialindex	libspatialindex	http://libspatialindex.github.io/	library for spatial indexing and queries	opensource
+spm	SPM	http://www.fil.ion.ucl.ac.uk/spm/doc/	statistical parametric mapping	opensource
+stanford-nlp	Stanford Natural Language Processing (CoreNLP)	http://nlp.stanford.edu/software/corenlp.shtml	natural language processing	opensource
+subversion	Subversion	https://subversion.apache.org/docs/	version control system	opensource
+SuiteSparse	SuiteSparse	http://faculty.cse.tamu.edu/davis/suitesparse.html	sparse matrix algorithms	opensource
+swift	Swift	http://swift-lang.org/main/	workflow scripting language	opensource
+swift-conf	swift-conf	http://swift-lang.org/main/	configuration for swift on Midway	opensource
+tcllib	Tcl Library	http://core.tcl.tk/tcllib/home	library of standard routines for Tcl	opensource
+teem	Teem	http://teem.sourceforge.net/	scientific raster data visualization	opensource
+texinfo	Texinfo	http://www.gnu.org/software/texinfo/	official GNU documentation format	opensource
+texlive	TeX Live	https://www.tug.org/texlive/doc.html	TeX typesetting system	opensource
+tklib	Tk Library	http://core.tcl.tk/tklib/home	utility modules for Tcl	opensource
+tree	Tree	http://mama.indstate.edu/users/ice/tree/tree.1.html	recursive directory listing command	opensource
+treepl	treePL	http://blackrim.org/programs/treepl/	phylogenetic penalized likelihood program	opensource
+uclust	UCLUST	http://drive5.com/usearch/manual/uclust_algo.html	clustering algorithm	opensource
+udunits	UDUNITS	http://www.unidata.ucar.edu/software/udunits/	support package for units of physical quantities	opensource
+unrar	UnRAR	http://www.rarlab.com/rar_add.htm	utility for extracting rar format archives	opensource
+usearch	USEARCH	http://www.drive5.com/usearch/manual/	sequence analysis tool	opensource
+valgrind	Valgrind	http://valgrind.org/docs/manual/	debugging and profiling tools, most commonly used to locate memory errors, including leaks, but also can be used to debug threaded codes and profile cache efficiency.	opensource
+valkyrie	Valkyrie	http://valgrind.org/downloads/guis.html	GUI for analyzing output from Valgrind tools	opensource
+vim	Vim	http://www.vim.org/docs.php	text editor	opensource
+visit	VisIt	https://wci.llnl.gov/simulation/computer-codes/visit/faqs	data visualization, animation, and analysis	opensource
+vmd	VMD	http://www.ks.uiuc.edu/Research/vmd/current/docs.html	molecular visualization program	opensource
+vtk	Visualization Toolkit (VTK)	http://www.vtk.org/VTK/resources/resources.html	3D computer graphics, image processing, and visualization	opensource
+weka	Weka	http://www.cs.waikato.ac.nz/ml/weka/documentation.html	machine learning algorithms	opensource
+wgrib2	wgrib2	http://www.cpc.noaa.gov/products/wesley/wgrib2/	read and write grib2 files	opensource
+word2vec	word2vec	https://code.google.com/p/word2vec/	computing vector representations of words	opensource
+wxwidgets	wxWidgets	https://www.wxwidgets.org/docs/	cross-platrform GUI library	opensource
+x264	x264	http://www.videolan.org/developers/x264.html	application for encoding video streams into H.264/MPEG-4 AVC	opensource
+xerces	Xerces	http://xerces.apache.org	a C++ XML parsing library	opensource
+yasm	Yasm	http://www.tortall.net/projects/yasm/manual/html/index.html	x86 assembler	opensource
+yaz	YAZ	http://www.indexdata.com/yaz/doc/	Z39.50/SRW/SRU client and server development toolkit	opensource
+yt	yt	http://yt-project.org	visualization and analysis tool for cosmological data	opensource
+zlib	zlib	http://www.zlib.net/manual.html	compression library	opensource
+bwa	Bwakit	https://github.com/lh3/bwa/tree/master/bwakit	Burrow-Wheeler Aligner for pairwise alignment between DNA sequences	opensource
