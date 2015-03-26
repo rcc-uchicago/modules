@@ -16,12 +16,12 @@ We're parsing logs of module loads daily to files located in `/project/rcc/usage
 
 The last three columns are the machine the module was loaded on (`midway001`), the user who loaded it (`sdjacobs`), and the module. The first column is the number of times that user loaded it on that machine (typically not very useful, since it could be a user's jobs or repeated logging in).
 
-Below are a few potentially useful commands for accessing the data interactively.
+Below are a few example scripts potentially useful for a quick analyses of these log files.
 
 
 #### [`ex-1.sh`](ex-1.sh)
 
-List users who loaded the gcc/4.8 module yesterday:
+List users who loaded the `gcc/4.8` module yesterday:
 
     MODULE=gcc/4.8
     DATE=`date --date yesterday "+%Y%m%d"`
